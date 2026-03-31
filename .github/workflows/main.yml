@@ -2,7 +2,8 @@ name: Update Football Matches
 
 on:
   schedule:
-        - cron: '0 4 * * *'
+    # يعمل كل 15 دقيقة لتحديث النتائج والحالات المباشرة طوال اليوم (يستهلك 96 طلب يومياً)
+    - cron: '*/15 * * * *'
   workflow_dispatch: 
 
 jobs:
@@ -20,8 +21,9 @@ jobs:
         with:
           python-version: '3.x'
 
-      - name: Install requests library
-        run: pip install requests
+      - name: Install dependencies
+        # تم إضافة pytz هنا لكي لا يفشل سكريبت البايثون
+        run: pip install requests pytz
 
       - name: Run Scraper Script
         env:
