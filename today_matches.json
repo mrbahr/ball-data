@@ -13036,9 +13036,9 @@
                 "city": "Zenica"
             },
             "status": {
-                "long": "Extra Time",
-                "short": "ET",
-                "elapsed": 104,
+                "long": "Match Finished",
+                "short": "PEN",
+                "elapsed": 120,
                 "extra": null
             }
         },
@@ -13057,13 +13057,13 @@
                 "id": 1113,
                 "name": "Bosnia & Herzegovina",
                 "logo": "https://media.api-sports.io/football/teams/1113.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 768,
                 "name": "Italy",
                 "logo": "https://media.api-sports.io/football/teams/768.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
@@ -13084,8 +13084,8 @@
                 "away": 0
             },
             "penalty": {
-                "home": null,
-                "away": null
+                "home": 4,
+                "away": 1
             }
         }
     },
@@ -13106,9 +13106,9 @@
                 "city": "Prague"
             },
             "status": {
-                "long": "Extra Time",
-                "short": "ET",
-                "elapsed": 108,
+                "long": "Match Finished",
+                "short": "PEN",
+                "elapsed": 120,
                 "extra": null
             }
         },
@@ -13138,7 +13138,7 @@
         },
         "goals": {
             "home": 2,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -13151,11 +13151,11 @@
             },
             "extratime": {
                 "home": 1,
-                "away": 0
+                "away": 1
             },
             "penalty": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 1
             }
         }
     },
@@ -13666,10 +13666,10 @@
                 "city": "Diamniadio"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 89,
-                "extra": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": 6
             }
         },
         "league": {
@@ -13697,7 +13697,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 1
         },
         "score": {
@@ -13706,8 +13706,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -13876,10 +13876,10 @@
                 "city": "Valladolid"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 69,
-                "extra": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": 4
             }
         },
         "league": {
@@ -13907,7 +13907,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -13916,8 +13916,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -13938,7 +13938,7 @@
             "timestamp": 1774987200,
             "periods": {
                 "first": 1774987200,
-                "second": null
+                "second": 1774990800
             },
             "venue": {
                 "id": null,
@@ -13946,10 +13946,10 @@
                 "city": "Piedecuesta"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 3
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90,
+                "extra": 5
             }
         },
         "league": {
@@ -13977,8 +13977,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -14008,7 +14008,7 @@
             "timestamp": 1774987200,
             "periods": {
                 "first": 1774987200,
-                "second": null
+                "second": 1774990800
             },
             "venue": {
                 "id": null,
@@ -14016,10 +14016,10 @@
                 "city": null
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 3
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90,
+                "extra": 4
             }
         },
         "league": {
@@ -14037,17 +14037,17 @@
                 "id": 1145,
                 "name": "Tigres FC",
                 "logo": "https://media.api-sports.io/football/teams/1145.png",
-                "winner": false
+                "winner": true
             },
             "away": {
                 "id": 1466,
                 "name": "Barranquilla",
                 "logo": "https://media.api-sports.io/football/teams/1466.png",
-                "winner": true
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 3,
             "away": 1
         },
         "score": {
@@ -14086,9 +14086,9 @@
                 "city": "Envigado"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90,
                 "extra": null
             }
         },
@@ -14107,17 +14107,17 @@
                 "id": 15725,
                 "name": "Independiente Medellín W",
                 "logo": "https://media.api-sports.io/football/teams/15725.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 15724,
                 "name": "Deportivo Pasto W",
                 "logo": "https://media.api-sports.io/football/teams/15724.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 3,
             "away": 1
         },
         "score": {
@@ -14156,9 +14156,9 @@
                 "city": null
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
+                "long": "Match Interrupted",
+                "short": "INT",
+                "elapsed": null,
                 "extra": 1
             }
         },
@@ -14226,10 +14226,10 @@
                 "city": "Santiago de Chile"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 2,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 3
             }
         },
         "league": {
@@ -14247,12 +14247,82 @@
                 "id": 2329,
                 "name": "A. Italiano",
                 "logo": "https://media.api-sports.io/football/teams/2329.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 2323,
                 "name": "Universidad de Chile",
                 "logo": "https://media.api-sports.io/football/teams/2323.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 2
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1537582,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-03-31T21:00:00+00:00",
+            "timestamp": 1774990800,
+            "periods": {
+                "first": 1774990800,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Estadio Akron",
+                "city": "Zapopan"
+            },
+            "status": {
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 4
+            }
+        },
+        "league": {
+            "id": 37,
+            "name": "World Cup - Qualification Intercontinental Play-offs",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/37.png",
+            "flag": null,
+            "season": 2026,
+            "round": "Final",
+            "standings": false
+        },
+        "teams": {
+            "home": {
+                "id": 1508,
+                "name": "Congo DR",
+                "logo": "https://media.api-sports.io/football/teams/1508.png",
+                "winner": null
+            },
+            "away": {
+                "id": 2385,
+                "name": "Jamaica",
+                "logo": "https://media.api-sports.io/football/teams/2385.png",
                 "winner": null
             }
         },
@@ -14281,83 +14351,13 @@
     },
     {
         "fixture": {
-            "id": 1537582,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-03-31T21:00:00+00:00",
-            "timestamp": 1774990800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Estadio Akron",
-                "city": "Zapopan"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 37,
-            "name": "World Cup - Qualification Intercontinental Play-offs",
-            "country": "World",
-            "logo": "https://media.api-sports.io/football/leagues/37.png",
-            "flag": null,
-            "season": 2026,
-            "round": "Final",
-            "standings": false
-        },
-        "teams": {
-            "home": {
-                "id": 1508,
-                "name": "Congo DR",
-                "logo": "https://media.api-sports.io/football/teams/1508.png",
-                "winner": null
-            },
-            "away": {
-                "id": 2385,
-                "name": "Jamaica",
-                "logo": "https://media.api-sports.io/football/teams/2385.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 1505037,
             "referee": "Jose Mendez, Paraguay",
             "timezone": "UTC",
             "date": "2026-03-31T21:30:00+00:00",
             "timestamp": 1774992600,
             "periods": {
-                "first": null,
+                "first": 1774992600,
                 "second": null
             },
             "venue": {
@@ -14366,9 +14366,9 @@
                 "city": "Pedro Juan Caballero"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 23,
                 "extra": null
             }
         },
@@ -14397,13 +14397,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -14427,7 +14427,7 @@
             "date": "2026-03-31T21:30:00+00:00",
             "timestamp": 1774992600,
             "periods": {
-                "first": null,
+                "first": 1774992600,
                 "second": null
             },
             "venue": {
@@ -14436,9 +14436,9 @@
                 "city": "Caxias do Sul"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 23,
                 "extra": null
             }
         },
@@ -14467,13 +14467,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -14492,7 +14492,7 @@
     {
         "fixture": {
             "id": 1520614,
-            "referee": null,
+            "referee": "Andre Luis Skettino Policarpo Bento, Brazil",
             "timezone": "UTC",
             "date": "2026-03-31T22:00:00+00:00",
             "timestamp": 1774994400,
@@ -14502,7 +14502,7 @@
             },
             "venue": {
                 "id": null,
-                "name": null,
+                "name": "Estádio Governador Plácido Castelo",
                 "city": "Fortaleza"
             },
             "status": {
