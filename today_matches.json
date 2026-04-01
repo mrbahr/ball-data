@@ -708,7 +708,7 @@
             "timestamp": 1775032200,
             "periods": {
                 "first": 1775032200,
-                "second": null
+                "second": 1775035800
             },
             "venue": {
                 "id": null,
@@ -716,9 +716,9 @@
                 "city": null
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 6,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 51,
                 "extra": null
             }
         },
@@ -737,23 +737,23 @@
                 "id": 23517,
                 "name": "Canberra Juventus",
                 "logo": "https://media.api-sports.io/football/teams/23517.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 1450,
                 "name": "Canberra Olympic",
                 "logo": "https://media.api-sports.io/football/teams/1450.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -777,7 +777,7 @@
             "date": "2026-04-01T09:00:00+00:00",
             "timestamp": 1775034000,
             "periods": {
-                "first": null,
+                "first": 1775034000,
                 "second": null
             },
             "venue": {
@@ -786,10 +786,10 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 1
             }
         },
         "league": {
@@ -817,13 +817,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -847,7 +847,7 @@
             "date": "2026-04-01T09:00:00+00:00",
             "timestamp": 1775034000,
             "periods": {
-                "first": null,
+                "first": 1775034000,
                 "second": null
             },
             "venue": {
@@ -856,10 +856,10 @@
                 "city": "Vladivostok"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 4
             }
         },
         "league": {
@@ -877,23 +877,23 @@
                 "id": 16856,
                 "name": "Dinamo Vladivostok",
                 "logo": "https://media.api-sports.io/football/teams/16856.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 14139,
                 "name": "Dinamo Moskva II",
                 "logo": "https://media.api-sports.io/football/teams/14139.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -917,7 +917,7 @@
             "date": "2026-04-01T09:00:00+00:00",
             "timestamp": 1775034000,
             "periods": {
-                "first": null,
+                "first": 1775034000,
                 "second": null
             },
             "venue": {
@@ -926,10 +926,10 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 4
             }
         },
         "league": {
@@ -947,23 +947,23 @@
                 "id": 23209,
                 "name": "China PR U20 W",
                 "logo": "https://media.api-sports.io/football/teams/23209.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 23208,
                 "name": "Vietnam U20 W",
                 "logo": "https://media.api-sports.io/football/teams/23208.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -1051,6 +1051,76 @@
     },
     {
         "fixture": {
+            "id": 1503212,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-01T10:00:00+00:00",
+            "timestamp": 1775037600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 17",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 10007,
+                "name": "Rangers",
+                "logo": "https://media.api-sports.io/football/teams/10007.png",
+                "winner": null
+            },
+            "away": {
+                "id": 26885,
+                "name": "FC Mk de Kinshasa",
+                "logo": "https://media.api-sports.io/football/teams/26885.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1504751,
             "referee": null,
             "timezone": "UTC",
@@ -1062,8 +1132,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Machida GION Stadium",
-                "city": "Machida"
+                "name": "Machida Stadium",
+                "city": "Tokyo"
             },
             "status": {
                 "long": "Not Started",
@@ -1132,7 +1202,7 @@
             },
             "venue": {
                 "id": null,
-                "name": "Noevir Stadium",
+                "name": "Noevir Stadium Kobe",
                 "city": "Kobe"
             },
             "status": {
@@ -1723,6 +1793,76 @@
                 "id": 15955,
                 "name": "Lyn W",
                 "logo": "https://media.api-sports.io/football/teams/15955.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1503267,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-01T12:00:00+00:00",
+            "timestamp": 1775044800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 24105,
+                "name": "Anges Verts",
+                "logo": "https://media.api-sports.io/football/teams/24105.png",
+                "winner": null
+            },
+            "away": {
+                "id": 8064,
+                "name": "Maniema Union",
+                "logo": "https://media.api-sports.io/football/teams/8064.png",
                 "winner": null
             }
         },
@@ -6511,6 +6651,76 @@
     },
     {
         "fixture": {
+            "id": 1503373,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-01T14:00:00+00:00",
+            "timestamp": 1775052000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 29",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 24108,
+                "name": "New Jack",
+                "logo": "https://media.api-sports.io/football/teams/24108.png",
+                "winner": null
+            },
+            "away": {
+                "id": 6437,
+                "name": "Vita Club",
+                "logo": "https://media.api-sports.io/football/teams/6437.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1513385,
             "referee": null,
             "timezone": "UTC",
@@ -7211,6 +7421,76 @@
     },
     {
         "fixture": {
+            "id": 1512822,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-01T15:00:00+00:00",
+            "timestamp": 1775055600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Military Stadium",
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 411,
+            "name": "Elite One",
+            "country": "Cameroon",
+            "logo": "https://media.api-sports.io/football/leagues/411.png",
+            "flag": "https://media.api-sports.io/flags/cm.svg",
+            "season": 2026,
+            "round": "Regular Season - 7",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 5400,
+                "name": "Colombe",
+                "logo": "https://media.api-sports.io/football/teams/5400.png",
+                "winner": null
+            },
+            "away": {
+                "id": 5409,
+                "name": "PWD Bamenda",
+                "logo": "https://media.api-sports.io/football/teams/5409.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1513383,
             "referee": null,
             "timezone": "UTC",
@@ -7646,8 +7926,8 @@
                 "city": "Kotka"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Match Postponed",
+                "short": "PST",
                 "elapsed": null,
                 "extra": null
             }
@@ -8093,76 +8373,6 @@
                 "id": 14454,
                 "name": "Čarda Martjanci",
                 "logo": "https://media.api-sports.io/football/teams/14454.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1512822,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-01T16:00:00+00:00",
-            "timestamp": 1775059200,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Military Stadium",
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 411,
-            "name": "Elite One",
-            "country": "Cameroon",
-            "logo": "https://media.api-sports.io/football/leagues/411.png",
-            "flag": "https://media.api-sports.io/flags/cm.svg",
-            "season": 2026,
-            "round": "Regular Season - 7",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 5400,
-                "name": "Colombe",
-                "logo": "https://media.api-sports.io/football/teams/5400.png",
-                "winner": null
-            },
-            "away": {
-                "id": 5409,
-                "name": "PWD Bamenda",
-                "logo": "https://media.api-sports.io/football/teams/5409.png",
                 "winner": null
             }
         },
