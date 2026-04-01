@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 1501817,
-            "referee": null,
+            "referee": "A. Villarreal",
             "timezone": "UTC",
             "date": "2026-04-01T00:00:00+00:00",
             "timestamp": 1775001600,
@@ -492,7 +492,7 @@
     {
         "fixture": {
             "id": 1514471,
-            "referee": null,
+            "referee": "R. Mendoza",
             "timezone": "UTC",
             "date": "2026-04-01T01:00:00+00:00",
             "timestamp": 1775005200,
@@ -707,7 +707,7 @@
             "date": "2026-04-01T08:30:00+00:00",
             "timestamp": 1775032200,
             "periods": {
-                "first": null,
+                "first": 1775032200,
                 "second": null
             },
             "venue": {
@@ -716,9 +716,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 6,
                 "extra": null
             }
         },
@@ -747,13 +747,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -15696,8 +15696,8 @@
                 "city": "Kingston"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Match Postponed",
+                "short": "PST",
                 "elapsed": null,
                 "extra": null
             }
@@ -15766,8 +15766,8 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Match Postponed",
+                "short": "PST",
                 "elapsed": null,
                 "extra": null
             }
