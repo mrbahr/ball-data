@@ -26546,9 +26546,9 @@
                 "city": "Lyon"
             },
             "status": {
-                "long": "Extra Time",
-                "short": "ET",
-                "elapsed": 114,
+                "long": "Match Finished",
+                "short": "AET",
+                "elapsed": 120,
                 "extra": null
             }
         },
@@ -26577,7 +26577,7 @@
             }
         },
         "goals": {
-            "home": 3,
+            "home": 4,
             "away": 0
         },
         "score": {
@@ -26590,7 +26590,7 @@
                 "away": 0
             },
             "extratime": {
-                "home": 2,
+                "home": 3,
                 "away": 0
             },
             "penalty": {
@@ -26678,7 +26678,7 @@
             "timestamp": 1775161800,
             "periods": {
                 "first": 1775161800,
-                "second": null
+                "second": 1775165400
             },
             "venue": {
                 "id": null,
@@ -26686,10 +26686,10 @@
                 "city": "Buenos Aires"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 2
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 72,
+                "extra": null
             }
         },
         "league": {
@@ -26748,7 +26748,7 @@
             "timestamp": 1775161800,
             "periods": {
                 "first": 1775161800,
-                "second": null
+                "second": 1775165400
             },
             "venue": {
                 "id": null,
@@ -26756,10 +26756,10 @@
                 "city": null
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 9
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66,
+                "extra": null
             }
         },
         "league": {
@@ -26818,7 +26818,7 @@
             "timestamp": 1775161800,
             "periods": {
                 "first": 1775161800,
-                "second": null
+                "second": 1775165400
             },
             "venue": {
                 "id": null,
@@ -26826,10 +26826,10 @@
                 "city": "Quito"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 4
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 67,
+                "extra": null
             }
         },
         "league": {
@@ -26847,17 +26847,17 @@
                 "id": 16476,
                 "name": "Cumbayá",
                 "logo": "https://media.api-sports.io/football/teams/16476.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 21103,
                 "name": "Cuniburo",
                 "logo": "https://media.api-sports.io/football/teams/21103.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
@@ -26896,10 +26896,10 @@
                 "city": "Jutiapa"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 24,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 3
             }
         },
         "league": {
@@ -26917,23 +26917,23 @@
                 "id": 3636,
                 "name": "Achuapa",
                 "logo": "https://media.api-sports.io/football/teams/3636.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 3665,
                 "name": "Municipal",
                 "logo": "https://media.api-sports.io/football/teams/3665.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -26966,10 +26966,10 @@
                 "city": "Santiago"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 27,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 3
             }
         },
         "league": {
@@ -26987,22 +26987,22 @@
                 "id": 2994,
                 "name": "U. Catolica",
                 "logo": "https://media.api-sports.io/football/teams/2994.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2318,
                 "name": "Palestino",
                 "logo": "https://media.api-sports.io/football/teams/2318.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
         },
         "score": {
             "halftime": {
-                "home": 1,
+                "home": 2,
                 "away": 1
             },
             "fulltime": {
@@ -27036,10 +27036,10 @@
                 "city": null
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 26,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 2
             }
         },
         "league": {
@@ -27106,10 +27106,10 @@
                 "city": "La Paz"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 27,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 4
             }
         },
         "league": {
@@ -27178,8 +27178,8 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 17,
-                "extra": null
+                "elapsed": 45,
+                "extra": 3
             }
         },
         "league": {
