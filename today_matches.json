@@ -1416,10 +1416,10 @@
                 "city": null
             },
             "status": {
-                "long": "Break Time",
-                "short": "BT",
-                "elapsed": null,
-                "extra": 5
+                "long": "Match Finished",
+                "short": "AET",
+                "elapsed": 120,
+                "extra": null
             }
         },
         "league": {
@@ -1437,18 +1437,18 @@
                 "id": 4007,
                 "name": "Orange County SC",
                 "logo": "https://media.api-sports.io/football/teams/4007.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 4009,
                 "name": "Phoenix Rising",
                 "logo": "https://media.api-sports.io/football/teams/4009.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -1456,12 +1456,12 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "penalty": {
                 "home": null,
@@ -1478,7 +1478,7 @@
             "timestamp": 1775098800,
             "periods": {
                 "first": 1775098800,
-                "second": null
+                "second": 1775102400
             },
             "venue": {
                 "id": null,
@@ -1486,10 +1486,10 @@
                 "city": "Santiago"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 3
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": null
             }
         },
         "league": {
@@ -1517,7 +1517,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -1526,8 +1526,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "extratime": {
                 "home": null,
