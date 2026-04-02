@@ -26336,10 +26336,10 @@
                 "city": "Cambridge"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90,
-                "extra": 2
+                "extra": 8
             }
         },
         "league": {
@@ -26376,8 +26376,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -26406,10 +26406,10 @@
                 "city": "Tunja"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90,
-                "extra": 2
+                "extra": 5
             }
         },
         "league": {
@@ -26446,8 +26446,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -26476,10 +26476,10 @@
                 "city": "Rabat"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 89,
-                "extra": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": 7
             }
         },
         "league": {
@@ -26516,8 +26516,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -26546,10 +26546,10 @@
                 "city": "Lyon"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 90,
-                "extra": 5
+                "long": "Extra Time",
+                "short": "ET",
+                "elapsed": 114,
+                "extra": null
             }
         },
         "league": {
@@ -26577,7 +26577,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -26586,12 +26586,12 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "penalty": {
                 "home": null,
@@ -26616,10 +26616,10 @@
                 "city": "Leganes"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 62,
-                "extra": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": 4
             }
         },
         "league": {
@@ -26656,8 +26656,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -26686,10 +26686,10 @@
                 "city": "Buenos Aires"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 2
             }
         },
         "league": {
@@ -26707,23 +26707,23 @@
                 "id": 452,
                 "name": "Tigre",
                 "logo": "https://media.api-sports.io/football/teams/452.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 473,
                 "name": "Independ. Rivadavia",
                 "logo": "https://media.api-sports.io/football/teams/473.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -26747,7 +26747,7 @@
             "date": "2026-04-02T20:30:00+00:00",
             "timestamp": 1775161800,
             "periods": {
-                "first": null,
+                "first": 1775161800,
                 "second": null
             },
             "venue": {
@@ -26756,10 +26756,10 @@
                 "city": null
             },
             "status": {
-                "long": "Match Postponed",
-                "short": "PST",
-                "elapsed": null,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 9
             }
         },
         "league": {
@@ -26777,23 +26777,23 @@
                 "id": 26495,
                 "name": "Spanish Town Police",
                 "logo": "https://media.api-sports.io/football/teams/26495.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 3442,
                 "name": "Mount Pleasant Academy",
                 "logo": "https://media.api-sports.io/football/teams/3442.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -26826,10 +26826,10 @@
                 "city": "Quito"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 22,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 4
             }
         },
         "league": {
@@ -26887,7 +26887,7 @@
             "date": "2026-04-02T21:00:00+00:00",
             "timestamp": 1775163600,
             "periods": {
-                "first": null,
+                "first": 1775163600,
                 "second": null
             },
             "venue": {
@@ -26896,9 +26896,9 @@
                 "city": "Jutiapa"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 24,
                 "extra": null
             }
         },
@@ -26927,13 +26927,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -26957,7 +26957,7 @@
             "date": "2026-04-02T21:00:00+00:00",
             "timestamp": 1775163600,
             "periods": {
-                "first": null,
+                "first": 1775163600,
                 "second": null
             },
             "venue": {
@@ -26966,9 +26966,9 @@
                 "city": "Santiago"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 27,
                 "extra": null
             }
         },
@@ -26997,13 +26997,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -27027,7 +27027,7 @@
             "date": "2026-04-02T21:00:00+00:00",
             "timestamp": 1775163600,
             "periods": {
-                "first": null,
+                "first": 1775163600,
                 "second": null
             },
             "venue": {
@@ -27036,9 +27036,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 26,
                 "extra": null
             }
         },
@@ -27067,13 +27067,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -27097,7 +27097,7 @@
             "date": "2026-04-02T21:00:00+00:00",
             "timestamp": 1775163600,
             "periods": {
-                "first": null,
+                "first": 1775163600,
                 "second": null
             },
             "venue": {
@@ -27106,9 +27106,9 @@
                 "city": "La Paz"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 27,
                 "extra": null
             }
         },
@@ -27127,23 +27127,23 @@
                 "id": 21858,
                 "name": "Génesis",
                 "logo": "https://media.api-sports.io/football/teams/21858.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 1053,
                 "name": "Juticalpa",
                 "logo": "https://media.api-sports.io/football/teams/1053.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -27167,7 +27167,7 @@
             "date": "2026-04-02T21:10:00+00:00",
             "timestamp": 1775164200,
             "periods": {
-                "first": null,
+                "first": 1775164200,
                 "second": null
             },
             "venue": {
@@ -27176,9 +27176,9 @@
                 "city": "Santiago de Cali"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 17,
                 "extra": null
             }
         },
@@ -27197,23 +27197,23 @@
                 "id": 1138,
                 "name": "America de Cali",
                 "logo": "https://media.api-sports.io/football/teams/1138.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 1131,
                 "name": "Bucaramanga",
                 "logo": "https://media.api-sports.io/football/teams/1131.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -27232,7 +27232,7 @@
     {
         "fixture": {
             "id": 1492193,
-            "referee": "J. Vitor Gobi",
+            "referee": "Joao Vitor Gobi, Brazil",
             "timezone": "UTC",
             "date": "2026-04-02T22:00:00+00:00",
             "timestamp": 1775167200,
@@ -27242,8 +27242,8 @@
             },
             "venue": {
                 "id": null,
-                "name": null,
-                "city": null
+                "name": "Arena Condá",
+                "city": "Chapecó"
             },
             "status": {
                 "long": "Not Started",
@@ -27302,7 +27302,7 @@
     {
         "fixture": {
             "id": 1492199,
-            "referee": "S. Sampaio",
+            "referee": "Savio Pereira Sampaio, Brazil",
             "timezone": "UTC",
             "date": "2026-04-02T22:00:00+00:00",
             "timestamp": 1775167200,
@@ -27312,7 +27312,7 @@
             },
             "venue": {
                 "id": null,
-                "name": "Estadio Urbano Caldeira",
+                "name": "Estádio Urbano Caldeira",
                 "city": "Santos"
             },
             "status": {
@@ -27372,7 +27372,7 @@
     {
         "fixture": {
             "id": 1520618,
-            "referee": "L. Holanda",
+            "referee": "Leo Simao Holanda, Brazil",
             "timezone": "UTC",
             "date": "2026-04-02T22:00:00+00:00",
             "timestamp": 1775167200,
@@ -27382,8 +27382,8 @@
             },
             "venue": {
                 "id": null,
-                "name": "Estadio Primeiro de Maio",
-                "city": "Sao Bernardo"
+                "name": "Estádio Primeiro de Maio",
+                "city": "São Bernardo do Campo"
             },
             "status": {
                 "long": "Not Started",
