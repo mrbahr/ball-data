@@ -1547,7 +1547,7 @@
             "date": "2026-04-02T08:00:00+00:00",
             "timestamp": 1775116800,
             "periods": {
-                "first": null,
+                "first": 1775116800,
                 "second": null
             },
             "venue": {
@@ -1556,9 +1556,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 3,
                 "extra": null
             }
         },
@@ -1587,13 +1587,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -7141,6 +7141,76 @@
     },
     {
         "fixture": {
+            "id": 1503364,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T12:00:00+00:00",
+            "timestamp": 1775131200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 28",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 15286,
+                "name": "JSK",
+                "logo": "https://media.api-sports.io/football/teams/15286.png",
+                "winner": null
+            },
+            "away": {
+                "id": 8573,
+                "name": "Bukavu Dawa",
+                "logo": "https://media.api-sports.io/football/teams/8573.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1507298,
             "referee": null,
             "timezone": "UTC",
@@ -7813,6 +7883,286 @@
                 "id": 10093,
                 "name": "Gwelup Croatia",
                 "logo": "https://media.api-sports.io/football/teams/10093.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1440933,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T13:00:00+00:00",
+            "timestamp": 1775134800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 11135,
+                "name": "Abou Qir Fertilizers Stadium",
+                "city": "Al Mandarah"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 887,
+            "name": "Second League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/887.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2025,
+            "round": "Regular Season - 28",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 15731,
+                "name": "Abu Qair Semad",
+                "logo": "https://media.api-sports.io/football/teams/15731.png",
+                "winner": null
+            },
+            "away": {
+                "id": 1048,
+                "name": "Aswan Sc",
+                "logo": "https://media.api-sports.io/football/teams/1048.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1440934,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T13:00:00+00:00",
+            "timestamp": 1775134800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 2686,
+                "name": "Tanta Stadium",
+                "city": "Tanta"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 887,
+            "name": "Second League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/887.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2025,
+            "round": "Regular Season - 28",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 1045,
+                "name": "Tanta SC",
+                "logo": "https://media.api-sports.io/football/teams/1045.png",
+                "winner": null
+            },
+            "away": {
+                "id": 20461,
+                "name": "Proxy",
+                "logo": "https://media.api-sports.io/football/teams/20461.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1440935,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T13:00:00+00:00",
+            "timestamp": 1775134800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Asyut University Stadium",
+                "city": "Asyut"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 887,
+            "name": "Second League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/887.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2025,
+            "round": "Regular Season - 28",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 18021,
+                "name": "Asyut Petrol",
+                "logo": "https://media.api-sports.io/football/teams/18021.png",
+                "winner": null
+            },
+            "away": {
+                "id": 18022,
+                "name": "Dayrout",
+                "logo": "https://media.api-sports.io/football/teams/18022.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1445396,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T13:00:00+00:00",
+            "timestamp": 1775134800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Al Salam Stadium",
+                "city": "Cairo"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 887,
+            "name": "Second League",
+            "country": "Egypt",
+            "logo": "https://media.api-sports.io/football/leagues/887.png",
+            "flag": "https://media.api-sports.io/flags/eg.svg",
+            "season": 2025,
+            "round": "Regular Season - 28",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 1034,
+                "name": "El Entag EL Harby",
+                "logo": "https://media.api-sports.io/football/teams/1034.png",
+                "winner": null
+            },
+            "away": {
+                "id": 25467,
+                "name": "Maleyet Kafr El Zayiat",
+                "logo": "https://media.api-sports.io/football/teams/25467.png",
                 "winner": null
             }
         },
@@ -12881,6 +13231,76 @@
     },
     {
         "fixture": {
+            "id": 1503295,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T13:00:00+00:00",
+            "timestamp": 1775134800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 23",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 10085,
+                "name": "Renaissance",
+                "logo": "https://media.api-sports.io/football/teams/10085.png",
+                "winner": null
+            },
+            "away": {
+                "id": 27229,
+                "name": "FC Renaissance",
+                "logo": "https://media.api-sports.io/football/teams/27229.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1503371,
             "referee": null,
             "timezone": "UTC",
@@ -12923,6 +13343,76 @@
                 "id": 27053,
                 "name": "Saint-Luc",
                 "logo": "https://media.api-sports.io/football/teams/27053.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1503376,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T13:00:00+00:00",
+            "timestamp": 1775134800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Stade de la Victoire",
+                "city": "Lubumbashi"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 29",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 8578,
+                "name": "Saint Eloi Lupopo",
+                "logo": "https://media.api-sports.io/football/teams/8578.png",
+                "winner": null
+            },
+            "away": {
+                "id": 26887,
+                "name": "AS New Soger",
+                "logo": "https://media.api-sports.io/football/teams/26887.png",
                 "winner": null
             }
         },
@@ -13553,216 +14043,6 @@
                 "id": 2947,
                 "name": "Jeddah Club",
                 "logo": "https://media.api-sports.io/football/teams/2947.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1440933,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T13:30:00+00:00",
-            "timestamp": 1775136600,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 11135,
-                "name": "Abou Qir Fertilizers Stadium",
-                "city": "Al Mandarah"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 887,
-            "name": "Second League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/887.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2025,
-            "round": "Regular Season - 28",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 15731,
-                "name": "Abu Qair Semad",
-                "logo": "https://media.api-sports.io/football/teams/15731.png",
-                "winner": null
-            },
-            "away": {
-                "id": 1048,
-                "name": "Aswan Sc",
-                "logo": "https://media.api-sports.io/football/teams/1048.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1440934,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T13:30:00+00:00",
-            "timestamp": 1775136600,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 2686,
-                "name": "Tanta Stadium",
-                "city": "Tanta"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 887,
-            "name": "Second League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/887.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2025,
-            "round": "Regular Season - 28",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 1045,
-                "name": "Tanta SC",
-                "logo": "https://media.api-sports.io/football/teams/1045.png",
-                "winner": null
-            },
-            "away": {
-                "id": 20461,
-                "name": "Proxy",
-                "logo": "https://media.api-sports.io/football/teams/20461.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1440935,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T13:30:00+00:00",
-            "timestamp": 1775136600,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Asyut University Stadium",
-                "city": "Asyut"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 887,
-            "name": "Second League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/887.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2025,
-            "round": "Regular Season - 28",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 18021,
-                "name": "Asyut Petrol",
-                "logo": "https://media.api-sports.io/football/teams/18021.png",
-                "winner": null
-            },
-            "away": {
-                "id": 18022,
-                "name": "Dayrout",
-                "logo": "https://media.api-sports.io/football/teams/18022.png",
                 "winner": null
             }
         },
@@ -18033,76 +18313,6 @@
                 "id": 1032,
                 "name": "El Dakhleya",
                 "logo": "https://media.api-sports.io/football/teams/1032.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1445396,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T16:00:00+00:00",
-            "timestamp": 1775145600,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Al Salam Stadium",
-                "city": "Cairo"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 887,
-            "name": "Second League",
-            "country": "Egypt",
-            "logo": "https://media.api-sports.io/football/leagues/887.png",
-            "flag": "https://media.api-sports.io/flags/eg.svg",
-            "season": 2025,
-            "round": "Regular Season - 28",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 1034,
-                "name": "El Entag EL Harby",
-                "logo": "https://media.api-sports.io/football/teams/1034.png",
-                "winner": null
-            },
-            "away": {
-                "id": 25467,
-                "name": "Maleyet Kafr El Zayiat",
-                "logo": "https://media.api-sports.io/football/teams/25467.png",
                 "winner": null
             }
         },
@@ -25831,6 +26041,76 @@
     },
     {
         "fixture": {
+            "id": 1528199,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T18:30:00+00:00",
+            "timestamp": 1775154600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 0,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 1071,
+            "name": "Paranaense U20",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/1071.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026,
+            "round": "Regular Season - 6",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 23240,
+                "name": "Hope Internacional U20",
+                "logo": "https://media.api-sports.io/football/teams/23240.png",
+                "winner": null
+            },
+            "away": {
+                "id": 23232,
+                "name": "Araucaria U20",
+                "logo": "https://media.api-sports.io/football/teams/23232.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1387593,
             "referee": "T. Reeves",
             "timezone": "UTC",
@@ -26391,6 +26671,76 @@
     },
     {
         "fixture": {
+            "id": 1501588,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-02T20:30:00+00:00",
+            "timestamp": 1775161800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Royal Lakes Complex",
+                "city": null
+            },
+            "status": {
+                "long": "Match Postponed",
+                "short": "PST",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 322,
+            "name": "Premier League",
+            "country": "Jamaica",
+            "logo": "https://media.api-sports.io/football/leagues/322.png",
+            "flag": "https://media.api-sports.io/flags/jm.svg",
+            "season": 2025,
+            "round": "Regular Season - 26",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 26495,
+                "name": "Spanish Town Police",
+                "logo": "https://media.api-sports.io/football/teams/26495.png",
+                "winner": null
+            },
+            "away": {
+                "id": 3442,
+                "name": "Mount Pleasant Academy",
+                "logo": "https://media.api-sports.io/football/teams/3442.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1526488,
             "referee": null,
             "timezone": "UTC",
@@ -26433,216 +26783,6 @@
                 "id": 21103,
                 "name": "Cuniburo",
                 "logo": "https://media.api-sports.io/football/teams/21103.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1533569,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T20:30:00+00:00",
-            "timestamp": 1775161800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Draxhall Sports Complex",
-                "city": "Runaway Bay"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 322,
-            "name": "Premier League",
-            "country": "Jamaica",
-            "logo": "https://media.api-sports.io/football/leagues/322.png",
-            "flag": "https://media.api-sports.io/flags/jm.svg",
-            "season": 2025,
-            "round": "Regular Season - 32",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 3442,
-                "name": "Mount Pleasant Academy",
-                "logo": "https://media.api-sports.io/football/teams/3442.png",
-                "winner": null
-            },
-            "away": {
-                "id": 25020,
-                "name": "Racing United",
-                "logo": "https://media.api-sports.io/football/teams/25020.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1533570,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T20:30:00+00:00",
-            "timestamp": 1775161800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Ferdi Neita Sports Complex",
-                "city": "Portmore"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 322,
-            "name": "Premier League",
-            "country": "Jamaica",
-            "logo": "https://media.api-sports.io/football/leagues/322.png",
-            "flag": "https://media.api-sports.io/flags/jm.svg",
-            "season": 2025,
-            "round": "Regular Season - 32",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 3443,
-                "name": "Portmore United",
-                "logo": "https://media.api-sports.io/football/teams/3443.png",
-                "winner": null
-            },
-            "away": {
-                "id": 3441,
-                "name": "Montego Bay United",
-                "logo": "https://media.api-sports.io/football/teams/3441.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1533571,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T20:30:00+00:00",
-            "timestamp": 1775161800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Steths Sports Complex",
-                "city": "Santa Cruz"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 322,
-            "name": "Premier League",
-            "country": "Jamaica",
-            "logo": "https://media.api-sports.io/football/leagues/322.png",
-            "flag": "https://media.api-sports.io/flags/jm.svg",
-            "season": 2025,
-            "round": "Regular Season - 32",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 22606,
-                "name": "Treasure Beach",
-                "logo": "https://media.api-sports.io/football/teams/22606.png",
-                "winner": null
-            },
-            "away": {
-                "id": 3445,
-                "name": "Tivoli Gardens",
-                "logo": "https://media.api-sports.io/football/teams/3445.png",
                 "winner": null
             }
         },
@@ -26853,76 +26993,6 @@
                 "id": 18686,
                 "name": "Gimnasia La Plata Res.",
                 "logo": "https://media.api-sports.io/football/teams/18686.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1533568,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-02T21:00:00+00:00",
-            "timestamp": 1775163600,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 2241,
-                "name": "Stadium East",
-                "city": "Kingston"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 322,
-            "name": "Premier League",
-            "country": "Jamaica",
-            "logo": "https://media.api-sports.io/football/leagues/322.png",
-            "flag": "https://media.api-sports.io/flags/jm.svg",
-            "season": 2025,
-            "round": "Regular Season - 32",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 3437,
-                "name": "Cavalier",
-                "logo": "https://media.api-sports.io/football/teams/3437.png",
-                "winner": null
-            },
-            "away": {
-                "id": 6407,
-                "name": "Molynes United",
-                "logo": "https://media.api-sports.io/football/teams/6407.png",
                 "winner": null
             }
         },
