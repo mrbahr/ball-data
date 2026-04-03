@@ -716,9 +716,9 @@
                 "city": "Adelaide"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45,
                 "extra": null
             }
         },
@@ -737,23 +737,23 @@
                 "id": 1972,
                 "name": "Adelaide United W",
                 "logo": "https://media.api-sports.io/football/teams/1972.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 17905,
                 "name": "Wellington Phoenix W",
                 "logo": "https://media.api-sports.io/football/teams/17905.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -777,7 +777,7 @@
             "date": "2026-04-03T06:00:00+00:00",
             "timestamp": 1775196000,
             "periods": {
-                "first": null,
+                "first": 1775196000,
                 "second": null
             },
             "venue": {
@@ -786,9 +786,9 @@
                 "city": "Sydney"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 37,
                 "extra": null
             }
         },
@@ -807,23 +807,23 @@
                 "id": 3764,
                 "name": "APIA Leichhardt",
                 "logo": "https://media.api-sports.io/football/teams/3764.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 14025,
                 "name": "Western Sydney Wanderers U23",
                 "logo": "https://media.api-sports.io/football/teams/14025.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
