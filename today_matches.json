@@ -716,9 +716,9 @@
                 "city": "Adelaide"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90,
                 "extra": null
             }
         },
@@ -778,7 +778,7 @@
             "timestamp": 1775196000,
             "periods": {
                 "first": 1775196000,
-                "second": null
+                "second": 1775199600
             },
             "venue": {
                 "id": 2546,
@@ -786,9 +786,9 @@
                 "city": "Sydney"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 37,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 84,
                 "extra": null
             }
         },
@@ -817,12 +817,12 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": 1,
+                "home": 2,
                 "away": 0
             },
             "fulltime": {
@@ -847,7 +847,7 @@
             "date": "2026-04-03T07:00:00+00:00",
             "timestamp": 1775199600,
             "periods": {
-                "first": null,
+                "first": 1775199600,
                 "second": null
             },
             "venue": {
@@ -856,9 +856,9 @@
                 "city": "Hongkong"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 44,
                 "extra": null
             }
         },
@@ -887,13 +887,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
