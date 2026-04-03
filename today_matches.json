@@ -576,10 +576,10 @@
                 "city": "San Pedro Sula"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90,
-                "extra": 3
+                "extra": 7
             }
         },
         "league": {
@@ -607,7 +607,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -616,8 +616,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -638,7 +638,7 @@
             "timestamp": 1775185560,
             "periods": {
                 "first": 1775185560,
-                "second": null
+                "second": 1775189160
             },
             "venue": {
                 "id": 1088,
@@ -646,10 +646,10 @@
                 "city": "Tijuana"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 20,
-                "extra": null
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": 6
             }
         },
         "league": {
@@ -667,18 +667,18 @@
                 "id": 14872,
                 "name": "Tijuana W",
                 "logo": "https://media.api-sports.io/football/teams/14872.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 14884,
                 "name": "Tigres UANL W",
                 "logo": "https://media.api-sports.io/football/teams/14884.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -686,8 +686,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -25733,76 +25733,6 @@
                 "id": 15544,
                 "name": "Al Karkh",
                 "logo": "https://media.api-sports.io/football/teams/15544.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1538434,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-03T14:00:00+00:00",
-            "timestamp": 1775224800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": null,
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 167,
-            "name": "Cup",
-            "country": "Iceland",
-            "logo": "https://media.api-sports.io/football/leagues/167.png",
-            "flag": "https://media.api-sports.io/flags/is.svg",
-            "season": 2026,
-            "round": "Round of 32",
-            "standings": false
-        },
-        "teams": {
-            "home": {
-                "id": 4168,
-                "name": "Tindastóll",
-                "logo": "https://media.api-sports.io/football/teams/4168.png",
-                "winner": null
-            },
-            "away": {
-                "id": 2123,
-                "name": "Njardvik",
-                "logo": "https://media.api-sports.io/football/teams/2123.png",
                 "winner": null
             }
         },
