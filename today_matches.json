@@ -1066,10 +1066,10 @@
                 "city": "Tijuana"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90,
-                "extra": 3
+                "extra": 8
             }
         },
         "league": {
@@ -1106,8 +1106,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -1136,9 +1136,9 @@
                 "city": "Gosford"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 89,
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
                 "extra": null
             }
         },
@@ -1176,8 +1176,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -1206,9 +1206,9 @@
                 "city": "Canberra"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
                 "extra": null
             }
         },
@@ -1237,8 +1237,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -1246,8 +1246,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -1268,7 +1268,7 @@
             "timestamp": 1775275200,
             "periods": {
                 "first": 1775275200,
-                "second": null
+                "second": 1775278800
             },
             "venue": {
                 "id": 962,
@@ -1276,10 +1276,10 @@
                 "city": "Chiba"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 2
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": 9
             }
         },
         "league": {
@@ -1307,8 +1307,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -1316,8 +1316,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -1346,9 +1346,9 @@
                 "city": "Osaka"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47,
                 "extra": null
             }
         },
@@ -1367,23 +1367,23 @@
                 "id": 22492,
                 "name": "Cerezo Osaka W",
                 "logo": "https://media.api-sports.io/football/teams/22492.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 16952,
                 "name": "Urawa Reds W",
                 "logo": "https://media.api-sports.io/football/teams/16952.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -1416,9 +1416,9 @@
                 "city": "Nagano"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 51,
                 "extra": null
             }
         },
@@ -1437,23 +1437,23 @@
                 "id": 16954,
                 "name": "Parceiro Nagano W",
                 "logo": "https://media.api-sports.io/football/teams/16954.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 16949,
                 "name": "Nojima Stella W",
                 "logo": "https://media.api-sports.io/football/teams/16949.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -1477,8 +1477,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -1486,9 +1486,9 @@
                 "city": "Mito"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 48,
                 "extra": null
             }
         },
@@ -1507,23 +1507,23 @@
                 "id": 305,
                 "name": "Mito Hollyhock",
                 "logo": "https://media.api-sports.io/football/teams/305.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 290,
                 "name": "Kashima",
                 "logo": "https://media.api-sports.io/football/teams/290.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -1542,7 +1542,7 @@
     {
         "fixture": {
             "id": 1506926,
-            "referee": null,
+            "referee": "Woo-Sung Kim, South Korea",
             "timezone": "UTC",
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
@@ -1556,10 +1556,10 @@
                 "city": "Seogwipo"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 1,
-                "extra": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
+                "extra": 12
             }
         },
         "league": {
@@ -1577,22 +1577,22 @@
                 "id": 2761,
                 "name": "Jeju United FC",
                 "logo": "https://media.api-sports.io/football/teams/2761.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2745,
                 "name": "Bucheon FC 1995",
                 "logo": "https://media.api-sports.io/football/teams/2745.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -1612,13 +1612,13 @@
     {
         "fixture": {
             "id": 1506927,
-            "referee": null,
+            "referee": "Jong-Hyeok Kim, South Korea",
             "timezone": "UTC",
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
                 "first": 1775278800,
-                "second": null
+                "second": 1775282400
             },
             "venue": {
                 "id": 1015,
@@ -1626,9 +1626,9 @@
                 "city": "Jeonju"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 1,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 52,
                 "extra": null
             }
         },
@@ -1647,22 +1647,22 @@
                 "id": 2762,
                 "name": "Jeonbuk Motors",
                 "logo": "https://media.api-sports.io/football/teams/2762.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2767,
                 "name": "Ulsan Hyundai FC",
                 "logo": "https://media.api-sports.io/football/teams/2767.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -1688,7 +1688,7 @@
             "timestamp": 1775278800,
             "periods": {
                 "first": 1775278800,
-                "second": null
+                "second": 1775282400
             },
             "venue": {
                 "id": 19536,
@@ -1696,9 +1696,9 @@
                 "city": "Seoul"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 1,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -1717,22 +1717,22 @@
                 "id": 2749,
                 "name": "Seoul E-Land FC",
                 "logo": "https://media.api-sports.io/football/teams/2749.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2756,
                 "name": "Suwon City FC",
                 "logo": "https://media.api-sports.io/football/teams/2756.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -1758,7 +1758,7 @@
             "timestamp": 1775278800,
             "periods": {
                 "first": 1775278800,
-                "second": null
+                "second": 1775282400
             },
             "venue": {
                 "id": 22429,
@@ -1766,9 +1766,9 @@
                 "city": "Yongin"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 1,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -1787,22 +1787,22 @@
                 "id": 9171,
                 "name": "Yongin City",
                 "logo": "https://media.api-sports.io/football/teams/9171.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 2760,
                 "name": "Jeonnam Dragons",
                 "logo": "https://media.api-sports.io/football/teams/2760.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -1827,8 +1827,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -1836,9 +1836,9 @@
                 "city": "Yokohama"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -1867,13 +1867,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -1897,8 +1897,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -1906,9 +1906,9 @@
                 "city": "Hiratsuka"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50,
                 "extra": null
             }
         },
@@ -1937,13 +1937,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -1967,8 +1967,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": 982,
@@ -1976,9 +1976,9 @@
                 "city": "Sendai"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -2007,13 +2007,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -2037,8 +2037,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": 11585,
@@ -2046,9 +2046,9 @@
                 "city": "Tochigi"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 51,
                 "extra": null
             }
         },
@@ -2077,13 +2077,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2107,8 +2107,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": 963,
@@ -2116,9 +2116,9 @@
                 "city": "Iwata"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -2137,23 +2137,23 @@
                 "id": 280,
                 "name": "Jubilo Iwata",
                 "logo": "https://media.api-sports.io/football/teams/280.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 308,
                 "name": "Ventforet Kofu",
                 "logo": "https://media.api-sports.io/football/teams/308.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2177,8 +2177,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2186,9 +2186,9 @@
                 "city": "Sapporo"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50,
                 "extra": null
             }
         },
@@ -2207,23 +2207,23 @@
                 "id": 279,
                 "name": "Consadole Sapporo",
                 "logo": "https://media.api-sports.io/football/teams/279.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 4318,
                 "name": "Fukushima United",
                 "logo": "https://media.api-sports.io/football/teams/4318.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -2247,8 +2247,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2256,9 +2256,9 @@
                 "city": "Saitama"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -2277,23 +2277,23 @@
                 "id": 313,
                 "name": "Omiya Ardija",
                 "logo": "https://media.api-sports.io/football/teams/313.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 297,
                 "name": "FC Gifu",
                 "logo": "https://media.api-sports.io/football/teams/297.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2317,8 +2317,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2326,9 +2326,9 @@
                 "city": "Fujieda"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 51,
                 "extra": null
             }
         },
@@ -2347,23 +2347,23 @@
                 "id": 4317,
                 "name": "Fujieda MYFC",
                 "logo": "https://media.api-sports.io/football/teams/4317.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 4323,
                 "name": "Parceiro Nagano",
                 "logo": "https://media.api-sports.io/football/teams/4323.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -2387,8 +2387,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": 952,
@@ -2396,9 +2396,9 @@
                 "city": "Niigata"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50,
                 "extra": null
             }
         },
@@ -2427,13 +2427,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2457,8 +2457,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2466,9 +2466,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 54,
                 "extra": null
             }
         },
@@ -2487,23 +2487,23 @@
                 "id": 7096,
                 "name": "Mokpo City",
                 "logo": "https://media.api-sports.io/football/teams/7096.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 18653,
                 "name": "Dangjin Citizen",
                 "logo": "https://media.api-sports.io/football/teams/18653.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -2527,8 +2527,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2536,9 +2536,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 49,
                 "extra": null
             }
         },
@@ -2557,23 +2557,23 @@
                 "id": 7105,
                 "name": "Siheung Citizen",
                 "logo": "https://media.api-sports.io/football/teams/7105.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 7083,
                 "name": "Gyeongju HNP",
                 "logo": "https://media.api-sports.io/football/teams/7083.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -2598,7 +2598,7 @@
             "timestamp": 1775278800,
             "periods": {
                 "first": 1775278800,
-                "second": null
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2606,9 +2606,9 @@
                 "city": null
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 3,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 54,
                 "extra": null
             }
         },
@@ -2627,18 +2627,18 @@
                 "id": 7112,
                 "name": "Yeoju Sejong",
                 "logo": "https://media.api-sports.io/football/teams/7112.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 7075,
                 "name": "Gangneung City",
                 "logo": "https://media.api-sports.io/football/teams/7075.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
@@ -2667,8 +2667,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2676,9 +2676,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 52,
                 "extra": null
             }
         },
@@ -2697,23 +2697,23 @@
                 "id": 14375,
                 "name": "Gyeongju",
                 "logo": "https://media.api-sports.io/football/teams/14375.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 14377,
                 "name": "Incheon Red Angels",
                 "logo": "https://media.api-sports.io/football/teams/14377.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -2737,8 +2737,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2746,9 +2746,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 51,
                 "extra": null
             }
         },
@@ -2777,13 +2777,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2807,8 +2807,8 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
-                "second": null
+                "first": 1775278800,
+                "second": 1775282400
             },
             "venue": {
                 "id": null,
@@ -2816,9 +2816,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 52,
                 "extra": null
             }
         },
@@ -2847,13 +2847,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2877,7 +2877,7 @@
             "date": "2026-04-04T05:00:00+00:00",
             "timestamp": 1775278800,
             "periods": {
-                "first": null,
+                "first": 1775278800,
                 "second": null
             },
             "venue": {
@@ -2886,9 +2886,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45,
                 "extra": null
             }
         },
@@ -2907,23 +2907,23 @@
                 "id": 14379,
                 "name": "Suwon FMC",
                 "logo": "https://media.api-sports.io/football/teams/14379.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 14378,
                 "name": "Seoul",
                 "logo": "https://media.api-sports.io/football/teams/14378.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -2947,7 +2947,7 @@
             "date": "2026-04-04T05:30:00+00:00",
             "timestamp": 1775280600,
             "periods": {
-                "first": null,
+                "first": 1775280600,
                 "second": null
             },
             "venue": {
@@ -2956,9 +2956,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 40,
                 "extra": null
             }
         },
@@ -2987,13 +2987,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -3017,7 +3017,7 @@
             "date": "2026-04-04T05:30:00+00:00",
             "timestamp": 1775280600,
             "periods": {
-                "first": null,
+                "first": 1775280600,
                 "second": null
             },
             "venue": {
@@ -3026,9 +3026,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 22,
                 "extra": null
             }
         },
@@ -3057,13 +3057,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -3082,12 +3082,12 @@
     {
         "fixture": {
             "id": 1469690,
-            "referee": null,
+            "referee": "Benjamin Abraham, Australia",
             "timezone": "UTC",
             "date": "2026-04-04T06:00:00+00:00",
             "timestamp": 1775282400,
             "periods": {
-                "first": null,
+                "first": 1775282400,
                 "second": null
             },
             "venue": {
@@ -3096,9 +3096,9 @@
                 "city": "Gosford"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 11,
                 "extra": null
             }
         },
@@ -3127,13 +3127,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -3152,23 +3152,23 @@
     {
         "fixture": {
             "id": 1504731,
-            "referee": null,
+            "referee": "Akihiko Ikeuchi, Japan",
             "timezone": "UTC",
             "date": "2026-04-04T06:00:00+00:00",
             "timestamp": 1775282400,
             "periods": {
-                "first": null,
+                "first": 1775282400,
                 "second": null
             },
             "venue": {
-                "id": null,
+                "id": 972,
                 "name": "Toyota Stadium",
-                "city": "Toyota City"
+                "city": "Toyota"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 8,
                 "extra": null
             }
         },
@@ -3197,13 +3197,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -3227,7 +3227,7 @@
             "date": "2026-04-04T06:00:00+00:00",
             "timestamp": 1775282400,
             "periods": {
-                "first": null,
+                "first": 1775282400,
                 "second": null
             },
             "venue": {
@@ -3236,9 +3236,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5,
                 "extra": null
             }
         },
@@ -3267,13 +3267,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -3297,7 +3297,7 @@
             "date": "2026-04-04T06:00:00+00:00",
             "timestamp": 1775282400,
             "periods": {
-                "first": null,
+                "first": 1775282400,
                 "second": null
             },
             "venue": {
@@ -3306,9 +3306,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 7,
                 "extra": null
             }
         },
@@ -3327,23 +3327,23 @@
                 "id": 11187,
                 "name": "Newcastle Jets II",
                 "logo": "https://media.api-sports.io/football/teams/11187.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 3769,
                 "name": "Mt Druitt Town",
                 "logo": "https://media.api-sports.io/football/teams/3769.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -3367,7 +3367,7 @@
             "date": "2026-04-04T06:00:00+00:00",
             "timestamp": 1775282400,
             "periods": {
-                "first": null,
+                "first": 1775282400,
                 "second": null
             },
             "venue": {
@@ -3376,9 +3376,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 2,
                 "extra": null
             }
         },
@@ -3407,13 +3407,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -3437,7 +3437,7 @@
             "date": "2026-04-04T06:00:00+00:00",
             "timestamp": 1775282400,
             "periods": {
-                "first": null,
+                "first": 1775282400,
                 "second": null
             },
             "venue": {
@@ -3446,9 +3446,9 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 11,
                 "extra": null
             }
         },
@@ -3477,13 +3477,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -25916,8 +25916,8 @@
                 "city": "Beirut"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Match Postponed",
+                "short": "PST",
                 "elapsed": null,
                 "extra": null
             }
@@ -25986,8 +25986,8 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Match Postponed",
+                "short": "PST",
                 "elapsed": null,
                 "extra": null
             }
@@ -62861,6 +62861,76 @@
     },
     {
         "fixture": {
+            "id": 1539598,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-04T14:00:00+00:00",
+            "timestamp": 1775311200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 0,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 1013,
+            "name": "All-Island Cup - Women",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/1013.png",
+            "flag": null,
+            "season": 2026,
+            "round": "Group Stage - 1",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 10918,
+                "name": "Linfield W",
+                "logo": "https://media.api-sports.io/football/teams/10918.png",
+                "winner": null
+            },
+            "away": {
+                "id": 21492,
+                "name": "Shamrock Rovers W",
+                "logo": "https://media.api-sports.io/football/teams/21492.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1539599,
             "referee": null,
             "timezone": "UTC",
@@ -82951,76 +83021,6 @@
     },
     {
         "fixture": {
-            "id": 1477208,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-04T17:00:00+00:00",
-            "timestamp": 1775322000,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Majaliwa Stadium",
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 567,
-            "name": "Ligi kuu Bara",
-            "country": "Tanzania",
-            "logo": "https://media.api-sports.io/football/leagues/567.png",
-            "flag": "https://media.api-sports.io/flags/tz.svg",
-            "season": 2025,
-            "round": "Regular Season - 19",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 12197,
-                "name": "Namungo",
-                "logo": "https://media.api-sports.io/football/teams/12197.png",
-                "winner": null
-            },
-            "away": {
-                "id": 12190,
-                "name": "JKT Tanzania",
-                "logo": "https://media.api-sports.io/football/teams/12190.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 1490180,
             "referee": "R. Montero",
             "timezone": "UTC",
@@ -85653,6 +85653,76 @@
                 "id": 8461,
                 "name": "La Calamine",
                 "logo": "https://media.api-sports.io/football/teams/8461.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1477208,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-04T18:00:00+00:00",
+            "timestamp": 1775325600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Majaliwa Stadium",
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 567,
+            "name": "Ligi kuu Bara",
+            "country": "Tanzania",
+            "logo": "https://media.api-sports.io/football/leagues/567.png",
+            "flag": "https://media.api-sports.io/flags/tz.svg",
+            "season": 2025,
+            "round": "Regular Season - 19",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 12197,
+                "name": "Namungo",
+                "logo": "https://media.api-sports.io/football/teams/12197.png",
+                "winner": null
+            },
+            "away": {
+                "id": 12190,
+                "name": "JKT Tanzania",
+                "logo": "https://media.api-sports.io/football/teams/12190.png",
                 "winner": null
             }
         },
