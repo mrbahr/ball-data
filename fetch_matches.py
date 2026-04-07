@@ -2,9 +2,8 @@ import requests
 import json
 import os
 from datetime import datetime
-import pytz # مكتبة ضبط التوقيت
+import pytz
 
-# 1. ضبط التوقيت على توقيت مصر (أو دولتك)
 tz = pytz.timezone('Africa/Cairo')
 today = datetime.now(tz).strftime('%Y-%m-%d')
 
@@ -23,16 +22,17 @@ try:
     response = requests.get(url, headers=headers, params=querystring)
     data = response.json()
 
-    if response.status_code == 200 and "response" in data:
-        matches = data['response']
-        
-        with open('today_matches.json', 'w', encoding='utf-8') as f:
-            json.dump(matches, f, ensure_ascii=False, indent=4)
-            
-        print(f"Success! {len(matches)} matches saved.")
+    if response.status_code == 200:
+        if data.get("errors"):
+            print("API Error Detected:")
+            print(data["errors"])
+        elif "response" in data:
+            matches = data['response']
+            with open('today_matches.json', 'w', encoding='utf-8') as f:
+                json.dump(matches, f, ensure_ascii=False, indent=4)
+            print(f"Success! {len(matches)} matches saved.")
     else:
-        print("API Error:")
-        print(data)
+        print(f"HTTP Error: {response.status_code}")
         
 except Exception as e:
     print(f"Error: {e}")
