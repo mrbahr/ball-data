@@ -737,18 +737,18 @@
                 "id": 8420,
                 "name": "Bagatelle",
                 "logo": "https://media.api-sports.io/football/teams/8420.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 8408,
                 "name": "St. Andrew Lions",
                 "logo": "https://media.api-sports.io/football/teams/8408.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
-            "home": 4,
-            "away": 1
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
@@ -4873,6 +4873,76 @@
                 "id": 2769,
                 "name": "BG Pathum United",
                 "logo": "https://media.api-sports.io/football/teams/2769.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1539702,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T12:00:00+00:00",
+            "timestamp": 1775649600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 542,
+            "name": "Iraqi League",
+            "country": "Iraq",
+            "logo": "https://media.api-sports.io/football/leagues/542.png",
+            "flag": "https://media.api-sports.io/flags/iq.svg",
+            "season": 2025,
+            "round": "Regular Season - 27",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 5242,
+                "name": "Al Shorta",
+                "logo": "https://media.api-sports.io/football/teams/5242.png",
+                "winner": null
+            },
+            "away": {
+                "id": 11069,
+                "name": "Baghdad",
+                "logo": "https://media.api-sports.io/football/teams/11069.png",
                 "winner": null
             }
         },
@@ -11986,8 +12056,8 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Technical loss",
+                "short": "AWD",
                 "elapsed": null,
                 "extra": null
             }
@@ -12017,8 +12087,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
@@ -16871,76 +16941,6 @@
     },
     {
         "fixture": {
-            "id": 1539702,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T16:30:00+00:00",
-            "timestamp": 1775665800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": null,
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 542,
-            "name": "Iraqi League",
-            "country": "Iraq",
-            "logo": "https://media.api-sports.io/football/leagues/542.png",
-            "flag": "https://media.api-sports.io/flags/iq.svg",
-            "season": 2025,
-            "round": "Regular Season - 27",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 5242,
-                "name": "Al Shorta",
-                "logo": "https://media.api-sports.io/football/teams/5242.png",
-                "winner": null
-            },
-            "away": {
-                "id": 11069,
-                "name": "Baghdad",
-                "logo": "https://media.api-sports.io/football/teams/11069.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 1526425,
             "referee": null,
             "timezone": "UTC",
@@ -20511,76 +20511,6 @@
     },
     {
         "fixture": {
-            "id": 1538510,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T18:00:00+00:00",
-            "timestamp": 1775671200,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 0,
-                "name": null,
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 1183,
-            "name": "Brasileiro U20 B",
-            "country": "Brazil",
-            "logo": "https://media.api-sports.io/football/leagues/1183.png",
-            "flag": "https://media.api-sports.io/flags/br.svg",
-            "season": 2026,
-            "round": "1st Phase - 2",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 13036,
-                "name": "Operário PR U20",
-                "logo": "https://media.api-sports.io/football/teams/13036.png",
-                "winner": null
-            },
-            "away": {
-                "id": 12987,
-                "name": "Botafogo SP U20",
-                "logo": "https://media.api-sports.io/football/teams/12987.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 1538512,
             "referee": null,
             "timezone": "UTC",
@@ -20903,6 +20833,76 @@
                 "id": 1712,
                 "name": "Cavese",
                 "logo": "https://media.api-sports.io/football/teams/1712.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1538506,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T18:30:00+00:00",
+            "timestamp": 1775673000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 0,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 1183,
+            "name": "Brasileiro U20 B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/1183.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026,
+            "round": "1st Phase - 2",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 12986,
+                "name": "Atlético GO U20",
+                "logo": "https://media.api-sports.io/football/teams/12986.png",
+                "winner": null
+            },
+            "away": {
+                "id": 12957,
+                "name": "Coritiba U20",
+                "logo": "https://media.api-sports.io/football/teams/12957.png",
                 "winner": null
             }
         },
