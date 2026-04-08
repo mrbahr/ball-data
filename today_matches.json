@@ -1058,7 +1058,7 @@
             "timestamp": 1775631600,
             "periods": {
                 "first": 1775631600,
-                "second": null
+                "second": 1775635200
             },
             "venue": {
                 "id": null,
@@ -1066,10 +1066,10 @@
                 "city": null
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45,
-                "extra": 2
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90,
+                "extra": null
             }
         },
         "league": {
@@ -1098,7 +1098,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 3
+            "away": 4
         },
         "score": {
             "halftime": {
@@ -1136,8 +1136,8 @@
                 "city": null
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "Match Postponed",
+                "short": "PST",
                 "elapsed": null,
                 "extra": null
             }
@@ -1303,6 +1303,76 @@
                 "id": 24177,
                 "name": "Karpaty Lviv U19",
                 "logo": "https://media.api-sports.io/football/teams/24177.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1503285,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T09:00:00+00:00",
+            "timestamp": 1775638800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Match Postponed",
+                "short": "PST",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 22",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 21622,
+                "name": "Tanganyika",
+                "logo": "https://media.api-sports.io/football/teams/21622.png",
+                "winner": null
+            },
+            "away": {
+                "id": 8112,
+                "name": "Sanga Balende",
+                "logo": "https://media.api-sports.io/football/teams/8112.png",
                 "winner": null
             }
         },
@@ -4061,6 +4131,76 @@
     },
     {
         "fixture": {
+            "id": 1470690,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T12:00:00+00:00",
+            "timestamp": 1775649600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 992,
+                "name": "Nyayo National Stadium",
+                "city": "Nairobi"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 276,
+            "name": "FKF Premier League",
+            "country": "Kenya",
+            "logo": "https://media.api-sports.io/football/leagues/276.png",
+            "flag": "https://media.api-sports.io/flags/ke.svg",
+            "season": 2025,
+            "round": "Regular Season - 18",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 22231,
+                "name": "Nairobi United",
+                "logo": "https://media.api-sports.io/football/teams/22231.png",
+                "winner": null
+            },
+            "away": {
+                "id": 2462,
+                "name": "Homeboyz",
+                "logo": "https://media.api-sports.io/football/teams/2462.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1470770,
             "referee": null,
             "timezone": "UTC",
@@ -4313,6 +4453,76 @@
                 "id": 3745,
                 "name": "Dečić",
                 "logo": "https://media.api-sports.io/football/teams/3745.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1503286,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T12:00:00+00:00",
+            "timestamp": 1775649600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 22",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 15286,
+                "name": "JSK",
+                "logo": "https://media.api-sports.io/football/teams/15286.png",
+                "winner": null
+            },
+            "away": {
+                "id": 24105,
+                "name": "Anges Verts",
+                "logo": "https://media.api-sports.io/football/teams/24105.png",
                 "winner": null
             }
         },
@@ -5951,76 +6161,6 @@
     },
     {
         "fixture": {
-            "id": 1468095,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T13:00:00+00:00",
-            "timestamp": 1775653200,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 0,
-                "name": null,
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 400,
-            "name": "Super League",
-            "country": "Zambia",
-            "logo": "https://media.api-sports.io/football/leagues/400.png",
-            "flag": "https://media.api-sports.io/flags/zm.svg",
-            "season": 2025,
-            "round": "Regular Season - 20",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 5200,
-                "name": "Green Eagles",
-                "logo": "https://media.api-sports.io/football/teams/5200.png",
-                "winner": null
-            },
-            "away": {
-                "id": 5214,
-                "name": "ZESCO United",
-                "logo": "https://media.api-sports.io/football/teams/5214.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 1468096,
             "referee": null,
             "timezone": "UTC",
@@ -6273,6 +6413,76 @@
                 "id": 3742,
                 "name": "Arsenal Tivat",
                 "logo": "https://media.api-sports.io/football/teams/3742.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1503313,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T13:00:00+00:00",
+            "timestamp": 1775653200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 24",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 8571,
+                "name": "Don Bosco",
+                "logo": "https://media.api-sports.io/football/teams/8571.png",
+                "winner": null
+            },
+            "away": {
+                "id": 8572,
+                "name": "Simba",
+                "logo": "https://media.api-sports.io/football/teams/8572.png",
                 "winner": null
             }
         },
@@ -11411,6 +11621,146 @@
     },
     {
         "fixture": {
+            "id": 1471720,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T14:00:00+00:00",
+            "timestamp": 1775656800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Estádio Mário Álvaro Pacheco",
+                "city": "Calulo"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 4924,
+                "name": "Recreativo do Libolo",
+                "logo": "https://media.api-sports.io/football/teams/4924.png",
+                "winner": null
+            },
+            "away": {
+                "id": 4922,
+                "name": "Petro de Luanda",
+                "logo": "https://media.api-sports.io/football/teams/4922.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1471722,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T14:00:00+00:00",
+            "timestamp": 1775656800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": "Campo de Futebol Alvaro Buta",
+                "city": "M'banza-Kongo"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 22359,
+                "name": "São Salvador",
+                "logo": "https://media.api-sports.io/football/teams/22359.png",
+                "winner": null
+            },
+            "away": {
+                "id": 4918,
+                "name": "Desportivo Huíla",
+                "logo": "https://media.api-sports.io/football/teams/4918.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1495029,
             "referee": null,
             "timezone": "UTC",
@@ -11761,6 +12111,76 @@
     },
     {
         "fixture": {
+            "id": 1503382,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T14:00:00+00:00",
+            "timestamp": 1775656800,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 424,
+            "name": "Ligue 1",
+            "country": "Congo-DR",
+            "logo": "https://media.api-sports.io/football/leagues/424.png",
+            "flag": "https://media.api-sports.io/flags/cg.svg",
+            "season": 2025,
+            "round": "Regular Season - 29",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 10085,
+                "name": "Renaissance",
+                "logo": "https://media.api-sports.io/football/teams/10085.png",
+                "winner": null
+            },
+            "away": {
+                "id": 8067,
+                "name": "Motema Pembe",
+                "logo": "https://media.api-sports.io/football/teams/8067.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1507308,
             "referee": null,
             "timezone": "UTC",
@@ -11901,146 +12321,6 @@
     },
     {
         "fixture": {
-            "id": 1521749,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T14:00:00+00:00",
-            "timestamp": 1775656800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": null,
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 336,
-            "name": "Druha Liga",
-            "country": "Ukraine",
-            "logo": "https://media.api-sports.io/football/leagues/336.png",
-            "flag": "https://media.api-sports.io/flags/ua.svg",
-            "season": 2025,
-            "round": "Regular Season - 25",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 26187,
-                "name": "Atlet",
-                "logo": "https://media.api-sports.io/football/teams/26187.png",
-                "winner": null
-            },
-            "away": {
-                "id": 24570,
-                "name": "Vilkhivtsi",
-                "logo": "https://media.api-sports.io/football/teams/24570.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1521750,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T14:00:00+00:00",
-            "timestamp": 1775656800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": null,
-                "city": null
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 336,
-            "name": "Druha Liga",
-            "country": "Ukraine",
-            "logo": "https://media.api-sports.io/football/leagues/336.png",
-            "flag": "https://media.api-sports.io/flags/ua.svg",
-            "season": 2025,
-            "round": "Regular Season - 25",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 6483,
-                "name": "Chayka",
-                "logo": "https://media.api-sports.io/football/teams/6483.png",
-                "winner": null
-            },
-            "away": {
-                "id": 26189,
-                "name": "Penuel",
-                "logo": "https://media.api-sports.io/football/teams/26189.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
             "id": 1521751,
             "referee": null,
             "timezone": "UTC",
@@ -12089,76 +12369,6 @@
         "goals": {
             "home": 0,
             "away": 0
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1521752,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T14:00:00+00:00",
-            "timestamp": 1775656800,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": null,
-                "name": "Arena Livyi Bereg",
-                "city": "Kyiv"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 336,
-            "name": "Druha Liga",
-            "country": "Ukraine",
-            "logo": "https://media.api-sports.io/football/leagues/336.png",
-            "flag": "https://media.api-sports.io/flags/ua.svg",
-            "season": 2025,
-            "round": "Regular Season - 25",
-            "standings": true
-        },
-        "teams": {
-            "home": {
-                "id": 26740,
-                "name": "Livyi Bereg 2",
-                "logo": "https://media.api-sports.io/football/teams/26740.png",
-                "winner": null
-            },
-            "away": {
-                "id": 9148,
-                "name": "Chornomorets II",
-                "logo": "https://media.api-sports.io/football/teams/9148.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
         },
         "score": {
             "halftime": {
@@ -13021,6 +13231,146 @@
     },
     {
         "fixture": {
+            "id": 1471723,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T14:30:00+00:00",
+            "timestamp": 1775658600,
+            "periods": {
+                "first": 1775658600,
+                "second": 1775662200
+            },
+            "venue": {
+                "id": 3712,
+                "name": "Estádio 11 de Novembro",
+                "city": "Luanda"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 4913,
+                "name": "1º de Agosto",
+                "logo": "https://media.api-sports.io/football/teams/4913.png",
+                "winner": null
+            },
+            "away": {
+                "id": 4925,
+                "name": "Sagrada Esperança",
+                "logo": "https://media.api-sports.io/football/teams/4925.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1471821,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T14:30:00+00:00",
+            "timestamp": 1775658600,
+            "periods": {
+                "first": 1775658600,
+                "second": 1775662200
+            },
+            "venue": {
+                "id": 3714,
+                "name": "Estádio do Buraco",
+                "city": "Lobito"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 4915,
+                "name": "Académica do Lobito",
+                "logo": "https://media.api-sports.io/football/teams/4915.png",
+                "winner": null
+            },
+            "away": {
+                "id": 26666,
+                "name": "Redonda FC",
+                "logo": "https://media.api-sports.io/football/teams/26666.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1497908,
             "referee": null,
             "timezone": "UTC",
@@ -13511,6 +13861,146 @@
     },
     {
         "fixture": {
+            "id": 1471721,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T15:00:00+00:00",
+            "timestamp": 1775660400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 3718,
+                "name": "Estádio Joaquim Dinis",
+                "city": "Luanda"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 4920,
+                "name": "Interclube",
+                "logo": "https://media.api-sports.io/football/teams/4920.png",
+                "winner": null
+            },
+            "away": {
+                "id": 4914,
+                "name": "1º de Maio",
+                "logo": "https://media.api-sports.io/football/teams/4914.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1471725,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T15:00:00+00:00",
+            "timestamp": 1775660400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 7135,
+                "name": "Estádio Nacional de OMBAKA",
+                "city": "Benguela"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 6383,
+                "name": "Wiliete",
+                "logo": "https://media.api-sports.io/football/teams/6383.png",
+                "winner": null
+            },
+            "away": {
+                "id": 4921,
+                "name": "Bravos do Maquis FC",
+                "logo": "https://media.api-sports.io/football/teams/4921.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1507309,
             "referee": null,
             "timezone": "UTC",
@@ -13623,146 +14113,6 @@
                 "id": 4135,
                 "name": "Auda",
                 "logo": "https://media.api-sports.io/football/teams/4135.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1525432,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T15:00:00+00:00",
-            "timestamp": 1775660400,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 291,
-                "name": "Arena Arda",
-                "city": "Kardzhali"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 174,
-            "name": "Cup",
-            "country": "Bulgaria",
-            "logo": "https://media.api-sports.io/football/leagues/174.png",
-            "flag": "https://media.api-sports.io/flags/bg.svg",
-            "season": 2025,
-            "round": "Semi-finals",
-            "standings": false
-        },
-        "teams": {
-            "home": {
-                "id": 1430,
-                "name": "Arda Kardzhali",
-                "logo": "https://media.api-sports.io/football/teams/1430.png",
-                "winner": null
-            },
-            "away": {
-                "id": 858,
-                "name": "Lokomotiv Plovdiv",
-                "logo": "https://media.api-sports.io/football/teams/858.png",
-                "winner": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        },
-        "score": {
-            "halftime": {
-                "home": null,
-                "away": null
-            },
-            "fulltime": {
-                "home": null,
-                "away": null
-            },
-            "extratime": {
-                "home": null,
-                "away": null
-            },
-            "penalty": {
-                "home": null,
-                "away": null
-            }
-        }
-    },
-    {
-        "fixture": {
-            "id": 1525433,
-            "referee": null,
-            "timezone": "UTC",
-            "date": "2026-04-08T15:00:00+00:00",
-            "timestamp": 1775660400,
-            "periods": {
-                "first": null,
-                "second": null
-            },
-            "venue": {
-                "id": 10547,
-                "name": "Huvepharma Arena",
-                "city": "Razgrad"
-            },
-            "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null,
-                "extra": null
-            }
-        },
-        "league": {
-            "id": 174,
-            "name": "Cup",
-            "country": "Bulgaria",
-            "logo": "https://media.api-sports.io/football/leagues/174.png",
-            "flag": "https://media.api-sports.io/flags/bg.svg",
-            "season": 2025,
-            "round": "Semi-finals",
-            "standings": false
-        },
-        "teams": {
-            "home": {
-                "id": 566,
-                "name": "Ludogorets",
-                "logo": "https://media.api-sports.io/football/teams/566.png",
-                "winner": null
-            },
-            "away": {
-                "id": 853,
-                "name": "CSKA Sofia",
-                "logo": "https://media.api-sports.io/football/teams/853.png",
                 "winner": null
             }
         },
@@ -15093,6 +15443,76 @@
                 "id": 9915,
                 "name": "La Roche VF",
                 "logo": "https://media.api-sports.io/football/teams/9915.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1471820,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T16:00:00+00:00",
+            "timestamp": 1775664000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 3724,
+                "name": "Estádio Municipal dos Coqueiros",
+                "city": "Luanda"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 4929,
+                "name": "Kabuscorp",
+                "logo": "https://media.api-sports.io/football/teams/4929.png",
+                "winner": null
+            },
+            "away": {
+                "id": 26665,
+                "name": "Guelson FC",
+                "logo": "https://media.api-sports.io/football/teams/26665.png",
                 "winner": null
             }
         },
@@ -20511,6 +20931,76 @@
     },
     {
         "fixture": {
+            "id": 1538510,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T18:00:00+00:00",
+            "timestamp": 1775671200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 0,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 1183,
+            "name": "Brasileiro U20 B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/1183.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026,
+            "round": "1st Phase - 2",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 13036,
+                "name": "Operário PR U20",
+                "logo": "https://media.api-sports.io/football/teams/13036.png",
+                "winner": null
+            },
+            "away": {
+                "id": 12987,
+                "name": "Botafogo SP U20",
+                "logo": "https://media.api-sports.io/football/teams/12987.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1538512,
             "referee": null,
             "timezone": "UTC",
@@ -20833,6 +21323,76 @@
                 "id": 1712,
                 "name": "Cavese",
                 "logo": "https://media.api-sports.io/football/teams/1712.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1499817,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-08T18:30:00+00:00",
+            "timestamp": 1775673000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": null,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 132,
+            "name": "Primera C",
+            "country": "Argentina",
+            "logo": "https://media.api-sports.io/football/leagues/132.png",
+            "flag": "https://media.api-sports.io/flags/ar.svg",
+            "season": 2026,
+            "round": "Regular Season - 6",
+            "standings": false
+        },
+        "teams": {
+            "home": {
+                "id": 8374,
+                "name": "Fénix",
+                "logo": "https://media.api-sports.io/football/teams/8374.png",
+                "winner": null
+            },
+            "away": {
+                "id": 8384,
+                "name": "El Porvenir",
+                "logo": "https://media.api-sports.io/football/teams/8384.png",
                 "winner": null
             }
         },
