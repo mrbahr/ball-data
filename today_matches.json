@@ -7071,6 +7071,76 @@
     },
     {
         "fixture": {
+            "id": 1471821,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-09T14:30:00+00:00",
+            "timestamp": 1775745000,
+            "periods": {
+                "first": 1775658600,
+                "second": 1775662200
+            },
+            "venue": {
+                "id": 3714,
+                "name": "Estádio do Buraco",
+                "city": "Lobito"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 397,
+            "name": "Girabola",
+            "country": "Angola",
+            "logo": "https://media.api-sports.io/football/leagues/397.png",
+            "flag": "https://media.api-sports.io/flags/ao.svg",
+            "season": 2025,
+            "round": "Regular Season - 21",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 4915,
+                "name": "Académica do Lobito",
+                "logo": "https://media.api-sports.io/football/teams/4915.png",
+                "winner": null
+            },
+            "away": {
+                "id": 26666,
+                "name": "Redonda FC",
+                "logo": "https://media.api-sports.io/football/teams/26666.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 1385127,
             "referee": null,
             "timezone": "UTC",
@@ -10613,6 +10683,76 @@
                 "id": 7520,
                 "name": "Masr",
                 "logo": "https://media.api-sports.io/football/teams/7520.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 1538510,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2026-04-09T18:00:00+00:00",
+            "timestamp": 1775757600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 0,
+                "name": null,
+                "city": null
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null,
+                "extra": null
+            }
+        },
+        "league": {
+            "id": 1183,
+            "name": "Brasileiro U20 B",
+            "country": "Brazil",
+            "logo": "https://media.api-sports.io/football/leagues/1183.png",
+            "flag": "https://media.api-sports.io/flags/br.svg",
+            "season": 2026,
+            "round": "1st Phase - 2",
+            "standings": true
+        },
+        "teams": {
+            "home": {
+                "id": 13036,
+                "name": "Operário PR U20",
+                "logo": "https://media.api-sports.io/football/teams/13036.png",
+                "winner": null
+            },
+            "away": {
+                "id": 12987,
+                "name": "Botafogo SP U20",
+                "logo": "https://media.api-sports.io/football/teams/12987.png",
                 "winner": null
             }
         },
