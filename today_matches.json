@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557169,
-            "date": "2026-04-09T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Rosario Central",
-                "logo": "https://crests.football-data.org/2070.png"
-            },
-            "away": {
-                "name": "CAR Independiente del Valle",
-                "logo": "https://crests.football-data.org/6989.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 557168,
             "date": "2026-04-09T22:00:00+00:00",
             "status": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 3,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 557169,
+            "date": "2026-04-09T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Rosario Central",
+                "logo": "https://crests.football-data.org/2070.png"
+            },
+            "away": {
+                "name": "CAR Independiente del Valle",
+                "logo": "https://crests.football-data.org/6989.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 542659,
             "date": "2026-04-10T17:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,7 +135,7 @@
             }
         },
         "goals": {
-            "home": 3,
+            "home": 4,
             "away": 1
         }
     },
@@ -144,7 +144,7 @@
             "id": 537710,
             "date": "2026-04-10T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,8 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         }
     },
     {
@@ -172,7 +172,7 @@
             "id": 540665,
             "date": "2026-04-10T18:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -216,34 +216,6 @@
             "away": {
                 "name": "AC Pisa 1909",
                 "logo": "https://crests.football-data.org/487.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 538104,
-            "date": "2026-04-10T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "West Ham United FC",
-                "logo": "https://crests.football-data.org/563.png"
-            },
-            "away": {
-                "name": "Wolverhampton Wanderers FC",
-                "logo": "https://crests.football-data.org/76.png"
             }
         },
         "goals": {
@@ -300,6 +272,34 @@
             "away": {
                 "name": "Millwall FC",
                 "logo": "https://crests.football-data.org/384.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538104,
+            "date": "2026-04-10T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "West Ham United FC",
+                "logo": "https://crests.football-data.org/563.png"
+            },
+            "away": {
+                "name": "Wolverhampton Wanderers FC",
+                "logo": "https://crests.football-data.org/76.png"
             }
         },
         "goals": {
