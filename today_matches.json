@@ -116,7 +116,7 @@
             "id": 542659,
             "date": "2026-04-10T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -225,34 +225,6 @@
     },
     {
         "fixture": {
-            "id": 541215,
-            "date": "2026-04-10T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "West Bromwich Albion FC",
-                "logo": "https://crests.football-data.org/74.png"
-            },
-            "away": {
-                "name": "Millwall FC",
-                "logo": "https://crests.football-data.org/384.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 538104,
             "date": "2026-04-10T19:00:00+00:00",
             "status": {
@@ -300,6 +272,34 @@
             "away": {
                 "name": "Girona FC",
                 "logo": "https://crests.football-data.org/298.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 541215,
+            "date": "2026-04-10T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "West Bromwich Albion FC",
+                "logo": "https://crests.football-data.org/74.png"
+            },
+            "away": {
+                "name": "Millwall FC",
+                "logo": "https://crests.football-data.org/384.png"
             }
         },
         "goals": {
