@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557169,
-            "date": "2026-04-09T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Rosario Central",
-                "logo": "https://crests.football-data.org/2070.png"
-            },
-            "away": {
-                "name": "CAR Independiente del Valle",
-                "logo": "https://crests.football-data.org/6989.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 557168,
             "date": "2026-04-09T22:00:00+00:00",
             "status": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 3,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 557169,
+            "date": "2026-04-09T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Rosario Central",
+                "logo": "https://crests.football-data.org/2070.png"
+            },
+            "away": {
+                "name": "CAR Independiente del Valle",
+                "logo": "https://crests.football-data.org/6989.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -225,25 +225,25 @@
     },
     {
         "fixture": {
-            "id": 544520,
+            "id": 538104,
             "date": "2026-04-10T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
+                "name": "West Ham United FC",
+                "logo": "https://crests.football-data.org/563.png"
             },
             "away": {
-                "name": "Girona FC",
-                "logo": "https://crests.football-data.org/298.png"
+                "name": "Wolverhampton Wanderers FC",
+                "logo": "https://crests.football-data.org/76.png"
             }
         },
         "goals": {
@@ -281,25 +281,25 @@
     },
     {
         "fixture": {
-            "id": 538104,
+            "id": 544520,
             "date": "2026-04-10T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
         },
         "teams": {
             "home": {
-                "name": "West Ham United FC",
-                "logo": "https://crests.football-data.org/563.png"
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
             },
             "away": {
-                "name": "Wolverhampton Wanderers FC",
-                "logo": "https://crests.football-data.org/76.png"
+                "name": "Girona FC",
+                "logo": "https://crests.football-data.org/298.png"
             }
         },
         "goals": {
