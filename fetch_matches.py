@@ -11,8 +11,6 @@ print(f"Fetching premium matches for: {today} from football-data.org...\n")
 
 url = "https://api.football-data.org/v4/matches"
 
-# التعديل السحري: إجبار الموقع على جلب الدوريات الأوروبية الكبرى فقط باستخدام رموزها!
-# PL: إنجليزي | PD: إسباني | FL1: فرنسي | BL1: ألماني | SA: إيطالي | CL: أبطال أوروبا
 target_competitions = "PL,PD,FL1,BL1,SA,CL,EC,DED,PPL,WC"
 
 querystring = {
@@ -49,11 +47,9 @@ try:
             raw_status = match.get("status", "NS")
             short_status = status_map.get(raw_status, "NS")
             
-            # معالجة الوقت للأندرويد
             original_date = match["utcDate"]
             android_friendly_date = original_date.replace("Z", "+00:00")
             
-            # معالجة أسماء الدوريات
             league_name = match["competition"]["name"]
             if league_name == "Primera Division":
                 league_name = "La Liga"
