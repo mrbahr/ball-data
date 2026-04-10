@@ -7,16 +7,14 @@ import pytz
 tz = pytz.timezone('Africa/Cairo')
 today = datetime.now(tz).strftime('%Y-%m-%d')
 
-print(f"Fetching premium matches for: {today} from football-data.org...\n")
+print(f"Fetching matches for: {today} from football-data.org...\n")
 
 url = "https://api.football-data.org/v4/matches"
 
-target_competitions = "PL,PD,FL1,BL1,SA,CL,EC,DED,PPL,WC"
-
+# طلبنا ماتشات اليوم فقط (بدون فلتر الرموز المعقد)
 querystring = {
     "dateFrom": today, 
-    "dateTo": today,
-    "competitions": target_competitions
+    "dateTo": today
 }
 
 api_key = os.environ.get("FOOTBALL_API_KEY")
@@ -95,7 +93,7 @@ try:
         with open('today_matches.json', 'w', encoding='utf-8') as f:
             json.dump(formatted_matches, f, ensure_ascii=False, indent=4)
             
-        print(f"Success! {len(formatted_matches)} premium matches saved.")
+        print(f"Success! {len(formatted_matches)} matches saved.")
     else:
         print(f"API Error: {response.status_code}")
         print(data)
