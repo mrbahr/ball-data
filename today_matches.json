@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557168,
-            "date": "2026-04-09T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Universidad Central de Venezuela FC",
-                "logo": "https://crests.football-data.org/9357.png"
-            },
-            "away": {
-                "name": "Club Libertad Asuncion",
-                "logo": "https://crests.football-data.org/9379.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 557169,
             "date": "2026-04-09T22:00:00+00:00",
             "status": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 0,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557168,
+            "date": "2026-04-09T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Universidad Central de Venezuela FC",
+                "logo": "https://crests.football-data.org/9357.png"
+            },
+            "away": {
+                "name": "Club Libertad Asuncion",
+                "logo": "https://crests.football-data.org/9379.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -225,10 +225,38 @@
     },
     {
         "fixture": {
+            "id": 544520,
+            "date": "2026-04-10T19:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
+            },
+            "away": {
+                "name": "Girona FC",
+                "logo": "https://crests.football-data.org/298.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 538104,
             "date": "2026-04-10T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -256,7 +284,7 @@
             "id": 541215,
             "date": "2026-04-10T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -281,38 +309,10 @@
     },
     {
         "fixture": {
-            "id": 544520,
-            "date": "2026-04-10T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
-            },
-            "away": {
-                "name": "Girona FC",
-                "logo": "https://crests.football-data.org/298.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 542663,
             "date": "2026-04-10T19:05:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -331,7 +331,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 1
         }
     },
@@ -340,7 +340,7 @@
             "id": 545958,
             "date": "2026-04-10T19:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
