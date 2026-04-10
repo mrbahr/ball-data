@@ -11,7 +11,6 @@ print(f"Fetching matches for: {today} from football-data.org...\n")
 
 url = "https://api.football-data.org/v4/matches"
 
-# طلبنا ماتشات اليوم فقط (بدون فلتر الرموز المعقد)
 querystring = {
     "dateFrom": today, 
     "dateTo": today
