@@ -4,7 +4,7 @@
             "id": 554848,
             "date": "2026-04-11T23:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -60,7 +60,7 @@
             "id": 537705,
             "date": "2026-04-12T10:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -88,7 +88,7 @@
             "id": 537130,
             "date": "2026-04-12T10:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -116,7 +116,7 @@
             "id": 541204,
             "date": "2026-04-12T11:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -225,34 +225,6 @@
     },
     {
         "fixture": {
-            "id": 537134,
-            "date": "2026-04-12T13:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Parma Calcio 1913",
-                "logo": "https://crests.football-data.org/112.png"
-            },
-            "away": {
-                "name": "SSC Napoli",
-                "logo": "https://crests.football-data.org/113.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 538095,
             "date": "2026-04-12T13:00:00+00:00",
             "status": {
@@ -281,25 +253,25 @@
     },
     {
         "fixture": {
-            "id": 538103,
+            "id": 537134,
             "date": "2026-04-12T13:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
         },
         "teams": {
             "home": {
-                "name": "Nottingham Forest FC",
-                "logo": "https://crests.football-data.org/351.png"
+                "name": "Parma Calcio 1913",
+                "logo": "https://crests.football-data.org/112.png"
             },
             "away": {
-                "name": "Aston Villa FC",
-                "logo": "https://crests.football-data.org/58.png"
+                "name": "SSC Napoli",
+                "logo": "https://crests.football-data.org/113.png"
             }
         },
         "goals": {
@@ -328,6 +300,34 @@
             "away": {
                 "name": "Newcastle United FC",
                 "logo": "https://crests.football-data.org/67.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538103,
+            "date": "2026-04-12T13:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Nottingham Forest FC",
+                "logo": "https://crests.football-data.org/351.png"
+            },
+            "away": {
+                "name": "Aston Villa FC",
+                "logo": "https://crests.football-data.org/58.png"
             }
         },
         "goals": {
@@ -477,34 +477,6 @@
     },
     {
         "fixture": {
-            "id": 542660,
-            "date": "2026-04-12T15:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Toulouse FC",
-                "logo": "https://crests.football-data.org/511.png"
-            },
-            "away": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542661,
             "date": "2026-04-12T15:15:00+00:00",
             "status": {
@@ -524,6 +496,34 @@
             "away": {
                 "name": "Le Havre AC",
                 "logo": "https://crests.football-data.org/533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 542660,
+            "date": "2026-04-12T15:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Toulouse FC",
+                "logo": "https://crests.football-data.org/511.png"
+            },
+            "away": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
             }
         },
         "goals": {
@@ -729,34 +729,6 @@
     },
     {
         "fixture": {
-            "id": 542662,
-            "date": "2026-04-12T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Olympique Lyonnais",
-                "logo": "https://crests.football-data.org/523.png"
-            },
-            "away": {
-                "name": "FC Lorient",
-                "logo": "https://crests.football-data.org/525.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 537131,
             "date": "2026-04-12T18:45:00+00:00",
             "status": {
@@ -785,25 +757,25 @@
     },
     {
         "fixture": {
-            "id": 554841,
-            "date": "2026-04-12T19:00:00+00:00",
+            "id": 542662,
+            "date": "2026-04-12T18:45:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
         },
         "teams": {
             "home": {
-                "name": "Botafogo FR",
-                "logo": "https://crests.football-data.org/1770.png"
+                "name": "Olympique Lyonnais",
+                "logo": "https://crests.football-data.org/523.png"
             },
             "away": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
+                "name": "FC Lorient",
+                "logo": "https://crests.football-data.org/525.png"
             }
         },
         "goals": {
@@ -832,6 +804,34 @@
             "away": {
                 "name": "Villarreal CF",
                 "logo": "https://crests.football-data.org/94.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554841,
+            "date": "2026-04-12T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Botafogo FR",
+                "logo": "https://crests.football-data.org/1770.png"
+            },
+            "away": {
+                "name": "Coritiba FBC",
+                "logo": "https://crests.football-data.org/4241.png"
             }
         },
         "goals": {
@@ -897,34 +897,6 @@
     },
     {
         "fixture": {
-            "id": 554843,
-            "date": "2026-04-12T21:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Cruzeiro EC",
-                "logo": "https://crests.football-data.org/1771.png"
-            },
-            "away": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554842,
             "date": "2026-04-12T21:30:00+00:00",
             "status": {
@@ -944,6 +916,34 @@
             "away": {
                 "name": "SE Palmeiras",
                 "logo": "https://crests.football-data.org/1769.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554843,
+            "date": "2026-04-12T21:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Cruzeiro EC",
+                "logo": "https://crests.football-data.org/1771.png"
+            },
+            "away": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
             }
         },
         "goals": {
