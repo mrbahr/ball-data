@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 537707,
-            "date": "2026-04-12T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "NEC",
-                "logo": "https://crests.football-data.org/1915.png"
-            },
-            "away": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 537708,
             "date": "2026-04-12T12:30:00+00:00",
             "status": {
@@ -225,29 +197,29 @@
     },
     {
         "fixture": {
-            "id": 538096,
-            "date": "2026-04-12T13:00:00+00:00",
+            "id": 537707,
+            "date": "2026-04-12T12:30:00+00:00",
             "status": {
                 "short": "FT"
             }
         },
         "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
         },
         "teams": {
             "home": {
-                "name": "Crystal Palace FC",
-                "logo": "https://crests.football-data.org/354.png"
+                "name": "NEC",
+                "logo": "https://crests.football-data.org/1915.png"
             },
             "away": {
-                "name": "Newcastle United FC",
-                "logo": "https://crests.football-data.org/67.png"
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
             }
         },
         "goals": {
-            "home": 2,
+            "home": 1,
             "away": 1
         }
     },
@@ -281,29 +253,29 @@
     },
     {
         "fixture": {
-            "id": 537134,
+            "id": 538096,
             "date": "2026-04-12T13:00:00+00:00",
             "status": {
                 "short": "FT"
             }
         },
         "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "Parma Calcio 1913",
-                "logo": "https://crests.football-data.org/112.png"
+                "name": "Crystal Palace FC",
+                "logo": "https://crests.football-data.org/354.png"
             },
             "away": {
-                "name": "SSC Napoli",
-                "logo": "https://crests.football-data.org/113.png"
+                "name": "Newcastle United FC",
+                "logo": "https://crests.football-data.org/67.png"
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
         }
     },
@@ -333,6 +305,34 @@
         "goals": {
             "home": 1,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 537134,
+            "date": "2026-04-12T13:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Parma Calcio 1913",
+                "logo": "https://crests.football-data.org/112.png"
+            },
+            "away": {
+                "name": "SSC Napoli",
+                "logo": "https://crests.football-data.org/113.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -648,7 +648,7 @@
             "id": 545952,
             "date": "2026-04-12T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -667,7 +667,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -676,7 +676,7 @@
             "id": 545960,
             "date": "2026-04-12T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -704,7 +704,7 @@
             "id": 540661,
             "date": "2026-04-12T17:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -724,35 +724,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 542662,
-            "date": "2026-04-12T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Olympique Lyonnais",
-                "logo": "https://crests.football-data.org/523.png"
-            },
-            "away": {
-                "name": "FC Lorient",
-                "logo": "https://crests.football-data.org/525.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "away": 1
         }
     },
     {
@@ -760,7 +732,7 @@
             "id": 537131,
             "date": "2026-04-12T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -779,8 +751,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 542662,
+            "date": "2026-04-12T18:45:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Olympique Lyonnais",
+                "logo": "https://crests.football-data.org/523.png"
+            },
+            "away": {
+                "name": "FC Lorient",
+                "logo": "https://crests.football-data.org/525.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -788,7 +788,7 @@
             "id": 554841,
             "date": "2026-04-12T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -807,8 +807,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -816,7 +816,7 @@
             "id": 544511,
             "date": "2026-04-12T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -835,8 +835,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
