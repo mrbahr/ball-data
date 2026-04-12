@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 537707,
-            "date": "2026-04-12T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "NEC",
-                "logo": "https://crests.football-data.org/1915.png"
-            },
-            "away": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 537708,
             "date": "2026-04-12T12:30:00+00:00",
             "status": {
@@ -221,6 +193,34 @@
         "goals": {
             "home": 2,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 537707,
+            "date": "2026-04-12T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "NEC",
+                "logo": "https://crests.football-data.org/1915.png"
+            },
+            "away": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -396,7 +396,7 @@
             "id": 544515,
             "date": "2026-04-12T14:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -424,7 +424,7 @@
             "id": 545957,
             "date": "2026-04-12T14:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -443,7 +443,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 1
         }
     },
@@ -452,7 +452,7 @@
             "id": 537702,
             "date": "2026-04-12T14:45:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -471,7 +471,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         }
     },
@@ -500,7 +500,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 3
         }
     },
     {
@@ -527,7 +527,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     },
@@ -556,7 +556,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         }
     },
     {
@@ -583,7 +583,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 3,
             "away": 0
         }
     },
@@ -592,7 +592,7 @@
             "id": 537132,
             "date": "2026-04-12T16:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -611,8 +611,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -620,7 +620,7 @@
             "id": 544513,
             "date": "2026-04-12T16:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -639,8 +639,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -729,34 +729,6 @@
     },
     {
         "fixture": {
-            "id": 542662,
-            "date": "2026-04-12T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Olympique Lyonnais",
-                "logo": "https://crests.football-data.org/523.png"
-            },
-            "away": {
-                "name": "FC Lorient",
-                "logo": "https://crests.football-data.org/525.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 537131,
             "date": "2026-04-12T18:45:00+00:00",
             "status": {
@@ -776,6 +748,34 @@
             "away": {
                 "name": "FC Internazionale Milano",
                 "logo": "https://crests.football-data.org/108.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 542662,
+            "date": "2026-04-12T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Olympique Lyonnais",
+                "logo": "https://crests.football-data.org/523.png"
+            },
+            "away": {
+                "name": "FC Lorient",
+                "logo": "https://crests.football-data.org/525.png"
             }
         },
         "goals": {
