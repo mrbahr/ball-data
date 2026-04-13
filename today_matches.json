@@ -29,34 +29,6 @@
     },
     {
         "fixture": {
-            "id": 538102,
-            "date": "2026-04-13T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
-            },
-            "away": {
-                "name": "Leeds United FC",
-                "logo": "https://crests.football-data.org/341.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 544519,
             "date": "2026-04-13T19:00:00+00:00",
             "status": {
@@ -76,6 +48,34 @@
             "away": {
                 "name": "Getafe CF",
                 "logo": "https://crests.football-data.org/82.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538102,
+            "date": "2026-04-13T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
+            },
+            "away": {
+                "name": "Leeds United FC",
+                "logo": "https://crests.football-data.org/341.png"
             }
         },
         "goals": {
