@@ -4,7 +4,7 @@
             "id": 537125,
             "date": "2026-04-13T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -23,36 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 538102,
-            "date": "2026-04-13T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
-            },
-            "away": {
-                "name": "Leeds United FC",
-                "logo": "https://crests.football-data.org/341.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -60,7 +32,7 @@
             "id": 544519,
             "date": "2026-04-13T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +51,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 538102,
+            "date": "2026-04-13T19:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
+            },
+            "away": {
+                "name": "Leeds United FC",
+                "logo": "https://crests.football-data.org/341.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 545953,
             "date": "2026-04-13T19:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     }
 ]
