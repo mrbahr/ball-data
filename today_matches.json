@@ -4,7 +4,7 @@
             "id": 537125,
             "date": "2026-04-13T18:45:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -29,10 +29,38 @@
     },
     {
         "fixture": {
+            "id": 544519,
+            "date": "2026-04-13T19:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Levante UD",
+                "logo": "https://crests.football-data.org/88.png"
+            },
+            "away": {
+                "name": "Getafe CF",
+                "logo": "https://crests.football-data.org/82.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 538102,
             "date": "2026-04-13T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -57,38 +85,10 @@
     },
     {
         "fixture": {
-            "id": 544519,
-            "date": "2026-04-13T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Levante UD",
-                "logo": "https://crests.football-data.org/88.png"
-            },
-            "away": {
-                "name": "Getafe CF",
-                "logo": "https://crests.football-data.org/82.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 545953,
             "date": "2026-04-13T19:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 2
         }
     }
 ]
