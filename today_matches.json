@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 556724,
-            "date": "2026-04-14T19:00:00+00:00",
-            "status": {
-                "short": "HT"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
-            },
-            "away": {
-                "name": "FC Barcelona",
-                "logo": "https://crests.football-data.org/81.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 541249,
             "date": "2026-04-14T19:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 2,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 556724,
+            "date": "2026-04-14T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
+            },
+            "away": {
+                "name": "FC Barcelona",
+                "logo": "https://crests.football-data.org/81.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 3
         }
     },
     {
@@ -80,7 +80,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 541021,
             "date": "2026-04-14T19:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
