@@ -1,10 +1,38 @@
 [
     {
         "fixture": {
-            "id": 541249,
+            "id": 556722,
             "date": "2026-04-14T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Liverpool FC",
+                "logo": "https://crests.football-data.org/64.png"
+            },
+            "away": {
+                "name": "Paris Saint-Germain FC",
+                "logo": "https://crests.football-data.org/524.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 541021,
+            "date": "2026-04-14T19:00:00+00:00",
+            "status": {
+                "short": "FT"
             }
         },
         "league": {
@@ -14,12 +42,12 @@
         },
         "teams": {
             "home": {
-                "name": "Southampton FC",
-                "logo": "https://crests.football-data.org/340.png"
+                "name": "Portsmouth FC",
+                "logo": "https://crests.football-data.org/325.png"
             },
             "away": {
-                "name": "Blackburn Rovers FC",
-                "logo": "https://crests.football-data.org/59.png"
+                "name": "Ipswich Town FC",
+                "logo": "https://crests.football-data.org/349.png"
             }
         },
         "goals": {
@@ -32,7 +60,7 @@
             "id": 556724,
             "date": "2026-04-14T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -57,38 +85,10 @@
     },
     {
         "fixture": {
-            "id": 556722,
+            "id": 541249,
             "date": "2026-04-14T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Liverpool FC",
-                "logo": "https://crests.football-data.org/64.png"
-            },
-            "away": {
-                "name": "Paris Saint-Germain FC",
-                "logo": "https://crests.football-data.org/524.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 541021,
-            "date": "2026-04-14T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -98,16 +98,16 @@
         },
         "teams": {
             "home": {
-                "name": "Portsmouth FC",
-                "logo": "https://crests.football-data.org/325.png"
+                "name": "Southampton FC",
+                "logo": "https://crests.football-data.org/340.png"
             },
             "away": {
-                "name": "Ipswich Town FC",
-                "logo": "https://crests.football-data.org/349.png"
+                "name": "Blackburn Rovers FC",
+                "logo": "https://crests.football-data.org/59.png"
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         }
     }
