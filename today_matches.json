@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 557159,
-            "date": "2026-04-15T02:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "LDU de Quito",
-                "logo": "https://crests.football-data.org/4528.png"
-            },
-            "away": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557098,
             "date": "2026-04-15T02:00:00+00:00",
             "status": {
@@ -197,30 +169,30 @@
     },
     {
         "fixture": {
-            "id": 556723,
-            "date": "2026-04-15T19:00:00+00:00",
+            "id": 557159,
+            "date": "2026-04-15T02:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
         },
         "teams": {
             "home": {
-                "name": "FC Bayern München",
-                "logo": "https://crests.football-data.org/5.png"
+                "name": "LDU de Quito",
+                "logo": "https://crests.football-data.org/4528.png"
             },
             "away": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
             }
         },
         "goals": {
-            "home": 2,
-            "away": 3
+            "home": null,
+            "away": null
         }
     },
     {
@@ -228,7 +200,7 @@
             "id": 556725,
             "date": "2026-04-15T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -249,6 +221,34 @@
         "goals": {
             "home": 0,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 556723,
+            "date": "2026-04-15T19:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
+            },
+            "away": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
+            }
+        },
+        "goals": {
+            "home": 4,
+            "away": 3
         }
     }
 ]
