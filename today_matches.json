@@ -4,7 +4,7 @@
             "id": 557086,
             "date": "2026-04-14T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -32,7 +32,7 @@
             "id": 557146,
             "date": "2026-04-14T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557099,
             "date": "2026-04-14T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": 3,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 557110,
             "date": "2026-04-15T00:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 557123,
             "date": "2026-04-15T00:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -197,34 +197,6 @@
     },
     {
         "fixture": {
-            "id": 556723,
-            "date": "2026-04-15T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Bayern München",
-                "logo": "https://crests.football-data.org/5.png"
-            },
-            "away": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 556725,
             "date": "2026-04-15T19:00:00+00:00",
             "status": {
@@ -244,6 +216,34 @@
             "away": {
                 "name": "Sporting Clube de Portugal",
                 "logo": "https://crests.football-data.org/498.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 556723,
+            "date": "2026-04-15T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
+            },
+            "away": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
             }
         },
         "goals": {
