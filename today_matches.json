@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 557098,
-            "date": "2026-04-15T02:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Universitario de Deportes",
-                "logo": "https://crests.football-data.org/4268.png"
-            },
-            "away": {
-                "name": "CD Coquimbo Unido",
-                "logo": "https://crests.football-data.org/7912.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557159,
             "date": "2026-04-15T02:00:00+00:00",
             "status": {
@@ -197,30 +169,30 @@
     },
     {
         "fixture": {
-            "id": 556725,
-            "date": "2026-04-15T19:00:00+00:00",
+            "id": 557098,
+            "date": "2026-04-15T02:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
         },
         "teams": {
             "home": {
-                "name": "Arsenal FC",
-                "logo": "https://crests.football-data.org/57.png"
+                "name": "Club Universitario de Deportes",
+                "logo": "https://crests.football-data.org/4268.png"
             },
             "away": {
-                "name": "Sporting Clube de Portugal",
-                "logo": "https://crests.football-data.org/498.png"
+                "name": "CD Coquimbo Unido",
+                "logo": "https://crests.football-data.org/7912.png"
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -249,6 +221,34 @@
         "goals": {
             "home": 2,
             "away": 3
+        }
+    },
+    {
+        "fixture": {
+            "id": 556725,
+            "date": "2026-04-15T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Arsenal FC",
+                "logo": "https://crests.football-data.org/57.png"
+            },
+            "away": {
+                "name": "Sporting Clube de Portugal",
+                "logo": "https://crests.football-data.org/498.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     }
 ]
