@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557086,
-            "date": "2026-04-14T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Estudiantes de La Plata",
-                "logo": "https://crests.football-data.org/2051.png"
-            },
-            "away": {
-                "name": "Cusco FC",
-                "logo": "https://crests.football-data.org/5683.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557146,
             "date": "2026-04-14T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,8 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -60,7 +32,7 @@
             "id": 557099,
             "date": "2026-04-14T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,16 +51,16 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 1
         }
     },
     {
         "fixture": {
-            "id": 557123,
-            "date": "2026-04-15T00:00:00+00:00",
+            "id": 557086,
+            "date": "2026-04-14T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -98,17 +70,17 @@
         },
         "teams": {
             "home": {
-                "name": "CA Boca Juniors",
-                "logo": "https://crests.football-data.org/2061.png"
+                "name": "Estudiantes de La Plata",
+                "logo": "https://crests.football-data.org/2051.png"
             },
             "away": {
-                "name": "Barcelona SC",
-                "logo": "https://crests.football-data.org/4520.png"
+                "name": "Cusco FC",
+                "logo": "https://crests.football-data.org/5683.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -116,7 +88,7 @@
             "id": 557110,
             "date": "2026-04-15T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -135,8 +107,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 557123,
+            "date": "2026-04-15T00:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Boca Juniors",
+                "logo": "https://crests.football-data.org/2061.png"
+            },
+            "away": {
+                "name": "Barcelona SC",
+                "logo": "https://crests.football-data.org/4520.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -197,34 +197,6 @@
     },
     {
         "fixture": {
-            "id": 556723,
-            "date": "2026-04-15T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Bayern München",
-                "logo": "https://crests.football-data.org/5.png"
-            },
-            "away": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 556725,
             "date": "2026-04-15T19:00:00+00:00",
             "status": {
@@ -244,6 +216,34 @@
             "away": {
                 "name": "Sporting Clube de Portugal",
                 "logo": "https://crests.football-data.org/498.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 556723,
+            "date": "2026-04-15T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
+            },
+            "away": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
             }
         },
         "goals": {
