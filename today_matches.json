@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557158,
-            "date": "2026-04-16T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Lanús",
-                "logo": "https://crests.football-data.org/2066.png"
-            },
-            "away": {
-                "name": "Club Always Ready",
-                "logo": "https://crests.football-data.org/7865.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557147,
             "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,16 +23,16 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
         "fixture": {
-            "id": 557135,
-            "date": "2026-04-17T00:30:00+00:00",
+            "id": 557158,
+            "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "CA Peñarol",
-                "logo": "https://crests.football-data.org/5184.png"
+                "name": "CA Lanús",
+                "logo": "https://crests.football-data.org/2066.png"
             },
             "away": {
-                "name": "CA Platense",
-                "logo": "https://crests.football-data.org/7580.png"
+                "name": "Club Always Ready",
+                "logo": "https://crests.football-data.org/7865.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -88,7 +60,7 @@
             "id": 557087,
             "date": "2026-04-17T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +79,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557135,
+            "date": "2026-04-17T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Peñarol",
+                "logo": "https://crests.football-data.org/5184.png"
+            },
+            "away": {
+                "name": "CA Platense",
+                "logo": "https://crests.football-data.org/7580.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 537137,
-            "date": "2026-04-17T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Internazionale Milano",
-                "logo": "https://crests.football-data.org/108.png"
-            },
-            "away": {
-                "name": "Cagliari Calcio",
-                "logo": "https://crests.football-data.org/104.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542674,
             "date": "2026-04-17T18:45:00+00:00",
             "status": {
@@ -216,6 +188,34 @@
             "away": {
                 "name": "Toulouse FC",
                 "logo": "https://crests.football-data.org/511.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537137,
+            "date": "2026-04-17T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Internazionale Milano",
+                "logo": "https://crests.football-data.org/108.png"
+            },
+            "away": {
+                "name": "Cagliari Calcio",
+                "logo": "https://crests.football-data.org/104.png"
             }
         },
         "goals": {
