@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557147,
-            "date": "2026-04-16T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            },
-            "away": {
-                "name": "CS Cristal",
-                "logo": "https://crests.football-data.org/5347.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 557158,
             "date": "2026-04-16T22:00:00+00:00",
             "status": {
@@ -57,10 +29,10 @@
     },
     {
         "fixture": {
-            "id": 557087,
-            "date": "2026-04-17T00:30:00+00:00",
+            "id": 557147,
+            "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             },
             "away": {
-                "name": "CD Independiente Medellín",
-                "logo": "https://crests.football-data.org/7119.png"
+                "name": "CS Cristal",
+                "logo": "https://crests.football-data.org/5347.png"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -109,6 +81,34 @@
         "goals": {
             "home": 0,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 557087,
+            "date": "2026-04-17T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
+            },
+            "away": {
+                "name": "CD Independiente Medellín",
+                "logo": "https://crests.football-data.org/7119.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 537137,
-            "date": "2026-04-17T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Internazionale Milano",
-                "logo": "https://crests.football-data.org/108.png"
-            },
-            "away": {
-                "name": "Cagliari Calcio",
-                "logo": "https://crests.football-data.org/104.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542674,
             "date": "2026-04-17T18:45:00+00:00",
             "status": {
@@ -216,6 +188,34 @@
             "away": {
                 "name": "Toulouse FC",
                 "logo": "https://crests.football-data.org/511.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537137,
+            "date": "2026-04-17T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Internazionale Milano",
+                "logo": "https://crests.football-data.org/108.png"
+            },
+            "away": {
+                "name": "Cagliari Calcio",
+                "logo": "https://crests.football-data.org/104.png"
             }
         },
         "goals": {
