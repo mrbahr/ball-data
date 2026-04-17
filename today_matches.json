@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557147,
-            "date": "2026-04-16T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            },
-            "away": {
-                "name": "CS Cristal",
-                "logo": "https://crests.football-data.org/5347.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557158,
             "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,16 +23,16 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
         "fixture": {
-            "id": 557087,
-            "date": "2026-04-17T00:30:00+00:00",
+            "id": 557147,
+            "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             },
             "away": {
-                "name": "CD Independiente Medellín",
-                "logo": "https://crests.football-data.org/7119.png"
+                "name": "CS Cristal",
+                "logo": "https://crests.football-data.org/5347.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -88,7 +60,7 @@
             "id": 557135,
             "date": "2026-04-17T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +79,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 557087,
+            "date": "2026-04-17T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
+            },
+            "away": {
+                "name": "CD Independiente Medellín",
+                "logo": "https://crests.football-data.org/7119.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -228,7 +228,7 @@
             "id": 541216,
             "date": "2026-04-17T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -275,8 +275,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 2
         }
     }
 ]
