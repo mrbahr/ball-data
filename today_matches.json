@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557158,
-            "date": "2026-04-16T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Lanús",
-                "logo": "https://crests.football-data.org/2066.png"
-            },
-            "away": {
-                "name": "Club Always Ready",
-                "logo": "https://crests.football-data.org/7865.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 557147,
             "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,16 +23,16 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
         "fixture": {
-            "id": 557135,
-            "date": "2026-04-17T00:30:00+00:00",
+            "id": 557158,
+            "date": "2026-04-16T22:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "CA Peñarol",
-                "logo": "https://crests.football-data.org/5184.png"
+                "name": "CA Lanús",
+                "logo": "https://crests.football-data.org/2066.png"
             },
             "away": {
-                "name": "CA Platense",
-                "logo": "https://crests.football-data.org/7580.png"
+                "name": "Club Always Ready",
+                "logo": "https://crests.football-data.org/7865.png"
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -88,7 +60,7 @@
             "id": 557087,
             "date": "2026-04-17T00:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -107,8 +79,36 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 557135,
+            "date": "2026-04-17T00:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Peñarol",
+                "logo": "https://crests.football-data.org/5184.png"
+            },
+            "away": {
+                "name": "CA Platense",
+                "logo": "https://crests.football-data.org/7580.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 537140,
             "date": "2026-04-17T16:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
