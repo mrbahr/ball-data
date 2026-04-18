@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 541221,
-            "date": "2026-04-18T11:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Millwall FC",
-                "logo": "https://crests.football-data.org/384.png"
-            },
-            "away": {
-                "name": "Queens Park Rangers FC",
-                "logo": "https://crests.football-data.org/69.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 541218,
             "date": "2026-04-18T11:30:00+00:00",
             "status": {
@@ -52,6 +24,34 @@
         },
         "goals": {
             "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 541221,
+            "date": "2026-04-18T11:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Millwall FC",
+                "logo": "https://crests.football-data.org/384.png"
+            },
+            "away": {
+                "name": "Queens Park Rangers FC",
+                "logo": "https://crests.football-data.org/69.png"
+            }
+        },
+        "goals": {
+            "home": 2,
             "away": 0
         }
     },
@@ -116,7 +116,7 @@
             "id": 537142,
             "date": "2026-04-18T13:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -144,7 +144,7 @@
             "id": 540671,
             "date": "2026-04-18T13:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -163,7 +163,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         }
     },
@@ -172,7 +172,7 @@
             "id": 540674,
             "date": "2026-04-18T13:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -191,7 +191,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 1
         }
     },
@@ -219,8 +219,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -228,7 +228,7 @@
             "id": 540675,
             "date": "2026-04-18T13:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -248,7 +248,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         }
     },
     {
@@ -256,7 +256,7 @@
             "id": 541225,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -276,7 +276,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -284,7 +284,7 @@
             "id": 541227,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -312,7 +312,7 @@
             "id": 538112,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -331,7 +331,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     },
@@ -340,7 +340,7 @@
             "id": 541223,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -365,10 +365,38 @@
     },
     {
         "fixture": {
+            "id": 541224,
+            "date": "2026-04-18T14:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sheffield Wednesday FC",
+                "logo": "https://crests.football-data.org/345.png"
+            },
+            "away": {
+                "name": "Charlton Athletic FC",
+                "logo": "https://crests.football-data.org/348.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 541219,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -396,7 +424,7 @@
             "id": 541226,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -416,7 +444,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         }
     },
     {
@@ -424,7 +452,7 @@
             "id": 538110,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -452,7 +480,7 @@
             "id": 541217,
             "date": "2026-04-18T14:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -472,35 +500,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 541224,
-            "date": "2026-04-18T14:00:00+00:00",
-            "status": {
-                "short": "HT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sheffield Wednesday FC",
-                "logo": "https://crests.football-data.org/345.png"
-            },
-            "away": {
-                "name": "Charlton Athletic FC",
-                "logo": "https://crests.football-data.org/348.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
+            "away": 4
         }
     },
     {
@@ -508,7 +508,7 @@
             "id": 545963,
             "date": "2026-04-18T14:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -536,7 +536,7 @@
             "id": 542668,
             "date": "2026-04-18T15:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -555,8 +555,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -813,34 +813,6 @@
     },
     {
         "fixture": {
-            "id": 554858,
-            "date": "2026-04-18T21:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
-            },
-            "away": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554851,
             "date": "2026-04-18T21:30:00+00:00",
             "status": {
@@ -860,6 +832,34 @@
             "away": {
                 "name": "Botafogo FR",
                 "logo": "https://crests.football-data.org/1770.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554858,
+            "date": "2026-04-18T21:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
+            },
+            "away": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
             }
         },
         "goals": {
