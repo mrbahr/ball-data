@@ -4,7 +4,7 @@
             "id": 554859,
             "date": "2026-04-18T23:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -113,25 +113,25 @@
     },
     {
         "fixture": {
-            "id": 542667,
+            "id": 538113,
             "date": "2026-04-19T13:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "AS Monaco FC",
-                "logo": "https://crests.football-data.org/548.png"
+                "name": "Nottingham Forest FC",
+                "logo": "https://crests.football-data.org/351.png"
             },
             "away": {
-                "name": "AJ Auxerre",
-                "logo": "https://crests.football-data.org/519.png"
+                "name": "Burnley FC",
+                "logo": "https://crests.football-data.org/328.png"
             }
         },
         "goals": {
@@ -169,53 +169,25 @@
     },
     {
         "fixture": {
-            "id": 538113,
+            "id": 542667,
             "date": "2026-04-19T13:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
         },
         "teams": {
             "home": {
-                "name": "Nottingham Forest FC",
-                "logo": "https://crests.football-data.org/351.png"
+                "name": "AS Monaco FC",
+                "logo": "https://crests.football-data.org/548.png"
             },
             "away": {
-                "name": "Burnley FC",
-                "logo": "https://crests.football-data.org/328.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 537136,
-            "date": "2026-04-19T13:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Hellas Verona FC",
-                "logo": "https://crests.football-data.org/450.png"
-            },
-            "away": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
+                "name": "AJ Auxerre",
+                "logo": "https://crests.football-data.org/519.png"
             }
         },
         "goals": {
@@ -244,6 +216,34 @@
             "away": {
                 "name": "Sunderland AFC",
                 "logo": "https://crests.football-data.org/71.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537136,
+            "date": "2026-04-19T13:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Hellas Verona FC",
+                "logo": "https://crests.football-data.org/450.png"
+            },
+            "away": {
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
             }
         },
         "goals": {
@@ -729,34 +729,6 @@
     },
     {
         "fixture": {
-            "id": 554850,
-            "date": "2026-04-19T21:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            },
-            "away": {
-                "name": "Clube do Remo",
-                "logo": "https://crests.football-data.org/4287.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554856,
             "date": "2026-04-19T21:30:00+00:00",
             "status": {
@@ -776,6 +748,34 @@
             "away": {
                 "name": "CA Paranaense",
                 "logo": "https://crests.football-data.org/1768.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554850,
+            "date": "2026-04-19T21:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            },
+            "away": {
+                "name": "Clube do Remo",
+                "logo": "https://crests.football-data.org/4287.png"
             }
         },
         "goals": {
