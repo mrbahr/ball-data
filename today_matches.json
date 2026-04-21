@@ -169,6 +169,34 @@
     },
     {
         "fixture": {
+            "id": 541231,
+            "date": "2026-04-21T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Oxford United FC",
+                "logo": "https://crests.football-data.org/1082.png"
+            },
+            "away": {
+                "name": "Wrexham AFC",
+                "logo": "https://crests.football-data.org/404.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 541233,
             "date": "2026-04-21T18:45:00+00:00",
             "status": {
@@ -188,34 +216,6 @@
             "away": {
                 "name": "Bristol City FC",
                 "logo": "https://crests.football-data.org/387.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 541228,
-            "date": "2026-04-21T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Coventry City FC",
-                "logo": "https://crests.football-data.org/1076.png"
-            },
-            "away": {
-                "name": "Portsmouth FC",
-                "logo": "https://crests.football-data.org/325.png"
             }
         },
         "goals": {
@@ -253,7 +253,7 @@
     },
     {
         "fixture": {
-            "id": 541231,
+            "id": 541228,
             "date": "2026-04-21T18:45:00+00:00",
             "status": {
                 "short": "NS"
@@ -266,12 +266,12 @@
         },
         "teams": {
             "home": {
-                "name": "Oxford United FC",
-                "logo": "https://crests.football-data.org/1082.png"
+                "name": "Coventry City FC",
+                "logo": "https://crests.football-data.org/1076.png"
             },
             "away": {
-                "name": "Wrexham AFC",
-                "logo": "https://crests.football-data.org/404.png"
+                "name": "Portsmouth FC",
+                "logo": "https://crests.football-data.org/325.png"
             }
         },
         "goals": {
