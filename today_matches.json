@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 537718,
             "date": "2026-04-22T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 544540,
             "date": "2026-04-22T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -132,6 +132,34 @@
             "away": {
                 "name": "Sheffield Wednesday FC",
                 "logo": "https://crests.football-data.org/345.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 541236,
+            "date": "2026-04-22T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Birmingham City FC",
+                "logo": "https://crests.football-data.org/332.png"
+            },
+            "away": {
+                "name": "Preston North End FC",
+                "logo": "https://crests.football-data.org/1081.png"
             }
         },
         "goals": {
@@ -188,34 +216,6 @@
             "away": {
                 "name": "Ipswich Town FC",
                 "logo": "https://crests.football-data.org/349.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 541236,
-            "date": "2026-04-22T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Birmingham City FC",
-                "logo": "https://crests.football-data.org/332.png"
-            },
-            "away": {
-                "name": "Preston North End FC",
-                "logo": "https://crests.football-data.org/1081.png"
             }
         },
         "goals": {
