@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 544537,
-            "date": "2026-04-22T17:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Elche CF",
-                "logo": "https://crests.football-data.org/285.png"
-            },
-            "away": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542636,
             "date": "2026-04-22T17:00:00+00:00",
             "status": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "FC Nantes",
                 "logo": "https://crests.football-data.org/543.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 544537,
+            "date": "2026-04-22T17:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Elche CF",
+                "logo": "https://crests.football-data.org/285.png"
+            },
+            "away": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
             }
         },
         "goals": {
@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 541239,
-            "date": "2026-04-22T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sheffield United FC",
-                "logo": "https://crests.football-data.org/356.png"
-            },
-            "away": {
-                "name": "Blackburn Rovers FC",
-                "logo": "https://crests.football-data.org/59.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 541237,
             "date": "2026-04-22T18:45:00+00:00",
             "status": {
@@ -225,25 +197,25 @@
     },
     {
         "fixture": {
-            "id": 538115,
-            "date": "2026-04-22T19:00:00+00:00",
+            "id": 541239,
+            "date": "2026-04-22T18:45:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Premier League",
+            "name": "Championship",
             "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "logo": "https://crests.football-data.org/ELC.png"
         },
         "teams": {
             "home": {
-                "name": "AFC Bournemouth",
-                "logo": "https://crests.football-data.org/bournemouth.png"
+                "name": "Sheffield United FC",
+                "logo": "https://crests.football-data.org/356.png"
             },
             "away": {
-                "name": "Leeds United FC",
-                "logo": "https://crests.football-data.org/341.png"
+                "name": "Blackburn Rovers FC",
+                "logo": "https://crests.football-data.org/59.png"
             }
         },
         "goals": {
@@ -272,6 +244,34 @@
             "away": {
                 "name": "Manchester City FC",
                 "logo": "https://crests.football-data.org/65.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538115,
+            "date": "2026-04-22T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AFC Bournemouth",
+                "logo": "https://crests.football-data.org/bournemouth.png"
+            },
+            "away": {
+                "name": "Leeds United FC",
+                "logo": "https://crests.football-data.org/341.png"
             }
         },
         "goals": {
