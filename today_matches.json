@@ -4,7 +4,7 @@
             "id": 537713,
             "date": "2026-04-23T16:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,36 +51,8 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 545930,
-            "date": "2026-04-23T18:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Casa Pia AC",
-                "logo": "https://crests.football-data.org/6618.png"
-            },
-            "away": {
-                "name": "Sporting Clube de Braga",
-                "logo": "https://crests.football-data.org/5613.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
         }
     },
     {
@@ -88,7 +60,7 @@
             "id": 544539,
             "date": "2026-04-23T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +79,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 545930,
+            "date": "2026-04-23T18:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Casa Pia AC",
+                "logo": "https://crests.football-data.org/6618.png"
+            },
+            "away": {
+                "name": "Sporting Clube de Braga",
+                "logo": "https://crests.football-data.org/5613.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
         }
     },
     {
