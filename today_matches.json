@@ -57,34 +57,6 @@
     },
     {
         "fixture": {
-            "id": 544539,
-            "date": "2026-04-23T18:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Rayo Vallecano de Madrid",
-                "logo": "https://crests.football-data.org/87.png"
-            },
-            "away": {
-                "name": "RCD Espanyol de Barcelona",
-                "logo": "https://crests.football-data.org/80.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 545930,
             "date": "2026-04-23T18:00:00+00:00",
             "status": {
@@ -113,10 +85,38 @@
     },
     {
         "fixture": {
+            "id": 544539,
+            "date": "2026-04-23T18:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Rayo Vallecano de Madrid",
+                "logo": "https://crests.football-data.org/87.png"
+            },
+            "away": {
+                "name": "RCD Espanyol de Barcelona",
+                "logo": "https://crests.football-data.org/80.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 537716,
             "date": "2026-04-23T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -135,7 +135,7 @@
             }
         },
         "goals": {
-            "home": 4,
+            "home": 6,
             "away": 1
         }
     },
@@ -144,7 +144,7 @@
             "id": 544535,
             "date": "2026-04-23T19:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,7 +163,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     }
