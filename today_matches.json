@@ -4,7 +4,7 @@
             "id": 540682,
             "date": "2026-04-24T18:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -51,7 +51,7 @@
             }
         },
         "goals": {
-            "home": 3,
+            "home": 4,
             "away": 0
         }
     },
@@ -60,7 +60,7 @@
             "id": 542683,
             "date": "2026-04-24T18:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -80,35 +80,7 @@
         },
         "goals": {
             "home": 3,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 544522,
-            "date": "2026-04-24T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Betis Balompié",
-                "logo": "https://crests.football-data.org/90.png"
-            },
-            "away": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
+            "away": 2
         }
     },
     {
@@ -163,8 +135,36 @@
             }
         },
         "goals": {
+            "home": 1,
+            "away": 4
+        }
+    },
+    {
+        "fixture": {
+            "id": 544522,
+            "date": "2026-04-24T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Betis Balompié",
+                "logo": "https://crests.football-data.org/90.png"
+            },
+            "away": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
+            }
+        },
+        "goals": {
             "home": 0,
-            "away": 2
+            "away": 1
         }
     },
     {
@@ -172,7 +172,7 @@
             "id": 545976,
             "date": "2026-04-24T19:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
