@@ -4,7 +4,7 @@
             "id": 540682,
             "date": "2026-04-24T18:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -23,7 +23,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         }
     },
@@ -32,7 +32,7 @@
             "id": 537154,
             "date": "2026-04-24T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 542683,
             "date": "2026-04-24T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -79,64 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 541243,
-            "date": "2026-04-24T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Leicester City FC",
-                "logo": "https://crests.football-data.org/338.png"
-            },
-            "away": {
-                "name": "Millwall FC",
-                "logo": "https://crests.football-data.org/384.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 538116,
-            "date": "2026-04-24T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sunderland AFC",
-                "logo": "https://crests.football-data.org/71.png"
-            },
-            "away": {
-                "name": "Nottingham Forest FC",
-                "logo": "https://crests.football-data.org/351.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -144,7 +88,7 @@
             "id": 544522,
             "date": "2026-04-24T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,8 +107,64 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 541243,
+            "date": "2026-04-24T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Leicester City FC",
+                "logo": "https://crests.football-data.org/338.png"
+            },
+            "away": {
+                "name": "Millwall FC",
+                "logo": "https://crests.football-data.org/384.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 538116,
+            "date": "2026-04-24T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sunderland AFC",
+                "logo": "https://crests.football-data.org/71.png"
+            },
+            "away": {
+                "name": "Nottingham Forest FC",
+                "logo": "https://crests.football-data.org/351.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
         }
     },
     {
@@ -172,7 +172,7 @@
             "id": 545976,
             "date": "2026-04-24T19:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     }
 ]
