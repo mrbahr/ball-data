@@ -52,7 +52,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -80,7 +80,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -421,34 +421,6 @@
     },
     {
         "fixture": {
-            "id": 542676,
-            "date": "2026-04-26T15:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Le Havre AC",
-                "logo": "https://crests.football-data.org/533.png"
-            },
-            "away": {
-                "name": "FC Metz",
-                "logo": "https://crests.football-data.org/545.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542678,
             "date": "2026-04-26T15:15:00+00:00",
             "status": {
@@ -468,6 +440,34 @@
             "away": {
                 "name": "Lille OSC",
                 "logo": "https://crests.football-data.org/521.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 542676,
+            "date": "2026-04-26T15:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Le Havre AC",
+                "logo": "https://crests.football-data.org/533.png"
+            },
+            "away": {
+                "name": "FC Metz",
+                "logo": "https://crests.football-data.org/545.png"
             }
         },
         "goals": {
@@ -561,34 +561,6 @@
     },
     {
         "fixture": {
-            "id": 545972,
-            "date": "2026-04-26T17:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Santa Clara",
-                "logo": "https://crests.football-data.org/5530.png"
-            },
-            "away": {
-                "name": "Sporting Clube de Braga",
-                "logo": "https://crests.football-data.org/5613.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 545975,
             "date": "2026-04-26T17:00:00+00:00",
             "status": {
@@ -617,25 +589,25 @@
     },
     {
         "fixture": {
-            "id": 542681,
-            "date": "2026-04-26T18:45:00+00:00",
+            "id": 545972,
+            "date": "2026-04-26T17:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
         },
         "teams": {
             "home": {
-                "name": "Olympique de Marseille",
-                "logo": "https://crests.football-data.org/516.png"
+                "name": "CD Santa Clara",
+                "logo": "https://crests.football-data.org/5530.png"
             },
             "away": {
-                "name": "OGC Nice",
-                "logo": "https://crests.football-data.org/522.png"
+                "name": "Sporting Clube de Braga",
+                "logo": "https://crests.football-data.org/5613.png"
             }
         },
         "goals": {
@@ -673,25 +645,25 @@
     },
     {
         "fixture": {
-            "id": 554867,
-            "date": "2026-04-26T19:00:00+00:00",
+            "id": 542681,
+            "date": "2026-04-26T18:45:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
         },
         "teams": {
             "home": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
+                "name": "Olympique de Marseille",
+                "logo": "https://crests.football-data.org/516.png"
             },
             "away": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
+                "name": "OGC Nice",
+                "logo": "https://crests.football-data.org/522.png"
             }
         },
         "goals": {
@@ -748,6 +720,34 @@
             "away": {
                 "name": "RC Celta de Vigo",
                 "logo": "https://crests.football-data.org/558.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554867,
+            "date": "2026-04-26T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
+            },
+            "away": {
+                "name": "Coritiba FBC",
+                "logo": "https://crests.football-data.org/4241.png"
             }
         },
         "goals": {
