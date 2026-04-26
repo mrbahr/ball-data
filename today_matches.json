@@ -1,6 +1,34 @@
 [
     {
         "fixture": {
+            "id": 554868,
+            "date": "2026-04-25T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Clube do Remo",
+                "logo": "https://crests.football-data.org/4287.png"
+            },
+            "away": {
+                "name": "Cruzeiro EC",
+                "logo": "https://crests.football-data.org/1771.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 554863,
             "date": "2026-04-25T21:30:00+00:00",
             "status": {
@@ -53,34 +81,6 @@
         "goals": {
             "home": 2,
             "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 554868,
-            "date": "2026-04-25T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Clube do Remo",
-                "logo": "https://crests.football-data.org/4287.png"
-            },
-            "away": {
-                "name": "Cruzeiro EC",
-                "logo": "https://crests.football-data.org/1771.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
         }
     },
     {
@@ -393,34 +393,6 @@
     },
     {
         "fixture": {
-            "id": 542684,
-            "date": "2026-04-26T15:15:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Stade Rennais FC 1901",
-                "logo": "https://crests.football-data.org/529.png"
-            },
-            "away": {
-                "name": "FC Nantes",
-                "logo": "https://crests.football-data.org/543.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 542676,
             "date": "2026-04-26T15:15:00+00:00",
             "status": {
@@ -443,8 +415,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 2
+            "home": 4,
+            "away": 4
         }
     },
     {
@@ -477,10 +449,38 @@
     },
     {
         "fixture": {
+            "id": 542684,
+            "date": "2026-04-26T15:15:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Stade Rennais FC 1901",
+                "logo": "https://crests.football-data.org/529.png"
+            },
+            "away": {
+                "name": "FC Nantes",
+                "logo": "https://crests.football-data.org/543.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 540679,
             "date": "2026-04-26T15:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -500,7 +500,7 @@
         },
         "goals": {
             "home": 3,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -536,7 +536,7 @@
             "id": 544524,
             "date": "2026-04-26T16:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -555,8 +555,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -564,7 +564,7 @@
             "id": 545975,
             "date": "2026-04-26T17:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -583,8 +583,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -592,7 +592,7 @@
             "id": 545972,
             "date": "2026-04-26T17:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -611,8 +611,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
