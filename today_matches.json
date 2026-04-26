@@ -116,7 +116,7 @@
             "id": 537711,
             "date": "2026-04-26T10:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -135,7 +135,7 @@
             }
         },
         "goals": {
-            "home": 4,
+            "home": 5,
             "away": 0
         }
     },
@@ -144,7 +144,7 @@
             "id": 537145,
             "date": "2026-04-26T10:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -200,7 +200,7 @@
             "id": 544525,
             "date": "2026-04-26T12:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -219,8 +219,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -393,34 +393,6 @@
     },
     {
         "fixture": {
-            "id": 542678,
-            "date": "2026-04-26T15:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Paris FC",
-                "logo": "https://crests.football-data.org/1045.png"
-            },
-            "away": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542676,
             "date": "2026-04-26T15:15:00+00:00",
             "status": {
@@ -440,6 +412,34 @@
             "away": {
                 "name": "FC Metz",
                 "logo": "https://crests.football-data.org/545.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 542678,
+            "date": "2026-04-26T15:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Paris FC",
+                "logo": "https://crests.football-data.org/1045.png"
+            },
+            "away": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
             }
         },
         "goals": {
@@ -561,34 +561,6 @@
     },
     {
         "fixture": {
-            "id": 545975,
-            "date": "2026-04-26T17:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CF Estrela da Amadora",
-                "logo": "https://crests.football-data.org/9136.png"
-            },
-            "away": {
-                "name": "FC Porto",
-                "logo": "https://crests.football-data.org/503.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 545972,
             "date": "2026-04-26T17:00:00+00:00",
             "status": {
@@ -608,6 +580,34 @@
             "away": {
                 "name": "Sporting Clube de Braga",
                 "logo": "https://crests.football-data.org/5613.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 545975,
+            "date": "2026-04-26T17:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CF Estrela da Amadora",
+                "logo": "https://crests.football-data.org/9136.png"
+            },
+            "away": {
+                "name": "FC Porto",
+                "logo": "https://crests.football-data.org/503.png"
             }
         },
         "goals": {
