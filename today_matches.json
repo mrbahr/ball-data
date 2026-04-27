@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554860,
-            "date": "2026-04-26T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Paranaense",
-                "logo": "https://crests.football-data.org/1768.png"
-            },
-            "away": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 554864,
             "date": "2026-04-26T21:30:00+00:00",
             "status": {
@@ -57,8 +29,8 @@
     },
     {
         "fixture": {
-            "id": 554866,
-            "date": "2026-04-26T23:30:00+00:00",
+            "id": 554860,
+            "date": "2026-04-26T21:30:00+00:00",
             "status": {
                 "short": "FT"
             }
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
+                "name": "CA Paranaense",
+                "logo": "https://crests.football-data.org/1768.png"
             },
             "away": {
-                "name": "Chapecoense AF",
-                "logo": "https://crests.football-data.org/1772_large.png"
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -109,6 +81,34 @@
         "goals": {
             "home": 0,
             "away": 4
+        }
+    },
+    {
+        "fixture": {
+            "id": 554866,
+            "date": "2026-04-26T23:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
+            },
+            "away": {
+                "name": "Chapecoense AF",
+                "logo": "https://crests.football-data.org/1772_large.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 538122,
-            "date": "2026-04-27T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
-            },
-            "away": {
-                "name": "Brentford FC",
-                "logo": "https://crests.football-data.org/402.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 544523,
             "date": "2026-04-27T19:00:00+00:00",
             "status": {
@@ -216,6 +188,34 @@
             "away": {
                 "name": "Levante UD",
                 "logo": "https://crests.football-data.org/88.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538122,
+            "date": "2026-04-27T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
+            },
+            "away": {
+                "name": "Brentford FC",
+                "logo": "https://crests.football-data.org/402.png"
             }
         },
         "goals": {
