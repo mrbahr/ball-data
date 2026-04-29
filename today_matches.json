@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557160,
-            "date": "2026-04-28T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Lanús",
-                "logo": "https://crests.football-data.org/2066.png"
-            },
-            "away": {
-                "name": "LDU de Quito",
-                "logo": "https://crests.football-data.org/4528.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557172,
             "date": "2026-04-28T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
+            "id": 557160,
+            "date": "2026-04-28T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Lanús",
+                "logo": "https://crests.football-data.org/2066.png"
+            },
+            "away": {
+                "name": "LDU de Quito",
+                "logo": "https://crests.football-data.org/4528.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557173,
             "date": "2026-04-29T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 557124,
             "date": "2026-04-29T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -182,12 +182,12 @@
         },
         "teams": {
             "home": {
-                "name": null,
-                "logo": null
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
             },
             "away": {
-                "name": null,
-                "logo": null
+                "name": "Arsenal FC",
+                "logo": "https://crests.football-data.org/57.png"
             }
         },
         "goals": {
