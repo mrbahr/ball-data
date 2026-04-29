@@ -4,7 +4,7 @@
             "id": 557160,
             "date": "2026-04-28T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -32,7 +32,7 @@
             "id": 557172,
             "date": "2026-04-28T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 3
+            "home": null,
+            "away": null
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557173,
             "date": "2026-04-29T00:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 557124,
             "date": "2026-04-29T00:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -104,34 +104,6 @@
             "away": {
                 "name": "CA Boca Juniors",
                 "logo": "https://crests.football-data.org/2061.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 557101,
-            "date": "2026-04-29T02:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Tolima",
-                "logo": "https://crests.football-data.org/4437.png"
-            },
-            "away": {
-                "name": "CD Coquimbo Unido",
-                "logo": "https://crests.football-data.org/7912.png"
             }
         },
         "goals": {
@@ -169,6 +141,34 @@
     },
     {
         "fixture": {
+            "id": 557101,
+            "date": "2026-04-29T02:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Tolima",
+                "logo": "https://crests.football-data.org/4437.png"
+            },
+            "away": {
+                "name": "CD Coquimbo Unido",
+                "logo": "https://crests.football-data.org/7912.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 552093,
             "date": "2026-04-29T19:00:00+00:00",
             "status": {
@@ -182,12 +182,12 @@
         },
         "teams": {
             "home": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
+                "name": null,
+                "logo": null
             },
             "away": {
-                "name": "Arsenal FC",
-                "logo": "https://crests.football-data.org/57.png"
+                "name": null,
+                "logo": null
             }
         },
         "goals": {
