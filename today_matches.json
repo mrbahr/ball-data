@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557172,
-            "date": "2026-04-28T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Libertad Asuncion",
-                "logo": "https://crests.football-data.org/9379.png"
-            },
-            "away": {
-                "name": "CAR Independiente del Valle",
-                "logo": "https://crests.football-data.org/6989.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 3
-        }
-    },
-    {
-        "fixture": {
             "id": 557160,
             "date": "2026-04-28T22:00:00+00:00",
             "status": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 1,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557172,
+            "date": "2026-04-28T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Libertad Asuncion",
+                "logo": "https://crests.football-data.org/9379.png"
+            },
+            "away": {
+                "name": "CAR Independiente del Valle",
+                "logo": "https://crests.football-data.org/6989.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 3
         }
     },
     {
@@ -172,7 +172,7 @@
             "id": 552093,
             "date": "2026-04-29T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -200,7 +200,7 @@
             "id": 545933,
             "date": "2026-04-29T19:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -219,8 +219,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     }
 ]
