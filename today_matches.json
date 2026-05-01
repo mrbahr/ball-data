@@ -4,7 +4,7 @@
             "id": 557112,
             "date": "2026-04-30T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -32,7 +32,7 @@
             "id": 557113,
             "date": "2026-04-30T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": 4,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557136,
             "date": "2026-05-01T00:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 544546,
-            "date": "2026-05-01T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Girona FC",
-                "logo": "https://crests.football-data.org/298.png"
-            },
-            "away": {
-                "name": "RCD Mallorca",
-                "logo": "https://crests.football-data.org/89.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 538131,
             "date": "2026-05-01T19:00:00+00:00",
             "status": {
@@ -188,6 +160,34 @@
             "away": {
                 "name": "Burnley FC",
                 "logo": "https://crests.football-data.org/328.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 544546,
+            "date": "2026-05-01T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Girona FC",
+                "logo": "https://crests.football-data.org/298.png"
+            },
+            "away": {
+                "name": "RCD Mallorca",
+                "logo": "https://crests.football-data.org/89.png"
             }
         },
         "goals": {
