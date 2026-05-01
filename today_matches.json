@@ -116,7 +116,7 @@
             "id": 537161,
             "date": "2026-05-01T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -135,36 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 544546,
-            "date": "2026-05-01T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Girona FC",
-                "logo": "https://crests.football-data.org/298.png"
-            },
-            "away": {
-                "name": "RCD Mallorca",
-                "logo": "https://crests.football-data.org/89.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -172,7 +144,7 @@
             "id": 538131,
             "date": "2026-05-01T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +163,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 544546,
+            "date": "2026-05-01T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Girona FC",
+                "logo": "https://crests.football-data.org/298.png"
+            },
+            "away": {
+                "name": "RCD Mallorca",
+                "logo": "https://crests.football-data.org/89.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
         }
     }
 ]
