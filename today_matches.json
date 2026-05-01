@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557113,
-            "date": "2026-04-30T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CS Independiente Rivadavia",
-                "logo": "https://crests.football-data.org/2052.png"
-            },
-            "away": {
-                "name": "Deportivo La Guaira FC",
-                "logo": null
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557112,
             "date": "2026-04-30T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557113,
+            "date": "2026-04-30T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CS Independiente Rivadavia",
+                "logo": "https://crests.football-data.org/2052.png"
+            },
+            "away": {
+                "name": "Deportivo La Guaira FC",
+                "logo": null
+            }
+        },
+        "goals": {
+            "home": 4,
+            "away": 1
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557136,
             "date": "2026-05-01T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         }
     },
     {
