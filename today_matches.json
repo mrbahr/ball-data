@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 538131,
-            "date": "2026-05-01T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Leeds United FC",
-                "logo": "https://crests.football-data.org/341.png"
-            },
-            "away": {
-                "name": "Burnley FC",
-                "logo": "https://crests.football-data.org/328.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 544546,
             "date": "2026-05-01T19:00:00+00:00",
             "status": {
@@ -188,6 +160,34 @@
             "away": {
                 "name": "RCD Mallorca",
                 "logo": "https://crests.football-data.org/89.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538131,
+            "date": "2026-05-01T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Leeds United FC",
+                "logo": "https://crests.football-data.org/341.png"
+            },
+            "away": {
+                "name": "Burnley FC",
+                "logo": "https://crests.football-data.org/328.png"
             }
         },
         "goals": {
