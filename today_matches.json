@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557112,
-            "date": "2026-04-30T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Bolívar",
-                "logo": "https://crests.football-data.org/4261.png"
-            },
-            "away": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557113,
             "date": "2026-04-30T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 4,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 557112,
+            "date": "2026-04-30T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Bolívar",
+                "logo": "https://crests.football-data.org/4261.png"
+            },
+            "away": {
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 0
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557136,
             "date": "2026-05-01T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         }
     },
     {
@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 538131,
-            "date": "2026-05-01T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Leeds United FC",
-                "logo": "https://crests.football-data.org/341.png"
-            },
-            "away": {
-                "name": "Burnley FC",
-                "logo": "https://crests.football-data.org/328.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 544546,
             "date": "2026-05-01T19:00:00+00:00",
             "status": {
@@ -188,6 +160,34 @@
             "away": {
                 "name": "RCD Mallorca",
                 "logo": "https://crests.football-data.org/89.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538131,
+            "date": "2026-05-01T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Leeds United FC",
+                "logo": "https://crests.football-data.org/341.png"
+            },
+            "away": {
+                "name": "Burnley FC",
+                "logo": "https://crests.football-data.org/328.png"
             }
         },
         "goals": {
