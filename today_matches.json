@@ -1,62 +1,6 @@
 [
     {
         "fixture": {
-            "id": 541255,
-            "date": "2026-05-02T11:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Hull City AFC",
-                "logo": "https://crests.football-data.org/322.png"
-            },
-            "away": {
-                "name": "Norwich City FC",
-                "logo": "https://crests.football-data.org/68.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 541261,
-            "date": "2026-05-02T11:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Swansea City AFC",
-                "logo": "https://crests.football-data.org/72.png"
-            },
-            "away": {
-                "name": "Charlton Athletic FC",
-                "logo": "https://crests.football-data.org/348.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 541257,
             "date": "2026-05-02T11:30:00+00:00",
             "status": {
@@ -169,7 +113,7 @@
     },
     {
         "fixture": {
-            "id": 541260,
+            "id": 541255,
             "date": "2026-05-02T11:30:00+00:00",
             "status": {
                 "short": "FT"
@@ -182,12 +126,12 @@
         },
         "teams": {
             "home": {
-                "name": "Sheffield Wednesday FC",
-                "logo": "https://crests.football-data.org/345.png"
+                "name": "Hull City AFC",
+                "logo": "https://crests.football-data.org/322.png"
             },
             "away": {
-                "name": "West Bromwich Albion FC",
-                "logo": "https://crests.football-data.org/74.png"
+                "name": "Norwich City FC",
+                "logo": "https://crests.football-data.org/68.png"
             }
         },
         "goals": {
@@ -197,7 +141,7 @@
     },
     {
         "fixture": {
-            "id": 541256,
+            "id": 541261,
             "date": "2026-05-02T11:30:00+00:00",
             "status": {
                 "short": "FT"
@@ -210,17 +154,17 @@
         },
         "teams": {
             "home": {
-                "name": "Ipswich Town FC",
-                "logo": "https://crests.football-data.org/349.png"
+                "name": "Swansea City AFC",
+                "logo": "https://crests.football-data.org/72.png"
             },
             "away": {
-                "name": "Queens Park Rangers FC",
-                "logo": "https://crests.football-data.org/69.png"
+                "name": "Charlton Athletic FC",
+                "logo": "https://crests.football-data.org/348.png"
             }
         },
         "goals": {
             "home": 3,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -333,6 +277,62 @@
         "goals": {
             "home": 1,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 541260,
+            "date": "2026-05-02T11:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sheffield Wednesday FC",
+                "logo": "https://crests.football-data.org/345.png"
+            },
+            "away": {
+                "name": "West Bromwich Albion FC",
+                "logo": "https://crests.football-data.org/74.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 541256,
+            "date": "2026-05-02T11:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Ipswich Town FC",
+                "logo": "https://crests.football-data.org/349.png"
+            },
+            "away": {
+                "name": "Queens Park Rangers FC",
+                "logo": "https://crests.football-data.org/69.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -477,6 +477,34 @@
     },
     {
         "fixture": {
+            "id": 540691,
+            "date": "2026-05-02T13:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
+            },
+            "away": {
+                "name": "1. FC Heidenheim 1846",
+                "logo": "https://crests.football-data.org/44.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
             "id": 540693,
             "date": "2026-05-02T13:30:00+00:00",
             "status": {
@@ -533,34 +561,6 @@
     },
     {
         "fixture": {
-            "id": 540691,
-            "date": "2026-05-02T13:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Bayern München",
-                "logo": "https://crests.football-data.org/5.png"
-            },
-            "away": {
-                "name": "1. FC Heidenheim 1846",
-                "logo": "https://crests.football-data.org/44.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 3
-        }
-    },
-    {
-        "fixture": {
             "id": 538134,
             "date": "2026-05-02T14:00:00+00:00",
             "status": {
@@ -584,6 +584,34 @@
         },
         "goals": {
             "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 538133,
+            "date": "2026-05-02T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Newcastle United FC",
+                "logo": "https://crests.football-data.org/67.png"
+            },
+            "away": {
+                "name": "Brighton & Hove Albion FC",
+                "logo": "https://crests.football-data.org/397.png"
+            }
+        },
+        "goals": {
+            "home": 3,
             "away": 1
         }
     },
@@ -617,34 +645,6 @@
     },
     {
         "fixture": {
-            "id": 538133,
-            "date": "2026-05-02T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Newcastle United FC",
-                "logo": "https://crests.football-data.org/67.png"
-            },
-            "away": {
-                "name": "Brighton & Hove Albion FC",
-                "logo": "https://crests.football-data.org/397.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 544547,
             "date": "2026-05-02T14:15:00+00:00",
             "status": {
@@ -668,34 +668,6 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 545980,
-            "date": "2026-05-02T14:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Moreirense FC",
-                "logo": "https://crests.football-data.org/583.png"
-            },
-            "away": {
-                "name": "CF Estrela da Amadora",
-                "logo": "https://crests.football-data.org/9136.png"
-            }
-        },
-        "goals": {
-            "home": 3,
             "away": 2
         }
     },
@@ -725,6 +697,34 @@
         "goals": {
             "home": 2,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 545980,
+            "date": "2026-05-02T14:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Moreirense FC",
+                "logo": "https://crests.football-data.org/583.png"
+            },
+            "away": {
+                "name": "CF Estrela da Amadora",
+                "logo": "https://crests.football-data.org/9136.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 2
         }
     },
     {
@@ -816,7 +816,7 @@
             "id": 537157,
             "date": "2026-05-02T16:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -841,10 +841,38 @@
     },
     {
         "fixture": {
+            "id": 544541,
+            "date": "2026-05-02T16:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Deportivo Alavés",
+                "logo": "https://crests.football-data.org/263.png"
+            },
+            "away": {
+                "name": "Athletic Club",
+                "logo": "https://crests.football-data.org/77.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 4
+        }
+    },
+    {
+        "fixture": {
             "id": 538127,
             "date": "2026-05-02T16:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -872,7 +900,7 @@
             "id": 540687,
             "date": "2026-05-02T16:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -891,35 +919,7 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 544541,
-            "date": "2026-05-02T16:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Deportivo Alavés",
-                "logo": "https://crests.football-data.org/263.png"
-            },
-            "away": {
-                "name": "Athletic Club",
-                "logo": "https://crests.football-data.org/77.png"
-            }
-        },
-        "goals": {
-            "home": 1,
+            "home": 4,
             "away": 1
         }
     },
@@ -928,7 +928,7 @@
             "id": 537722,
             "date": "2026-05-02T16:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -947,8 +947,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -975,7 +975,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         }
     },
@@ -1003,8 +1003,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -1012,7 +1012,7 @@
             "id": 537720,
             "date": "2026-05-02T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -1031,8 +1031,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
