@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 554877,
-            "date": "2026-05-02T21:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            },
-            "away": {
-                "name": "Santos FC",
-                "logo": "https://crests.football-data.org/6685.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554879,
             "date": "2026-05-02T21:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554877,
+            "date": "2026-05-02T21:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            },
+            "away": {
+                "name": "Santos FC",
+                "logo": "https://crests.football-data.org/6685.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -197,34 +197,6 @@
     },
     {
         "fixture": {
-            "id": 537727,
-            "date": "2026-05-03T12:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "PEC Zwolle",
-                "logo": "https://crests.football-data.org/684.png"
-            },
-            "away": {
-                "name": "Heracles Almelo",
-                "logo": "https://crests.football-data.org/671.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 537725,
             "date": "2026-05-03T12:30:00+00:00",
             "status": {
@@ -253,25 +225,25 @@
     },
     {
         "fixture": {
-            "id": 537162,
-            "date": "2026-05-03T13:00:00+00:00",
+            "id": 537727,
+            "date": "2026-05-03T12:30:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
         },
         "teams": {
             "home": {
-                "name": "US Sassuolo Calcio",
-                "logo": "https://crests.football-data.org/471.png"
+                "name": "PEC Zwolle",
+                "logo": "https://crests.football-data.org/684.png"
             },
             "away": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
+                "name": "Heracles Almelo",
+                "logo": "https://crests.football-data.org/671.png"
             }
         },
         "goals": {
@@ -328,6 +300,34 @@
             "away": {
                 "name": "Le Havre AC",
                 "logo": "https://crests.football-data.org/533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537162,
+            "date": "2026-05-03T13:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "US Sassuolo Calcio",
+                "logo": "https://crests.football-data.org/471.png"
+            },
+            "away": {
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
             }
         },
         "goals": {
@@ -813,34 +813,6 @@
     },
     {
         "fixture": {
-            "id": 554878,
-            "date": "2026-05-03T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            },
-            "away": {
-                "name": "EC Bahia",
-                "logo": "https://crests.football-data.org/1777.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554874,
             "date": "2026-05-03T19:00:00+00:00",
             "status": {
@@ -860,6 +832,34 @@
             "away": {
                 "name": "CR Vasco da Gama",
                 "logo": "https://crests.football-data.org/1780.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554878,
+            "date": "2026-05-03T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
+            },
+            "away": {
+                "name": "EC Bahia",
+                "logo": "https://crests.football-data.org/1777.png"
             }
         },
         "goals": {
