@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554879,
-            "date": "2026-05-02T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            },
-            "away": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
-            }
-        },
-        "goals": {
-            "home": 4,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 554877,
             "date": "2026-05-02T21:30:00+00:00",
             "status": {
@@ -57,10 +29,38 @@
     },
     {
         "fixture": {
+            "id": 554879,
+            "date": "2026-05-02T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
+            },
+            "away": {
+                "name": "Coritiba FBC",
+                "logo": "https://crests.football-data.org/4241.png"
+            }
+        },
+        "goals": {
+            "home": 4,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 554870,
             "date": "2026-05-02T23:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -88,7 +88,7 @@
             "id": 554873,
             "date": "2026-05-03T00:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 2
+            "home": 1,
+            "away": 3
         }
     },
     {
@@ -197,34 +197,6 @@
     },
     {
         "fixture": {
-            "id": 537725,
-            "date": "2026-05-03T12:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fortuna Sittard",
-                "logo": "https://crests.football-data.org/1920.png"
-            },
-            "away": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 537727,
             "date": "2026-05-03T12:30:00+00:00",
             "status": {
@@ -244,6 +216,34 @@
             "away": {
                 "name": "Heracles Almelo",
                 "logo": "https://crests.football-data.org/671.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537725,
+            "date": "2026-05-03T12:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fortuna Sittard",
+                "logo": "https://crests.football-data.org/1920.png"
+            },
+            "away": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
             }
         },
         "goals": {
@@ -393,34 +393,6 @@
     },
     {
         "fixture": {
-            "id": 545985,
-            "date": "2026-05-03T14:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Casa Pia AC",
-                "logo": "https://crests.football-data.org/6618.png"
-            },
-            "away": {
-                "name": "CD Tondela",
-                "logo": "https://crests.football-data.org/1049.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 538132,
             "date": "2026-05-03T14:30:00+00:00",
             "status": {
@@ -440,6 +412,34 @@
             "away": {
                 "name": "Liverpool FC",
                 "logo": "https://crests.football-data.org/64.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 545985,
+            "date": "2026-05-03T14:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Casa Pia AC",
+                "logo": "https://crests.football-data.org/6618.png"
+            },
+            "away": {
+                "name": "CD Tondela",
+                "logo": "https://crests.football-data.org/1049.png"
             }
         },
         "goals": {
@@ -533,34 +533,6 @@
     },
     {
         "fixture": {
-            "id": 542685,
-            "date": "2026-05-03T15:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "AJ Auxerre",
-                "logo": "https://crests.football-data.org/519.png"
-            },
-            "away": {
-                "name": "Angers SCO",
-                "logo": "https://crests.football-data.org/532.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 542693,
             "date": "2026-05-03T15:15:00+00:00",
             "status": {
@@ -580,6 +552,34 @@
             "away": {
                 "name": "Toulouse FC",
                 "logo": "https://crests.football-data.org/511.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 542685,
+            "date": "2026-05-03T15:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AJ Auxerre",
+                "logo": "https://crests.football-data.org/519.png"
+            },
+            "away": {
+                "name": "Angers SCO",
+                "logo": "https://crests.football-data.org/532.png"
             }
         },
         "goals": {
