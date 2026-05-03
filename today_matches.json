@@ -23,7 +23,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 1,
             "away": 1
         }
     },
@@ -197,6 +197,34 @@
     },
     {
         "fixture": {
+            "id": 537725,
+            "date": "2026-05-03T12:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fortuna Sittard",
+                "logo": "https://crests.football-data.org/1920.png"
+            },
+            "away": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 537727,
             "date": "2026-05-03T12:30:00+00:00",
             "status": {
@@ -225,25 +253,25 @@
     },
     {
         "fixture": {
-            "id": 537725,
-            "date": "2026-05-03T12:30:00+00:00",
+            "id": 542691,
+            "date": "2026-05-03T13:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
         },
         "teams": {
             "home": {
-                "name": "Fortuna Sittard",
-                "logo": "https://crests.football-data.org/1920.png"
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
             },
             "away": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
+                "name": "Le Havre AC",
+                "logo": "https://crests.football-data.org/533.png"
             }
         },
         "goals": {
@@ -300,34 +328,6 @@
             "away": {
                 "name": "Crystal Palace FC",
                 "logo": "https://crests.football-data.org/354.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 542691,
-            "date": "2026-05-03T13:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            },
-            "away": {
-                "name": "Le Havre AC",
-                "logo": "https://crests.football-data.org/533.png"
             }
         },
         "goals": {
