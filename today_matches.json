@@ -197,34 +197,6 @@
     },
     {
         "fixture": {
-            "id": 537725,
-            "date": "2026-05-03T12:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fortuna Sittard",
-                "logo": "https://crests.football-data.org/1920.png"
-            },
-            "away": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 537727,
             "date": "2026-05-03T12:30:00+00:00",
             "status": {
@@ -253,30 +225,30 @@
     },
     {
         "fixture": {
-            "id": 542691,
-            "date": "2026-05-03T13:00:00+00:00",
+            "id": 537725,
+            "date": "2026-05-03T12:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
         },
         "teams": {
             "home": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
+                "name": "Fortuna Sittard",
+                "logo": "https://crests.football-data.org/1920.png"
             },
             "away": {
-                "name": "Le Havre AC",
-                "logo": "https://crests.football-data.org/533.png"
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         }
     },
     {
@@ -284,7 +256,7 @@
             "id": 537162,
             "date": "2026-05-03T13:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -312,7 +284,7 @@
             "id": 538125,
             "date": "2026-05-03T13:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -331,8 +303,36 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 542691,
+            "date": "2026-05-03T13:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
+            },
+            "away": {
+                "name": "Le Havre AC",
+                "logo": "https://crests.football-data.org/533.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -340,7 +340,7 @@
             "id": 540686,
             "date": "2026-05-03T13:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -368,7 +368,7 @@
             "id": 544545,
             "date": "2026-05-03T14:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -388,35 +388,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 545985,
-            "date": "2026-05-03T14:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Casa Pia AC",
-                "logo": "https://crests.football-data.org/6618.png"
-            },
-            "away": {
-                "name": "CD Tondela",
-                "logo": "https://crests.football-data.org/1049.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "away": 1
         }
     },
     {
@@ -424,7 +396,7 @@
             "id": 538132,
             "date": "2026-05-03T14:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -443,8 +415,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 545985,
+            "date": "2026-05-03T14:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Casa Pia AC",
+                "logo": "https://crests.football-data.org/6618.png"
+            },
+            "away": {
+                "name": "CD Tondela",
+                "logo": "https://crests.football-data.org/1049.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -452,7 +452,7 @@
             "id": 537728,
             "date": "2026-05-03T14:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -471,8 +471,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -480,7 +480,7 @@
             "id": 537721,
             "date": "2026-05-03T14:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -499,8 +499,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -508,7 +508,7 @@
             "id": 542688,
             "date": "2026-05-03T15:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -527,8 +527,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -536,7 +536,7 @@
             "id": 542693,
             "date": "2026-05-03T15:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -555,8 +555,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -564,7 +564,7 @@
             "id": 542685,
             "date": "2026-05-03T15:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -583,8 +583,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
