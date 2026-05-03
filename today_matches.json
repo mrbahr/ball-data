@@ -1,10 +1,38 @@
 [
     {
         "fixture": {
+            "id": 554872,
+            "date": "2026-05-03T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Chapecoense AF",
+                "logo": "https://crests.football-data.org/1772_large.png"
+            },
+            "away": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
             "id": 554875,
             "date": "2026-05-03T21:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -29,38 +57,10 @@
     },
     {
         "fixture": {
-            "id": 554872,
-            "date": "2026-05-03T21:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Chapecoense AF",
-                "logo": "https://crests.football-data.org/1772_large.png"
-            },
-            "away": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 554876,
             "date": "2026-05-03T23:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 538130,
-            "date": "2026-05-04T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Everton FC",
-                "logo": "https://crests.football-data.org/62.png"
-            },
-            "away": {
-                "name": "Manchester City FC",
-                "logo": "https://crests.football-data.org/65.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 544550,
             "date": "2026-05-04T19:00:00+00:00",
             "status": {
@@ -216,6 +188,34 @@
             "away": {
                 "name": "Real Sociedad de Fútbol",
                 "logo": "https://crests.football-data.org/92.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 538130,
+            "date": "2026-05-04T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Everton FC",
+                "logo": "https://crests.football-data.org/62.png"
+            },
+            "away": {
+                "name": "Manchester City FC",
+                "logo": "https://crests.football-data.org/65.png"
             }
         },
         "goals": {
