@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557151,
-            "date": "2026-05-05T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CS Cristal",
-                "logo": "https://crests.football-data.org/5347.png"
-            },
-            "away": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 557174,
             "date": "2026-05-05T22:00:00+00:00",
             "status": {
@@ -57,10 +29,10 @@
     },
     {
         "fixture": {
-            "id": 557127,
-            "date": "2026-05-06T00:00:00+00:00",
+            "id": 557151,
+            "date": "2026-05-05T22:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "Barcelona SC",
-                "logo": "https://crests.football-data.org/4520.png"
+                "name": "CS Cristal",
+                "logo": "https://crests.football-data.org/5347.png"
             },
             "away": {
-                "name": "CA Boca Juniors",
-                "logo": "https://crests.football-data.org/2061.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         }
     },
     {
@@ -104,6 +76,34 @@
             "away": {
                 "name": "CAR Independiente del Valle",
                 "logo": "https://crests.football-data.org/6989.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557127,
+            "date": "2026-05-06T00:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Barcelona SC",
+                "logo": "https://crests.football-data.org/4520.png"
+            },
+            "away": {
+                "name": "CA Boca Juniors",
+                "logo": "https://crests.football-data.org/2061.png"
             }
         },
         "goals": {
