@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557174,
-            "date": "2026-05-05T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Rosario Central",
-                "logo": "https://crests.football-data.org/2070.png"
-            },
-            "away": {
-                "name": "Club Libertad Asuncion",
-                "logo": "https://crests.football-data.org/9379.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557151,
             "date": "2026-05-05T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,16 +23,16 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
         }
     },
     {
         "fixture": {
-            "id": 557175,
-            "date": "2026-05-06T00:00:00+00:00",
+            "id": 557174,
+            "date": "2026-05-05T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "Universidad Central de Venezuela FC",
-                "logo": "https://crests.football-data.org/9357.png"
+                "name": "CA Rosario Central",
+                "logo": "https://crests.football-data.org/2070.png"
             },
             "away": {
-                "name": "CAR Independiente del Valle",
-                "logo": "https://crests.football-data.org/6989.png"
+                "name": "Club Libertad Asuncion",
+                "logo": "https://crests.football-data.org/9379.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -88,7 +60,7 @@
             "id": 557127,
             "date": "2026-05-06T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -107,8 +79,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557175,
+            "date": "2026-05-06T00:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Universidad Central de Venezuela FC",
+                "logo": "https://crests.football-data.org/9357.png"
+            },
+            "away": {
+                "name": "CAR Independiente del Valle",
+                "logo": "https://crests.football-data.org/6989.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 557162,
             "date": "2026-05-06T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -154,12 +154,12 @@
         },
         "teams": {
             "home": {
-                "name": null,
-                "logo": null
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
             },
             "away": {
-                "name": null,
-                "logo": null
+                "name": "Paris Saint-Germain FC",
+                "logo": "https://crests.football-data.org/524.png"
             }
         },
         "goals": {
