@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557163,
-            "date": "2026-05-07T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            },
-            "away": {
-                "name": "LDU de Quito",
-                "logo": "https://crests.football-data.org/4528.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 557139,
             "date": "2026-05-07T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 557163,
+            "date": "2026-05-07T22:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
+            },
+            "away": {
+                "name": "LDU de Quito",
+                "logo": "https://crests.football-data.org/4528.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557102,
             "date": "2026-05-08T00:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 557091,
             "date": "2026-05-08T00:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 542700,
-            "date": "2026-05-08T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Racing Club de Lens",
-                "logo": "https://crests.football-data.org/546.png"
-            },
-            "away": {
-                "name": "FC Nantes",
-                "logo": "https://crests.football-data.org/543.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 537168,
             "date": "2026-05-08T18:45:00+00:00",
             "status": {
@@ -216,6 +188,34 @@
             "away": {
                 "name": "US Sassuolo Calcio",
                 "logo": "https://crests.football-data.org/471.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 542700,
+            "date": "2026-05-08T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Racing Club de Lens",
+                "logo": "https://crests.football-data.org/546.png"
+            },
+            "away": {
+                "name": "FC Nantes",
+                "logo": "https://crests.football-data.org/543.png"
             }
         },
         "goals": {
