@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 557841,
-            "date": "2026-05-08T21:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Hull City AFC",
-                "logo": "https://crests.football-data.org/322.png"
-            },
-            "away": {
-                "name": "Millwall FC",
-                "logo": "https://crests.football-data.org/384.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 538140,
             "date": "2026-05-09T11:30:00+00:00",
             "status": {
@@ -113,30 +85,30 @@
     },
     {
         "fixture": {
-            "id": 557840,
+            "id": 540699,
             "date": "2026-05-09T13:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
         },
         "teams": {
             "home": {
-                "name": "Middlesbrough FC",
-                "logo": "https://crests.football-data.org/343.png"
+                "name": "FC Augsburg",
+                "logo": "https://crests.football-data.org/16.png"
             },
             "away": {
-                "name": "Southampton FC",
-                "logo": "https://crests.football-data.org/340.png"
+                "name": "Borussia Mönchengladbach",
+                "logo": "https://crests.football-data.org/18.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -165,6 +137,34 @@
         "goals": {
             "home": 1,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557840,
+            "date": "2026-05-09T13:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Middlesbrough FC",
+                "logo": "https://crests.football-data.org/343.png"
+            },
+            "away": {
+                "name": "Southampton FC",
+                "logo": "https://crests.football-data.org/340.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     },
     {
@@ -216,34 +216,6 @@
             "away": {
                 "name": "Bayer 04 Leverkusen",
                 "logo": "https://crests.football-data.org/3.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 540699,
-            "date": "2026-05-09T13:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Augsburg",
-                "logo": "https://crests.football-data.org/16.png"
-            },
-            "away": {
-                "name": "Borussia Mönchengladbach",
-                "logo": "https://crests.football-data.org/18.png"
             }
         },
         "goals": {
@@ -393,38 +365,10 @@
     },
     {
         "fixture": {
-            "id": 544552,
-            "date": "2026-05-09T16:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
-            },
-            "away": {
-                "name": "RC Celta de Vigo",
-                "logo": "https://crests.football-data.org/558.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 538141,
             "date": "2026-05-09T16:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -443,7 +387,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         }
     },
@@ -452,7 +396,7 @@
             "id": 540694,
             "date": "2026-05-09T16:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -477,10 +421,38 @@
     },
     {
         "fixture": {
+            "id": 544552,
+            "date": "2026-05-09T16:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
+            },
+            "away": {
+                "name": "RC Celta de Vigo",
+                "logo": "https://crests.football-data.org/558.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 537174,
             "date": "2026-05-09T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -499,36 +471,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 554883,
-            "date": "2026-05-09T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
-            },
-            "away": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -536,7 +480,7 @@
             "id": 544557,
             "date": "2026-05-09T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -555,8 +499,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554883,
+            "date": "2026-05-09T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Coritiba FBC",
+                "logo": "https://crests.football-data.org/4241.png"
+            },
+            "away": {
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     }
 ]
