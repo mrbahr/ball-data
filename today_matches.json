@@ -85,90 +85,6 @@
     },
     {
         "fixture": {
-            "id": 540699,
-            "date": "2026-05-09T13:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Augsburg",
-                "logo": "https://crests.football-data.org/16.png"
-            },
-            "away": {
-                "name": "Borussia Mönchengladbach",
-                "logo": "https://crests.football-data.org/18.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 540698,
-            "date": "2026-05-09T13:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "TSG 1899 Hoffenheim",
-                "logo": "https://crests.football-data.org/2.png"
-            },
-            "away": {
-                "name": "SV Werder Bremen",
-                "logo": "https://crests.football-data.org/12.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 557840,
-            "date": "2026-05-09T13:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Middlesbrough FC",
-                "logo": "https://crests.football-data.org/343.png"
-            },
-            "away": {
-                "name": "Southampton FC",
-                "logo": "https://crests.football-data.org/340.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 540701,
             "date": "2026-05-09T13:30:00+00:00",
             "status": {
@@ -225,30 +141,86 @@
     },
     {
         "fixture": {
-            "id": 538135,
-            "date": "2026-05-09T14:00:00+00:00",
+            "id": 557840,
+            "date": "2026-05-09T13:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Middlesbrough FC",
+                "logo": "https://crests.football-data.org/343.png"
+            },
+            "away": {
+                "name": "Southampton FC",
+                "logo": "https://crests.football-data.org/340.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 540698,
+            "date": "2026-05-09T13:30:00+00:00",
             "status": {
                 "short": "FT"
             }
         },
         "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
         },
         "teams": {
             "home": {
-                "name": "Sunderland AFC",
-                "logo": "https://crests.football-data.org/71.png"
+                "name": "TSG 1899 Hoffenheim",
+                "logo": "https://crests.football-data.org/2.png"
             },
             "away": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
+                "name": "SV Werder Bremen",
+                "logo": "https://crests.football-data.org/12.png"
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 540699,
+            "date": "2026-05-09T13:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Augsburg",
+                "logo": "https://crests.football-data.org/16.png"
+            },
+            "away": {
+                "name": "Borussia Mönchengladbach",
+                "logo": "https://crests.football-data.org/18.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -277,6 +249,34 @@
         "goals": {
             "home": 0,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 538135,
+            "date": "2026-05-09T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sunderland AFC",
+                "logo": "https://crests.football-data.org/71.png"
+            },
+            "away": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -393,34 +393,6 @@
     },
     {
         "fixture": {
-            "id": 540694,
-            "date": "2026-05-09T16:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "VfL Wolfsburg",
-                "logo": "https://crests.football-data.org/11.png"
-            },
-            "away": {
-                "name": "FC Bayern München",
-                "logo": "https://crests.football-data.org/5.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 544552,
             "date": "2026-05-09T16:30:00+00:00",
             "status": {
@@ -440,6 +412,34 @@
             "away": {
                 "name": "RC Celta de Vigo",
                 "logo": "https://crests.football-data.org/558.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 540694,
+            "date": "2026-05-09T16:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "VfL Wolfsburg",
+                "logo": "https://crests.football-data.org/11.png"
+            },
+            "away": {
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
             }
         },
         "goals": {
@@ -472,7 +472,35 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 554883,
+            "date": "2026-05-09T19:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Coritiba FBC",
+                "logo": "https://crests.football-data.org/4241.png"
+            },
+            "away": {
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -480,7 +508,7 @@
             "id": 544557,
             "date": "2026-05-09T19:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -500,35 +528,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 554883,
-            "date": "2026-05-09T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
-            },
-            "away": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
+            "away": 1
         }
     }
 ]
