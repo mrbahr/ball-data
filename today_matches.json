@@ -1,6 +1,34 @@
 [
     {
         "fixture": {
+            "id": 557840,
+            "date": "2026-05-09T11:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Middlesbrough FC",
+                "logo": "https://crests.football-data.org/343.png"
+            },
+            "away": {
+                "name": "Southampton FC",
+                "logo": "https://crests.football-data.org/340.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 538140,
             "date": "2026-05-09T11:30:00+00:00",
             "status": {
@@ -85,6 +113,34 @@
     },
     {
         "fixture": {
+            "id": 540698,
+            "date": "2026-05-09T13:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "TSG 1899 Hoffenheim",
+                "logo": "https://crests.football-data.org/2.png"
+            },
+            "away": {
+                "name": "SV Werder Bremen",
+                "logo": "https://crests.football-data.org/12.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 540701,
             "date": "2026-05-09T13:30:00+00:00",
             "status": {
@@ -141,62 +197,6 @@
     },
     {
         "fixture": {
-            "id": 557840,
-            "date": "2026-05-09T13:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Middlesbrough FC",
-                "logo": "https://crests.football-data.org/343.png"
-            },
-            "away": {
-                "name": "Southampton FC",
-                "logo": "https://crests.football-data.org/340.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 540698,
-            "date": "2026-05-09T13:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "TSG 1899 Hoffenheim",
-                "logo": "https://crests.football-data.org/2.png"
-            },
-            "away": {
-                "name": "SV Werder Bremen",
-                "logo": "https://crests.football-data.org/12.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 540699,
             "date": "2026-05-09T13:30:00+00:00",
             "status": {
@@ -220,34 +220,6 @@
         },
         "goals": {
             "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 538139,
-            "date": "2026-05-09T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fulham FC",
-                "logo": "https://crests.football-data.org/63.png"
-            },
-            "away": {
-                "name": "AFC Bournemouth",
-                "logo": "https://crests.football-data.org/bournemouth.png"
-            }
-        },
-        "goals": {
-            "home": 0,
             "away": 1
         }
     },
@@ -277,6 +249,34 @@
         "goals": {
             "home": 0,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 538139,
+            "date": "2026-05-09T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fulham FC",
+                "logo": "https://crests.football-data.org/63.png"
+            },
+            "away": {
+                "name": "AFC Bournemouth",
+                "logo": "https://crests.football-data.org/bournemouth.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -472,7 +472,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
+            "away": 1
         }
     },
     {
