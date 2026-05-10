@@ -23,7 +23,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -32,7 +32,7 @@
             "id": 554882,
             "date": "2026-05-10T21:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -52,7 +52,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 554885,
             "date": "2026-05-10T22:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -309,7 +309,7 @@
     },
     {
         "fixture": {
-            "id": 545996,
+            "id": 545994,
             "date": "2026-05-11T19:15:00+00:00",
             "status": {
                 "short": "NS"
@@ -322,12 +322,40 @@
         },
         "teams": {
             "home": {
-                "name": "Sport Lisboa e Benfica",
-                "logo": "https://crests.football-data.org/1903.png"
+                "name": "Rio Ave FC",
+                "logo": "https://crests.football-data.org/496.png"
             },
             "away": {
-                "name": "Sporting Clube de Braga",
-                "logo": "https://crests.football-data.org/5613.png"
+                "name": "Sporting Clube de Portugal",
+                "logo": "https://crests.football-data.org/498.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 545990,
+            "date": "2026-05-11T19:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Tondela",
+                "logo": "https://crests.football-data.org/1049.png"
+            },
+            "away": {
+                "name": "Moreirense FC",
+                "logo": "https://crests.football-data.org/583.png"
             }
         },
         "goals": {
@@ -393,7 +421,7 @@
     },
     {
         "fixture": {
-            "id": 545994,
+            "id": 545996,
             "date": "2026-05-11T19:15:00+00:00",
             "status": {
                 "short": "NS"
@@ -406,40 +434,12 @@
         },
         "teams": {
             "home": {
-                "name": "Rio Ave FC",
-                "logo": "https://crests.football-data.org/496.png"
+                "name": "Sport Lisboa e Benfica",
+                "logo": "https://crests.football-data.org/1903.png"
             },
             "away": {
-                "name": "Sporting Clube de Portugal",
-                "logo": "https://crests.football-data.org/498.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 545990,
-            "date": "2026-05-11T19:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Tondela",
-                "logo": "https://crests.football-data.org/1049.png"
-            },
-            "away": {
-                "name": "Moreirense FC",
-                "logo": "https://crests.football-data.org/583.png"
+                "name": "Sporting Clube de Braga",
+                "logo": "https://crests.football-data.org/5613.png"
             }
         },
         "goals": {
