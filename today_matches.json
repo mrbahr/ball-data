@@ -1,6 +1,34 @@
 [
     {
         "fixture": {
+            "id": 554882,
+            "date": "2026-05-10T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SC Corinthians Paulista",
+                "logo": "https://crests.football-data.org/1779.png"
+            },
+            "away": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
             "id": 554886,
             "date": "2026-05-10T21:30:00+00:00",
             "status": {
@@ -53,34 +81,6 @@
         "goals": {
             "home": 2,
             "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 554882,
-            "date": "2026-05-10T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SC Corinthians Paulista",
-                "logo": "https://crests.football-data.org/1779.png"
-            },
-            "away": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 2
         }
     },
     {
@@ -169,6 +169,34 @@
     },
     {
         "fixture": {
+            "id": 557839,
+            "date": "2026-05-11T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Millwall FC",
+                "logo": "https://crests.football-data.org/384.png"
+            },
+            "away": {
+                "name": "Hull City AFC",
+                "logo": "https://crests.football-data.org/322.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 544560,
             "date": "2026-05-11T19:00:00+00:00",
             "status": {
@@ -225,25 +253,81 @@
     },
     {
         "fixture": {
-            "id": 557839,
-            "date": "2026-05-11T19:00:00+00:00",
+            "id": 545989,
+            "date": "2026-05-11T19:15:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
         },
         "teams": {
             "home": {
-                "name": "Millwall FC",
-                "logo": "https://crests.football-data.org/384.png"
+                "name": "Gil Vicente FC",
+                "logo": "https://crests.football-data.org/5533.png"
             },
             "away": {
-                "name": "Hull City AFC",
-                "logo": "https://crests.football-data.org/322.png"
+                "name": "FC Arouca",
+                "logo": "https://crests.football-data.org/712.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 545995,
+            "date": "2026-05-11T19:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Santa Clara",
+                "logo": "https://crests.football-data.org/5530.png"
+            },
+            "away": {
+                "name": "CD Nacional",
+                "logo": "https://crests.football-data.org/5529.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 545992,
+            "date": "2026-05-11T19:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CF Estrela da Amadora",
+                "logo": "https://crests.football-data.org/9136.png"
+            },
+            "away": {
+                "name": "FC Famalicão",
+                "logo": "https://crests.football-data.org/5531.png"
             }
         },
         "goals": {
@@ -356,90 +440,6 @@
             "away": {
                 "name": "Sporting Clube de Braga",
                 "logo": "https://crests.football-data.org/5613.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 545992,
-            "date": "2026-05-11T19:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CF Estrela da Amadora",
-                "logo": "https://crests.football-data.org/9136.png"
-            },
-            "away": {
-                "name": "FC Famalicão",
-                "logo": "https://crests.football-data.org/5531.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 545989,
-            "date": "2026-05-11T19:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Gil Vicente FC",
-                "logo": "https://crests.football-data.org/5533.png"
-            },
-            "away": {
-                "name": "FC Arouca",
-                "logo": "https://crests.football-data.org/712.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 545995,
-            "date": "2026-05-11T19:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Santa Clara",
-                "logo": "https://crests.football-data.org/5530.png"
-            },
-            "away": {
-                "name": "CD Nacional",
-                "logo": "https://crests.football-data.org/5529.png"
             }
         },
         "goals": {
