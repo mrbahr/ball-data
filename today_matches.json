@@ -116,7 +116,7 @@
             "id": 554889,
             "date": "2026-05-10T23:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -253,6 +253,34 @@
     },
     {
         "fixture": {
+            "id": 545992,
+            "date": "2026-05-11T19:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CF Estrela da Amadora",
+                "logo": "https://crests.football-data.org/9136.png"
+            },
+            "away": {
+                "name": "FC Famalicão",
+                "logo": "https://crests.football-data.org/5531.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 545988,
             "date": "2026-05-11T19:15:00+00:00",
             "status": {
@@ -356,34 +384,6 @@
             "away": {
                 "name": "Sporting Clube de Braga",
                 "logo": "https://crests.football-data.org/5613.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 545992,
-            "date": "2026-05-11T19:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CF Estrela da Amadora",
-                "logo": "https://crests.football-data.org/9136.png"
-            },
-            "away": {
-                "name": "FC Famalicão",
-                "logo": "https://crests.football-data.org/5531.png"
             }
         },
         "goals": {
