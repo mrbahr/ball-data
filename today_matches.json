@@ -1,10 +1,38 @@
 [
     {
         "fixture": {
+            "id": 544569,
+            "date": "2026-05-13T17:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Villarreal CF",
+                "logo": "https://crests.football-data.org/94.png"
+            },
+            "away": {
+                "name": "Sevilla FC",
+                "logo": "https://crests.football-data.org/559.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
             "id": 542665,
             "date": "2026-05-13T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -32,7 +60,7 @@
             "id": 544566,
             "date": "2026-05-13T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,34 +79,6 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 544569,
-            "date": "2026-05-13T17:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Villarreal CF",
-                "logo": "https://crests.football-data.org/94.png"
-            },
-            "away": {
-                "name": "Sevilla FC",
-                "logo": "https://crests.football-data.org/559.png"
-            }
-        },
-        "goals": {
             "home": 2,
             "away": 0
         }
@@ -88,7 +88,7 @@
             "id": 542664,
             "date": "2026-05-13T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 538091,
             "date": "2026-05-13T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
