@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 544566,
-            "date": "2026-05-13T17:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RCD Espanyol de Barcelona",
-                "logo": "https://crests.football-data.org/80.png"
-            },
-            "away": {
-                "name": "Athletic Club",
-                "logo": "https://crests.football-data.org/77.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 544569,
             "date": "2026-05-13T17:00:00+00:00",
             "status": {
@@ -76,6 +48,34 @@
             "away": {
                 "name": "RC Strasbourg Alsace",
                 "logo": "https://crests.football-data.org/576.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 544566,
+            "date": "2026-05-13T17:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RCD Espanyol de Barcelona",
+                "logo": "https://crests.football-data.org/80.png"
+            },
+            "away": {
+                "name": "Athletic Club",
+                "logo": "https://crests.football-data.org/77.png"
             }
         },
         "goals": {
