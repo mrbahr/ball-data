@@ -1,86 +1,30 @@
 [
     {
         "fixture": {
-            "id": 544568,
-            "date": "2026-05-14T17:00:00+00:00",
+            "id": 538146,
+            "date": "2026-05-15T19:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "Valencia CF",
-                "logo": "https://crests.football-data.org/95.png"
+                "name": "Aston Villa FC",
+                "logo": "https://crests.football-data.org/58.png"
             },
             "away": {
-                "name": "Rayo Vallecano de Madrid",
-                "logo": "https://crests.football-data.org/87.png"
+                "name": "Liverpool FC",
+                "logo": "https://crests.football-data.org/64.png"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 544565,
-            "date": "2026-05-14T18:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Girona FC",
-                "logo": "https://crests.football-data.org/298.png"
-            },
-            "away": {
-                "name": "Real Sociedad de Fútbol",
-                "logo": "https://crests.football-data.org/92.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 544570,
-            "date": "2026-05-14T19:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
-            },
-            "away": {
-                "name": "Real Oviedo",
-                "logo": "https://crests.football-data.org/1048.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
+            "home": null,
+            "away": null
         }
     }
 ]
