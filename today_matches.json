@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554894,
-            "date": "2026-05-17T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            },
-            "away": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554895,
             "date": "2026-05-17T21:30:00+00:00",
             "status": {
@@ -57,10 +29,38 @@
     },
     {
         "fixture": {
+            "id": 554894,
+            "date": "2026-05-17T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            },
+            "away": {
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 554890,
             "date": "2026-05-17T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -80,7 +80,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     },
     {
