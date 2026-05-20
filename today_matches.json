@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557177,
-            "date": "2026-05-19T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Rosario Central",
-                "logo": "https://crests.football-data.org/2070.png"
-            },
-            "away": {
-                "name": "Universidad Central de Venezuela FC",
-                "logo": "https://crests.football-data.org/9357.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 557105,
             "date": "2026-05-19T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557177,
+            "date": "2026-05-19T22:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Rosario Central",
+                "logo": "https://crests.football-data.org/2070.png"
+            },
+            "away": {
+                "name": "Universidad Central de Venezuela FC",
+                "logo": "https://crests.football-data.org/9357.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 557116,
             "date": "2026-05-19T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 557165,
             "date": "2026-05-20T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 557141,
             "date": "2026-05-20T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -144,7 +144,7 @@
             "id": 557128,
             "date": "2026-05-20T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,8 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
