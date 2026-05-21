@@ -4,7 +4,7 @@
             "id": 557104,
             "date": "2026-05-20T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,36 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 557092,
-            "date": "2026-05-21T00:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
-            },
-            "away": {
-                "name": "Estudiantes de La Plata",
-                "logo": "https://crests.football-data.org/2051.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -60,7 +32,7 @@
             "id": 557152,
             "date": "2026-05-21T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +51,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -88,7 +60,7 @@
             "id": 557164,
             "date": "2026-05-21T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +79,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 557092,
+            "date": "2026-05-21T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
+            },
+            "away": {
+                "name": "Estudiantes de La Plata",
+                "logo": "https://crests.football-data.org/2051.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
