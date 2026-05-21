@@ -29,6 +29,34 @@
     },
     {
         "fixture": {
+            "id": 557152,
+            "date": "2026-05-21T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            },
+            "away": {
+                "name": "Club Cerro Porteño",
+                "logo": "https://crests.football-data.org/9373.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 557164,
             "date": "2026-05-21T00:30:00+00:00",
             "status": {
@@ -85,10 +113,10 @@
     },
     {
         "fixture": {
-            "id": 557152,
-            "date": "2026-05-21T00:30:00+00:00",
+            "id": 557153,
+            "date": "2026-05-21T02:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -98,17 +126,17 @@
         },
         "teams": {
             "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
+                "name": "CDP Junior FC",
+                "logo": "https://crests.football-data.org/4439.png"
             },
             "away": {
-                "name": "Club Cerro Porteño",
-                "logo": "https://crests.football-data.org/9373.png"
+                "name": "CS Cristal",
+                "logo": "https://crests.football-data.org/5347.png"
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -132,34 +160,6 @@
             "away": {
                 "name": "CD Independiente Medellín",
                 "logo": "https://crests.football-data.org/7119.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 557153,
-            "date": "2026-05-21T02:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CDP Junior FC",
-                "logo": "https://crests.football-data.org/4439.png"
-            },
-            "away": {
-                "name": "CS Cristal",
-                "logo": "https://crests.football-data.org/5347.png"
             }
         },
         "goals": {
