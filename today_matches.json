@@ -29,34 +29,6 @@
     },
     {
         "fixture": {
-            "id": 557129,
-            "date": "2026-05-22T00:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Universidad Católica",
-                "logo": "https://crests.football-data.org/6993.png"
-            },
-            "away": {
-                "name": "Barcelona SC",
-                "logo": "https://crests.football-data.org/4520.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 557140,
             "date": "2026-05-22T00:30:00+00:00",
             "status": {
@@ -85,10 +57,38 @@
     },
     {
         "fixture": {
+            "id": 557129,
+            "date": "2026-05-22T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Universidad Católica",
+                "logo": "https://crests.football-data.org/6993.png"
+            },
+            "away": {
+                "name": "Barcelona SC",
+                "logo": "https://crests.football-data.org/4520.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 537185,
             "date": "2026-05-22T18:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -108,7 +108,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     }
 ]
