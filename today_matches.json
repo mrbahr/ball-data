@@ -85,6 +85,34 @@
     },
     {
         "fixture": {
+            "id": 544587,
+            "date": "2026-05-23T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
+            },
+            "away": {
+                "name": "Athletic Club",
+                "logo": "https://crests.football-data.org/77.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 544583,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
@@ -107,7 +135,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -135,8 +163,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -163,7 +191,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -197,7 +225,7 @@
     },
     {
         "fixture": {
-            "id": 544587,
+            "id": 544582,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
                 "short": "LIVE"
@@ -210,17 +238,17 @@
         },
         "teams": {
             "home": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
+                "name": "Real Betis Balompié",
+                "logo": "https://crests.football-data.org/90.png"
             },
             "away": {
-                "name": "Athletic Club",
-                "logo": "https://crests.football-data.org/77.png"
+                "name": "Levante UD",
+                "logo": "https://crests.football-data.org/88.png"
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -275,7 +303,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     },
@@ -303,34 +331,6 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 544582,
-            "date": "2026-05-23T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Betis Balompié",
-                "logo": "https://crests.football-data.org/90.png"
-            },
-            "away": {
-                "name": "Levante UD",
-                "logo": "https://crests.football-data.org/88.png"
-            }
-        },
-        "goals": {
             "home": 1,
             "away": 0
         }
@@ -340,7 +340,7 @@
             "id": 554907,
             "date": "2026-05-23T20:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -359,8 +359,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -368,7 +368,7 @@
             "id": 554909,
             "date": "2026-05-23T20:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -387,8 +387,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     }
 ]
