@@ -60,7 +60,7 @@
             "id": 537190,
             "date": "2026-05-23T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,92 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 544585,
-            "date": "2026-05-23T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Getafe CF",
-                "logo": "https://crests.football-data.org/82.png"
-            },
-            "away": {
-                "name": "CA Osasuna",
-                "logo": "https://crests.football-data.org/79.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 544581,
-            "date": "2026-05-23T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Deportivo Alavés",
-                "logo": "https://crests.football-data.org/263.png"
-            },
-            "away": {
-                "name": "Rayo Vallecano de Madrid",
-                "logo": "https://crests.football-data.org/87.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 544587,
-            "date": "2026-05-23T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Madrid CF",
-                "logo": "https://crests.football-data.org/86.png"
-            },
-            "away": {
-                "name": "Athletic Club",
-                "logo": "https://crests.football-data.org/77.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -172,7 +88,7 @@
             "id": 544583,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -200,7 +116,7 @@
             "id": 544590,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -219,16 +135,16 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
         "fixture": {
-            "id": 544586,
+            "id": 544585,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -238,25 +154,25 @@
         },
         "teams": {
             "home": {
-                "name": "RCD Mallorca",
-                "logo": "https://crests.football-data.org/89.png"
+                "name": "Getafe CF",
+                "logo": "https://crests.football-data.org/82.png"
             },
             "away": {
-                "name": "Real Oviedo",
-                "logo": "https://crests.football-data.org/1048.png"
+                "name": "CA Osasuna",
+                "logo": "https://crests.football-data.org/79.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
         "fixture": {
-            "id": 544582,
+            "id": 544581,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -266,17 +182,45 @@
         },
         "teams": {
             "home": {
-                "name": "Real Betis Balompié",
-                "logo": "https://crests.football-data.org/90.png"
+                "name": "Deportivo Alavés",
+                "logo": "https://crests.football-data.org/263.png"
             },
             "away": {
-                "name": "Levante UD",
-                "logo": "https://crests.football-data.org/88.png"
+                "name": "Rayo Vallecano de Madrid",
+                "logo": "https://crests.football-data.org/87.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 544587,
+            "date": "2026-05-23T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Madrid CF",
+                "logo": "https://crests.football-data.org/86.png"
+            },
+            "away": {
+                "name": "Athletic Club",
+                "logo": "https://crests.football-data.org/77.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -284,7 +228,7 @@
             "id": 544589,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -303,8 +247,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -312,7 +256,7 @@
             "id": 544584,
             "date": "2026-05-23T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -331,8 +275,64 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 544586,
+            "date": "2026-05-23T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RCD Mallorca",
+                "logo": "https://crests.football-data.org/89.png"
+            },
+            "away": {
+                "name": "Real Oviedo",
+                "logo": "https://crests.football-data.org/1048.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 544582,
+            "date": "2026-05-23T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Betis Balompié",
+                "logo": "https://crests.football-data.org/90.png"
+            },
+            "away": {
+                "name": "Levante UD",
+                "logo": "https://crests.football-data.org/88.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
