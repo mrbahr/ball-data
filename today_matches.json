@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 557166,
-            "date": "2026-05-26T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Lanús",
-                "logo": "https://crests.football-data.org/2066.png"
-            },
-            "away": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 557167,
             "date": "2026-05-26T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,16 +23,16 @@
             }
         },
         "goals": {
-            "home": 3,
-            "away": 2
+            "home": null,
+            "away": null
         }
     },
     {
         "fixture": {
-            "id": 557094,
-            "date": "2026-05-27T00:30:00+00:00",
+            "id": 557166,
+            "date": "2026-05-26T22:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -70,45 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "Estudiantes de La Plata",
-                "logo": "https://crests.football-data.org/2051.png"
+                "name": "CA Lanús",
+                "logo": "https://crests.football-data.org/2066.png"
             },
             "away": {
-                "name": "CD Independiente Medellín",
-                "logo": "https://crests.football-data.org/7119.png"
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 557106,
-            "date": "2026-05-27T00:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Universitario de Deportes",
-                "logo": "https://crests.football-data.org/4268.png"
-            },
-            "away": {
-                "name": "CD Tolima",
-                "logo": "https://crests.football-data.org/4437.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -116,7 +60,7 @@
             "id": 557107,
             "date": "2026-05-27T00:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -135,8 +79,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": null,
+            "away": null
         }
     },
     {
@@ -144,7 +88,7 @@
             "id": 557095,
             "date": "2026-05-27T00:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -163,8 +107,64 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 557094,
+            "date": "2026-05-27T00:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Estudiantes de La Plata",
+                "logo": "https://crests.football-data.org/2051.png"
+            },
+            "away": {
+                "name": "CD Independiente Medellín",
+                "logo": "https://crests.football-data.org/7119.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 557106,
+            "date": "2026-05-27T00:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Universitario de Deportes",
+                "logo": "https://crests.football-data.org/4268.png"
+            },
+            "away": {
+                "name": "CD Tolima",
+                "logo": "https://crests.football-data.org/4437.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     }
 ]
