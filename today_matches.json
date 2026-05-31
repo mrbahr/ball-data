@@ -57,38 +57,10 @@
     },
     {
         "fixture": {
-            "id": 554916,
-            "date": "2026-05-31T19:00:00+00:00",
-            "status": {
-                "short": "HT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            },
-            "away": {
-                "name": "Chapecoense AF",
-                "logo": "https://crests.football-data.org/1772_large.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554919,
             "date": "2026-05-31T19:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -109,6 +81,34 @@
         "goals": {
             "home": 0,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 554916,
+            "date": "2026-05-31T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            },
+            "away": {
+                "name": "Chapecoense AF",
+                "logo": "https://crests.football-data.org/1772_large.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     }
 ]
