@@ -4,12 +4,12 @@ import os
 from datetime import datetime, timedelta
 import pytz
 
-# 1. ضبط توقيت مصر
+
 tz = pytz.timezone('Africa/Cairo')
 now_cairo = datetime.now(tz)
 today_str = now_cairo.strftime('%Y-%m-%d')
 
-# 2. حيلة الشبكة الواسعة: هنجيب ماتشات من إمبارح لبكرة عشان نتفادى أخطاء سيرفر الموقع
+
 yesterday_str = (now_cairo - timedelta(days=1)).strftime('%Y-%m-%d')
 tomorrow_str = (now_cairo + timedelta(days=1)).strftime('%Y-%m-%d')
 
@@ -32,18 +32,22 @@ try:
         formatted_matches = []
         
         for match in data["matches"]:
-            # 3. الفلتر الذكي: تحويل وقت المباراة لتوقيت مصر
-            original_date = match["utcDate"]
+            
+            original_date = match.get("utcDate")
+            if not original_date:
+                continue
+                
             match_utc = datetime.strptime(original_date, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.utc)
             match_cairo = match_utc.astimezone(tz)
             
-            # هل المباراة تلعب اليوم بتوقيت مصر؟ (لو لا، تجاهلها تماماً)
+            
             if match_cairo.strftime('%Y-%m-%d') != today_str:
                 continue
 
-            # لو المباراة اليوم، قم بتجهيزها للأندرويد
+            
             status_map = {
-                "SCHEDULED": "NS", "TIMED": "NS", "IN_PLAY": "LIVE",
+                "SCHEDULED": "NS", "TIMED": "NS", 
+                "IN_PLAY": "LIVE", "EXTRA_TIME": "LIVE", "PENALTY_SHOOTOUT": "LIVE", # خليهم ET أو PEN لو الأندرويد بيقراهم بشكل مخصص
                 "PAUSED": "HT", "FINISHED": "FT", "SUSPENDED": "SUSP",
                 "POSTPONED": "PST", "CANCELLED": "CANC", "AWARDED": "AWD"
             }
@@ -52,7 +56,11 @@ try:
             
             android_friendly_date = original_date.replace("Z", "+00:00")
             
-            league_name = match["competition"]["name"]
+            
+            competition = match.get("competition", {})
+            area = match.get("area", {})
+            
+            league_name = competition.get("name", "Unknown League")
             if league_name == "Primera Division":
                 league_name = "La Liga"
             elif league_name == "European Championship":
@@ -61,25 +69,28 @@ try:
             score_data = match.get("score", {})
             full_time = score_data.get("fullTime") or {}
             
+            home_team = match.get("homeTeam", {})
+            away_team = match.get("awayTeam", {})
+            
             formatted_match = {
                 "fixture": {
-                    "id": match["id"],
+                    "id": match.get("id"),
                     "date": android_friendly_date,
                     "status": {"short": short_status}
                 },
                 "league": {
                     "name": league_name,
-                    "country": match["area"]["name"],
-                    "logo": match["competition"].get("emblem", "")
+                    "country": area.get("name", ""),
+                    "logo": competition.get("emblem", "")
                 },
                 "teams": {
                     "home": {
-                        "name": match["homeTeam"]["name"],
-                        "logo": match["homeTeam"].get("crest", "")
+                        "name": home_team.get("name", "Home Team"),
+                        "logo": home_team.get("crest", "")
                     },
                     "away": {
-                        "name": match["awayTeam"]["name"],
-                        "logo": match["awayTeam"].get("crest", "")
+                        "name": away_team.get("name", "Away Team"),
+                        "logo": away_team.get("crest", "")
                     }
                 },
                 "goals": {
