@@ -1,64 +1,8 @@
 [
     {
         "fixture": {
-            "id": 537370,
-            "date": "2026-06-15T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Saudi Arabia",
-                "logo": "https://crests.football-data.org/saudi_arabia.svg"
-            },
-            "away": {
-                "name": "Uruguay",
-                "logo": "https://crests.football-data.org/758.svg"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 537364,
-            "date": "2026-06-16T01:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Iran",
-                "logo": "https://crests.football-data.org/iran.svg"
-            },
-            "away": {
-                "name": "New Zealand",
-                "logo": "https://crests.football-data.org/783.svg"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 537391,
-            "date": "2026-06-16T19:00:00+00:00",
+            "id": 537392,
+            "date": "2026-06-16T22:00:00+00:00",
             "status": {
                 "short": "LIVE"
             }
@@ -70,17 +14,129 @@
         },
         "teams": {
             "home": {
-                "name": "France",
-                "logo": "https://crests.football-data.org/773.svg"
+                "name": "Iraq",
+                "logo": "https://crests.football-data.org/iraq.svg"
             },
             "away": {
-                "name": "Senegal",
-                "logo": "https://crests.football-data.org/senegal.svg"
+                "name": "Norway",
+                "logo": "https://crests.football-data.org/813.svg"
             }
         },
         "goals": {
             "home": 0,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 537397,
+            "date": "2026-06-17T01:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Argentina",
+                "logo": "https://crests.football-data.org/762.png"
+            },
+            "away": {
+                "name": "Algeria",
+                "logo": "https://crests.football-data.org/algeria.svg"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537398,
+            "date": "2026-06-17T04:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Austria",
+                "logo": "https://crests.football-data.org/816.svg"
+            },
+            "away": {
+                "name": "Jordan",
+                "logo": "https://crests.football-data.org/8049.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537403,
+            "date": "2026-06-17T17:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Portugal",
+                "logo": "https://crests.football-data.org/765.svg"
+            },
+            "away": {
+                "name": "Congo DR",
+                "logo": "https://crests.football-data.org/congo_dr.svg"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 537409,
+            "date": "2026-06-17T20:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "England",
+                "logo": "https://crests.football-data.org/770.svg"
+            },
+            "away": {
+                "name": "Croatia",
+                "logo": "https://crests.football-data.org/799.svg"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     }
 ]
