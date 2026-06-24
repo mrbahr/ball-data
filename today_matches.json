@@ -32,7 +32,7 @@
             "id": 537406,
             "date": "2026-06-24T02:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -48,6 +48,34 @@
             "away": {
                 "name": "Congo DR",
                 "logo": "https://crests.football-data.org/congo_dr.svg"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 537337,
+            "date": "2026-06-24T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Switzerland",
+                "logo": "https://crests.football-data.org/788.svg"
+            },
+            "away": {
+                "name": "Canada",
+                "logo": "https://crests.football-data.org/canada.svg"
             }
         },
         "goals": {
@@ -76,34 +104,6 @@
             "away": {
                 "name": "Qatar",
                 "logo": "https://crests.football-data.org/8030.svg"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 537337,
-            "date": "2026-06-24T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Switzerland",
-                "logo": "https://crests.football-data.org/788.svg"
-            },
-            "away": {
-                "name": "Canada",
-                "logo": "https://crests.football-data.org/canada.svg"
             }
         },
         "goals": {
