@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 537343,
-            "date": "2026-06-24T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Scotland",
-                "logo": "https://crests.football-data.org/814.svg"
-            },
-            "away": {
-                "name": "Brazil",
-                "logo": "https://crests.football-data.org/764.svg"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 3
-        }
-    },
-    {
-        "fixture": {
             "id": 537344,
             "date": "2026-06-24T22:00:00+00:00",
             "status": {
@@ -57,10 +29,66 @@
     },
     {
         "fixture": {
+            "id": 537343,
+            "date": "2026-06-24T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Scotland",
+                "logo": "https://crests.football-data.org/814.svg"
+            },
+            "away": {
+                "name": "Brazil",
+                "logo": "https://crests.football-data.org/764.svg"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
+            "id": 537332,
+            "date": "2026-06-25T01:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "South Africa",
+                "logo": "https://crests.football-data.org/9396.svg"
+            },
+            "away": {
+                "name": "South Korea",
+                "logo": "https://crests.football-data.org/772.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 537331,
             "date": "2026-06-25T01:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,14 +107,14 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 3
         }
     },
     {
         "fixture": {
-            "id": 537332,
-            "date": "2026-06-25T01:00:00+00:00",
+            "id": 537356,
+            "date": "2026-06-25T20:00:00+00:00",
             "status": {
                 "short": "NS"
             }
@@ -98,12 +126,12 @@
         },
         "teams": {
             "home": {
-                "name": "South Africa",
-                "logo": "https://crests.football-data.org/9396.svg"
+                "name": "Curaçao",
+                "logo": "https://crests.football-data.org/curacao.svg"
             },
             "away": {
-                "name": "South Korea",
-                "logo": "https://crests.football-data.org/772.png"
+                "name": "Ivory Coast",
+                "logo": "https://crests.football-data.org/787.svg"
             }
         },
         "goals": {
@@ -132,34 +160,6 @@
             "away": {
                 "name": "Germany",
                 "logo": "https://crests.football-data.org/759.svg"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 537356,
-            "date": "2026-06-25T20:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Curaçao",
-                "logo": "https://crests.football-data.org/curacao.svg"
-            },
-            "away": {
-                "name": "Ivory Coast",
-                "logo": "https://crests.football-data.org/787.svg"
             }
         },
         "goals": {
