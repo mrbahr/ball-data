@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 537361,
-            "date": "2026-06-25T23:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Tunisia",
-                "logo": "https://crests.football-data.org/tunisia.svg"
-            },
-            "away": {
-                "name": "Netherlands",
-                "logo": "https://crests.football-data.org/8601.svg"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 3
-        }
-    },
-    {
-        "fixture": {
             "id": 537362,
             "date": "2026-06-25T23:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -51,16 +23,16 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": null,
+            "away": null
         }
     },
     {
         "fixture": {
-            "id": 537349,
-            "date": "2026-06-26T02:00:00+00:00",
+            "id": 537361,
+            "date": "2026-06-25T23:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "Turkey",
-                "logo": "https://crests.football-data.org/803.svg"
+                "name": "Tunisia",
+                "logo": "https://crests.football-data.org/tunisia.svg"
             },
             "away": {
-                "name": "United States",
-                "logo": "https://crests.football-data.org/usa.svg"
+                "name": "Netherlands",
+                "logo": "https://crests.football-data.org/8601.svg"
             }
         },
         "goals": {
-            "home": 3,
-            "away": 2
+            "home": null,
+            "away": null
         }
     },
     {
@@ -113,10 +85,10 @@
     },
     {
         "fixture": {
-            "id": 537395,
-            "date": "2026-06-26T19:00:00+00:00",
+            "id": 537349,
+            "date": "2026-06-26T02:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -126,17 +98,17 @@
         },
         "teams": {
             "home": {
-                "name": "Norway",
-                "logo": "https://crests.football-data.org/813.svg"
+                "name": "Turkey",
+                "logo": "https://crests.football-data.org/803.svg"
             },
             "away": {
-                "name": "France",
-                "logo": "https://crests.football-data.org/773.svg"
+                "name": "United States",
+                "logo": "https://crests.football-data.org/usa.svg"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 2
         }
     },
     {
@@ -144,7 +116,7 @@
             "id": 537396,
             "date": "2026-06-26T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,8 +135,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 537395,
+            "date": "2026-06-26T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Norway",
+                "logo": "https://crests.football-data.org/813.svg"
+            },
+            "away": {
+                "name": "France",
+                "logo": "https://crests.football-data.org/773.svg"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 3
         }
     }
 ]
