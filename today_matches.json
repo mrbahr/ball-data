@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 537373,
-            "date": "2026-06-27T00:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Uruguay",
-                "logo": "https://crests.football-data.org/758.svg"
-            },
-            "away": {
-                "name": "Spain",
-                "logo": "https://crests.football-data.org/760.svg"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 537374,
             "date": "2026-06-27T00:00:00+00:00",
             "status": {
@@ -57,8 +29,8 @@
     },
     {
         "fixture": {
-            "id": 537367,
-            "date": "2026-06-27T03:00:00+00:00",
+            "id": 537373,
+            "date": "2026-06-27T00:00:00+00:00",
             "status": {
                 "short": "FT"
             }
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "New Zealand",
-                "logo": "https://crests.football-data.org/783.svg"
+                "name": "Uruguay",
+                "logo": "https://crests.football-data.org/758.svg"
             },
             "away": {
-                "name": "Belgium",
-                "logo": "https://crests.football-data.org/805.svg"
+                "name": "Spain",
+                "logo": "https://crests.football-data.org/760.svg"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 5
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -109,6 +81,34 @@
         "goals": {
             "home": 1,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 537367,
+            "date": "2026-06-27T03:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "New Zealand",
+                "logo": "https://crests.football-data.org/783.svg"
+            },
+            "away": {
+                "name": "Belgium",
+                "logo": "https://crests.football-data.org/805.svg"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 5
         }
     }
 ]
