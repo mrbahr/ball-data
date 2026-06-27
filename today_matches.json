@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 537374,
-            "date": "2026-06-27T00:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "FIFA World Cup",
-            "country": "World",
-            "logo": "https://crests.football-data.org/wm26.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Cape Verde Islands",
-                "logo": "https://crests.football-data.org/cape_verde.svg"
-            },
-            "away": {
-                "name": "Saudi Arabia",
-                "logo": "https://crests.football-data.org/saudi_arabia.svg"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 537373,
             "date": "2026-06-27T00:00:00+00:00",
             "status": {
@@ -57,8 +29,8 @@
     },
     {
         "fixture": {
-            "id": 537368,
-            "date": "2026-06-27T03:00:00+00:00",
+            "id": 537374,
+            "date": "2026-06-27T00:00:00+00:00",
             "status": {
                 "short": "FT"
             }
@@ -70,17 +42,17 @@
         },
         "teams": {
             "home": {
-                "name": "Egypt",
-                "logo": "https://crests.football-data.org/825.svg"
+                "name": "Cape Verde Islands",
+                "logo": "https://crests.football-data.org/cape_verde.svg"
             },
             "away": {
-                "name": "Iran",
-                "logo": "https://crests.football-data.org/iran.svg"
+                "name": "Saudi Arabia",
+                "logo": "https://crests.football-data.org/saudi_arabia.svg"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -109,6 +81,34 @@
         "goals": {
             "home": 1,
             "away": 5
+        }
+    },
+    {
+        "fixture": {
+            "id": 537368,
+            "date": "2026-06-27T03:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "FIFA World Cup",
+            "country": "World",
+            "logo": "https://crests.football-data.org/wm26.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Egypt",
+                "logo": "https://crests.football-data.org/825.svg"
+            },
+            "away": {
+                "name": "Iran",
+                "logo": "https://crests.football-data.org/iran.svg"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     }
 ]
