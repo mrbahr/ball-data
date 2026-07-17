@@ -4,7 +4,7 @@
             "id": 554770,
             "date": "2026-07-17T22:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -23,36 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 554927,
-            "date": "2026-07-17T23:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            },
-            "away": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -60,7 +32,7 @@
             "id": 554925,
             "date": "2026-07-17T23:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +51,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554927,
+            "date": "2026-07-17T23:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
+            },
+            "away": {
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     }
 ]
