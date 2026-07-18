@@ -23,7 +23,35 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554927,
+            "date": "2026-07-17T23:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
+            },
+            "away": {
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
+            }
+        },
+        "goals": {
+            "home": 2,
             "away": 0
         }
     },
@@ -32,7 +60,7 @@
             "id": 554925,
             "date": "2026-07-17T23:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -52,35 +80,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 554927,
-            "date": "2026-07-17T23:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            },
-            "away": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
+            "away": 1
         }
     }
 ]
