@@ -29,34 +29,6 @@
     },
     {
         "fixture": {
-            "id": 554925,
-            "date": "2026-07-17T23:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
-            },
-            "away": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 554927,
             "date": "2026-07-17T23:00:00+00:00",
             "status": {
@@ -80,6 +52,34 @@
         },
         "goals": {
             "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 554925,
+            "date": "2026-07-17T23:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
+            },
+            "away": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            }
+        },
+        "goals": {
+            "home": 1,
             "away": 1
         }
     }
