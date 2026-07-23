@@ -57,34 +57,6 @@
     },
     {
         "fixture": {
-            "id": 554922,
-            "date": "2026-07-23T00:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Chapecoense AF",
-                "logo": "https://crests.football-data.org/1772_large.png"
-            },
-            "away": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 4
-        }
-    },
-    {
-        "fixture": {
             "id": 554928,
             "date": "2026-07-23T00:30:00+00:00",
             "status": {
@@ -109,6 +81,34 @@
         "goals": {
             "home": 1,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 554922,
+            "date": "2026-07-23T00:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Chapecoense AF",
+                "logo": "https://crests.football-data.org/1772_large.png"
+            },
+            "away": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 4
         }
     }
 ]
