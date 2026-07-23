@@ -4,7 +4,7 @@
             "id": 554924,
             "date": "2026-07-22T22:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,8 +23,64 @@
             }
         },
         "goals": {
+            "home": 1,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
+            "id": 554926,
+            "date": "2026-07-23T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
+            },
+            "away": {
+                "name": "Cruzeiro EC",
+                "logo": "https://crests.football-data.org/1771.png"
+            }
+        },
+        "goals": {
             "home": 0,
-            "away": 2
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 554928,
+            "date": "2026-07-23T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
+            },
+            "away": {
+                "name": "CA Paranaense",
+                "logo": "https://crests.football-data.org/1768.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -51,64 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 554928,
-            "date": "2026-07-23T00:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            },
-            "away": {
-                "name": "CA Paranaense",
-                "logo": "https://crests.football-data.org/1768.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 554926,
-            "date": "2026-07-23T00:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
-            },
-            "away": {
-                "name": "Cruzeiro EC",
-                "logo": "https://crests.football-data.org/1771.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
         }
     }
 ]
