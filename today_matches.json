@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554771,
-            "date": "2026-07-23T22:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Botafogo FR",
-                "logo": "https://crests.football-data.org/1770.png"
-            },
-            "away": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554923,
             "date": "2026-07-23T22:30:00+00:00",
             "status": {
@@ -52,6 +24,34 @@
         },
         "goals": {
             "home": 3,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554771,
+            "date": "2026-07-23T22:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Botafogo FR",
+                "logo": "https://crests.football-data.org/1770.png"
+            },
+            "away": {
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
+            }
+        },
+        "goals": {
+            "home": 0,
             "away": 0
         }
     }
