@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554930,
-            "date": "2026-07-25T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Paranaense",
-                "logo": "https://crests.football-data.org/1768.png"
-            },
-            "away": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554938,
             "date": "2026-07-25T21:30:00+00:00",
             "status": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 2,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 554930,
+            "date": "2026-07-25T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CA Paranaense",
+                "logo": "https://crests.football-data.org/1768.png"
+            },
+            "away": {
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 0
         }
     },
     {
@@ -107,7 +107,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     },
@@ -136,7 +136,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         }
     }
 ]
