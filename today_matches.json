@@ -1,10 +1,10 @@
 [
     {
         "fixture": {
-            "id": 554935,
+            "id": 554934,
             "date": "2026-07-26T21:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -14,17 +14,17 @@
         },
         "teams": {
             "home": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
             },
             "away": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -32,7 +32,7 @@
             "id": 554932,
             "date": "2026-07-26T21:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -57,10 +57,10 @@
     },
     {
         "fixture": {
-            "id": 554934,
+            "id": 554935,
             "date": "2026-07-26T21:30:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -70,45 +70,17 @@
         },
         "teams": {
             "home": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
             },
             "away": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 554937,
-            "date": "2026-07-26T22:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Clube do Remo",
-                "logo": "https://crests.football-data.org/4287.png"
-            },
-            "away": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -136,6 +108,34 @@
         },
         "goals": {
             "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554937,
+            "date": "2026-07-26T22:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Clube do Remo",
+                "logo": "https://crests.football-data.org/4287.png"
+            },
+            "away": {
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
+            }
+        },
+        "goals": {
+            "home": 1,
             "away": 0
         }
     }
