@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554934,
-            "date": "2026-07-26T21:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
-            },
-            "away": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 554932,
             "date": "2026-07-26T21:30:00+00:00",
             "status": {
@@ -53,6 +25,34 @@
         "goals": {
             "home": 0,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554934,
+            "date": "2026-07-26T21:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
+            },
+            "away": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 554936,
             "date": "2026-07-26T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 2
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 554937,
             "date": "2026-07-26T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -135,7 +135,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         }
     }
