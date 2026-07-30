@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 554946,
-            "date": "2026-07-29T22:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
-            },
-            "away": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554947,
             "date": "2026-07-29T22:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "Clube do Remo",
                 "logo": "https://crests.football-data.org/4287.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 554946,
+            "date": "2026-07-29T22:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
+            },
+            "away": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
             }
         },
         "goals": {
