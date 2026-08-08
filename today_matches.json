@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 558215,
-            "date": "2026-08-08T14:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "NEC",
-                "logo": "https://crests.football-data.org/1915.png"
-            },
-            "away": {
-                "name": "Telstar 1963",
-                "logo": "https://crests.football-data.org/1912.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567263,
             "date": "2026-08-08T14:30:00+00:00",
             "status": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "Casa Pia AC",
                 "logo": "https://crests.football-data.org/6618.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558215,
+            "date": "2026-08-08T14:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "NEC",
+                "logo": "https://crests.football-data.org/1915.png"
+            },
+            "away": {
+                "name": "Telstar 1963",
+                "logo": "https://crests.football-data.org/1912.png"
             }
         },
         "goals": {
@@ -88,7 +88,7 @@
             "id": 567258,
             "date": "2026-08-08T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -116,7 +116,7 @@
             "id": 558217,
             "date": "2026-08-08T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,36 +135,8 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 558218,
-            "date": "2026-08-08T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "AZ",
-                "logo": "https://crests.football-data.org/682.png"
-            },
-            "away": {
-                "name": "ADO Den Haag",
-                "logo": "https://crests.football-data.org/680.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
         }
     },
     {
@@ -191,8 +163,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 558218,
+            "date": "2026-08-08T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AZ",
+                "logo": "https://crests.football-data.org/682.png"
+            },
+            "away": {
+                "name": "ADO Den Haag",
+                "logo": "https://crests.football-data.org/680.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     },
     {
