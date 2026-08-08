@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 567263,
-            "date": "2026-08-08T14:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CS Marítimo",
-                "logo": "https://crests.football-data.org/5575.png"
-            },
-            "away": {
-                "name": "Casa Pia AC",
-                "logo": "https://crests.football-data.org/6618.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558215,
             "date": "2026-08-08T14:30:00+00:00",
             "status": {
@@ -57,10 +29,38 @@
     },
     {
         "fixture": {
+            "id": 567263,
+            "date": "2026-08-08T14:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CS Marítimo",
+                "logo": "https://crests.football-data.org/5575.png"
+            },
+            "away": {
+                "name": "Casa Pia AC",
+                "logo": "https://crests.football-data.org/6618.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 558216,
             "date": "2026-08-08T16:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -88,7 +88,7 @@
             "id": 567258,
             "date": "2026-08-08T17:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
