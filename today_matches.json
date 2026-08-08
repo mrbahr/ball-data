@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 558215,
-            "date": "2026-08-08T14:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "NEC",
-                "logo": "https://crests.football-data.org/1915.png"
-            },
-            "away": {
-                "name": "Telstar 1963",
-                "logo": "https://crests.football-data.org/1912.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567263,
             "date": "2026-08-08T14:30:00+00:00",
             "status": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "Casa Pia AC",
                 "logo": "https://crests.football-data.org/6618.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558215,
+            "date": "2026-08-08T14:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "NEC",
+                "logo": "https://crests.football-data.org/1915.png"
+            },
+            "away": {
+                "name": "Telstar 1963",
+                "logo": "https://crests.football-data.org/1912.png"
             }
         },
         "goals": {
