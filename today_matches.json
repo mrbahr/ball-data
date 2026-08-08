@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 558215,
-            "date": "2026-08-08T14:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "NEC",
-                "logo": "https://crests.football-data.org/1915.png"
-            },
-            "away": {
-                "name": "Telstar 1963",
-                "logo": "https://crests.football-data.org/1912.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567263,
             "date": "2026-08-08T14:30:00+00:00",
             "status": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "Casa Pia AC",
                 "logo": "https://crests.football-data.org/6618.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558215,
+            "date": "2026-08-08T14:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "NEC",
+                "logo": "https://crests.football-data.org/1915.png"
+            },
+            "away": {
+                "name": "Telstar 1963",
+                "logo": "https://crests.football-data.org/1912.png"
             }
         },
         "goals": {
@@ -116,7 +116,7 @@
             "id": 558217,
             "date": "2026-08-08T18:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -136,35 +136,7 @@
         },
         "goals": {
             "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 554956,
-            "date": "2026-08-08T19:00:00+00:00",
-            "status": {
-                "short": "HT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
-            },
-            "away": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
+            "away": 2
         }
     },
     {
@@ -172,7 +144,7 @@
             "id": 558218,
             "date": "2026-08-08T19:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +163,36 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554956,
+            "date": "2026-08-08T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
+            },
+            "away": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -200,7 +200,7 @@
             "id": 567260,
             "date": "2026-08-08T19:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
