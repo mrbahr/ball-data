@@ -113,34 +113,6 @@
     },
     {
         "fixture": {
-            "id": 558220,
-            "date": "2026-08-09T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Groningen",
-                "logo": "https://crests.football-data.org/677.png"
-            },
-            "away": {
-                "name": "FC Utrecht",
-                "logo": "https://crests.football-data.org/676.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 558221,
             "date": "2026-08-09T12:30:00+00:00",
             "status": {
@@ -165,6 +137,34 @@
         "goals": {
             "home": 0,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 558220,
+            "date": "2026-08-09T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Groningen",
+                "logo": "https://crests.football-data.org/677.png"
+            },
+            "away": {
+                "name": "FC Utrecht",
+                "logo": "https://crests.football-data.org/676.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -253,10 +253,38 @@
     },
     {
         "fixture": {
-            "id": 554957,
+            "id": 554950,
             "date": "2026-08-09T19:00:00+00:00",
             "status": {
                 "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "EC Bahia",
+                "logo": "https://crests.football-data.org/1777.png"
+            },
+            "away": {
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 554957,
+            "date": "2026-08-09T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
             }
         },
         "league": {
@@ -281,35 +309,7 @@
     },
     {
         "fixture": {
-            "id": 554950,
-            "date": "2026-08-09T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Bahia",
-                "logo": "https://crests.football-data.org/1777.png"
-            },
-            "away": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 567261,
+            "id": 567262,
             "date": "2026-08-09T19:30:00+00:00",
             "status": {
                 "short": "NS"
@@ -322,16 +322,16 @@
         },
         "teams": {
             "home": {
-                "name": "Gil Vicente FC",
-                "logo": "https://crests.football-data.org/5533.png"
+                "name": "Sport Lisboa e Benfica",
+                "logo": "https://crests.football-data.org/1903.png"
             },
             "away": {
-                "name": "Rio Ave FC",
-                "logo": "https://crests.football-data.org/496.png"
+                "name": "Académico de Viseu FC",
+                "logo": "https://crests.football-data.org/5527.png"
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -365,7 +365,7 @@
     },
     {
         "fixture": {
-            "id": 567262,
+            "id": 567261,
             "date": "2026-08-09T19:30:00+00:00",
             "status": {
                 "short": "NS"
@@ -378,16 +378,16 @@
         },
         "teams": {
             "home": {
-                "name": "Sport Lisboa e Benfica",
-                "logo": "https://crests.football-data.org/1903.png"
+                "name": "Gil Vicente FC",
+                "logo": "https://crests.football-data.org/5533.png"
             },
             "away": {
-                "name": "Académico de Viseu FC",
-                "logo": "https://crests.football-data.org/5527.png"
+                "name": "Rio Ave FC",
+                "logo": "https://crests.football-data.org/496.png"
             }
         },
         "goals": {
-            "home": 1,
+            "home": 0,
             "away": 0
         }
     }
