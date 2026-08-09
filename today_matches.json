@@ -228,7 +228,7 @@
             "id": 567265,
             "date": "2026-08-09T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "NS"
             }
         },
         "league": {
@@ -247,7 +247,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -309,34 +309,6 @@
     },
     {
         "fixture": {
-            "id": 567262,
-            "date": "2026-08-09T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sport Lisboa e Benfica",
-                "logo": "https://crests.football-data.org/1903.png"
-            },
-            "away": {
-                "name": "Académico de Viseu FC",
-                "logo": "https://crests.football-data.org/5527.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567259,
             "date": "2026-08-09T19:30:00+00:00",
             "status": {
@@ -384,6 +356,34 @@
             "away": {
                 "name": "Rio Ave FC",
                 "logo": "https://crests.football-data.org/496.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567262,
+            "date": "2026-08-09T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sport Lisboa e Benfica",
+                "logo": "https://crests.football-data.org/1903.png"
+            },
+            "away": {
+                "name": "Académico de Viseu FC",
+                "logo": "https://crests.football-data.org/5527.png"
             }
         },
         "goals": {
