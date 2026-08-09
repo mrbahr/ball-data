@@ -113,38 +113,10 @@
     },
     {
         "fixture": {
-            "id": 558220,
-            "date": "2026-08-09T12:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Groningen",
-                "logo": "https://crests.football-data.org/677.png"
-            },
-            "away": {
-                "name": "FC Utrecht",
-                "logo": "https://crests.football-data.org/676.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 558221,
             "date": "2026-08-09T12:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -164,7 +136,35 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 558220,
+            "date": "2026-08-09T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Groningen",
+                "logo": "https://crests.football-data.org/677.png"
+            },
+            "away": {
+                "name": "FC Utrecht",
+                "logo": "https://crests.football-data.org/676.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -172,7 +172,7 @@
             "id": 554954,
             "date": "2026-08-09T14:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
