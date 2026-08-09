@@ -113,34 +113,6 @@
     },
     {
         "fixture": {
-            "id": 558221,
-            "date": "2026-08-09T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "PEC Zwolle",
-                "logo": "https://crests.football-data.org/684.png"
-            },
-            "away": {
-                "name": "AFC Ajax",
-                "logo": "https://crests.football-data.org/678.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 558220,
             "date": "2026-08-09T12:30:00+00:00",
             "status": {
@@ -165,6 +137,34 @@
         "goals": {
             "home": 2,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 558221,
+            "date": "2026-08-09T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "PEC Zwolle",
+                "logo": "https://crests.football-data.org/684.png"
+            },
+            "away": {
+                "name": "AFC Ajax",
+                "logo": "https://crests.football-data.org/678.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
         }
     },
     {
@@ -253,34 +253,6 @@
     },
     {
         "fixture": {
-            "id": 554950,
-            "date": "2026-08-09T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Bahia",
-                "logo": "https://crests.football-data.org/1777.png"
-            },
-            "away": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554957,
             "date": "2026-08-09T19:00:00+00:00",
             "status": {
@@ -309,58 +281,30 @@
     },
     {
         "fixture": {
-            "id": 567262,
-            "date": "2026-08-09T19:30:00+00:00",
+            "id": 554950,
+            "date": "2026-08-09T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
         },
         "teams": {
             "home": {
-                "name": "Sport Lisboa e Benfica",
-                "logo": "https://crests.football-data.org/1903.png"
+                "name": "EC Bahia",
+                "logo": "https://crests.football-data.org/1777.png"
             },
             "away": {
-                "name": "Académico de Viseu FC",
-                "logo": "https://crests.football-data.org/5527.png"
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 567259,
-            "date": "2026-08-09T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Moreirense FC",
-                "logo": "https://crests.football-data.org/583.png"
-            },
-            "away": {
-                "name": "Sporting Clube de Braga",
-                "logo": "https://crests.football-data.org/5613.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -387,8 +331,64 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 567259,
+            "date": "2026-08-09T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Moreirense FC",
+                "logo": "https://crests.football-data.org/583.png"
+            },
+            "away": {
+                "name": "Sporting Clube de Braga",
+                "logo": "https://crests.football-data.org/5613.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 567262,
+            "date": "2026-08-09T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sport Lisboa e Benfica",
+                "logo": "https://crests.football-data.org/1903.png"
+            },
+            "away": {
+                "name": "Académico de Viseu FC",
+                "logo": "https://crests.football-data.org/5527.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     }
 ]
