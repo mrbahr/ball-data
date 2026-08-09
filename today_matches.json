@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -309,34 +309,6 @@
     },
     {
         "fixture": {
-            "id": 567261,
-            "date": "2026-08-09T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Gil Vicente FC",
-                "logo": "https://crests.football-data.org/5533.png"
-            },
-            "away": {
-                "name": "Rio Ave FC",
-                "logo": "https://crests.football-data.org/496.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567259,
             "date": "2026-08-09T19:30:00+00:00",
             "status": {
@@ -356,6 +328,34 @@
             "away": {
                 "name": "Sporting Clube de Braga",
                 "logo": "https://crests.football-data.org/5613.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567261,
+            "date": "2026-08-09T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Gil Vicente FC",
+                "logo": "https://crests.football-data.org/5533.png"
+            },
+            "away": {
+                "name": "Rio Ave FC",
+                "logo": "https://crests.football-data.org/496.png"
             }
         },
         "goals": {
