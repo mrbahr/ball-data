@@ -1,10 +1,10 @@
 [
     {
         "fixture": {
-            "id": 564455,
-            "date": "2026-08-11T22:00:00+00:00",
+            "id": 564458,
+            "date": "2026-08-12T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -14,40 +14,12 @@
         },
         "teams": {
             "home": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
+                "name": "CA Platense",
+                "logo": "https://crests.football-data.org/7580.png"
             },
             "away": {
-                "name": "CS Independiente Rivadavia",
-                "logo": "https://crests.football-data.org/2052.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 564457,
-            "date": "2026-08-12T00:30:00+00:00",
-            "status": {
-                "short": "PST"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Tolima",
-                "logo": "https://crests.football-data.org/4437.png"
-            },
-            "away": {
-                "name": "CAR Independiente del Valle",
-                "logo": "https://crests.football-data.org/6989.png"
+                "name": "CD Coquimbo Unido",
+                "logo": "https://crests.football-data.org/7912.png"
             }
         },
         "goals": {
@@ -57,10 +29,10 @@
     },
     {
         "fixture": {
-            "id": 564456,
-            "date": "2026-08-12T00:30:00+00:00",
+            "id": 564459,
+            "date": "2026-08-12T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
@@ -70,17 +42,45 @@
         },
         "teams": {
             "home": {
-                "name": "Estudiantes de La Plata",
-                "logo": "https://crests.football-data.org/2051.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             },
             "away": {
-                "name": "CD Universidad Católica",
-                "logo": "https://crests.football-data.org/6993.png"
+                "name": "Club Cerro Porteño",
+                "logo": "https://crests.football-data.org/9373.png"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564460,
+            "date": "2026-08-13T00:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Cruzeiro EC",
+                "logo": "https://crests.football-data.org/1771.png"
+            },
+            "away": {
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     }
 ]
