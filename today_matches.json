@@ -29,34 +29,6 @@
     },
     {
         "fixture": {
-            "id": 564457,
-            "date": "2026-08-12T00:30:00+00:00",
-            "status": {
-                "short": "PST"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "CD Tolima",
-                "logo": "https://crests.football-data.org/4437.png"
-            },
-            "away": {
-                "name": "CAR Independiente del Valle",
-                "logo": "https://crests.football-data.org/6989.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 564456,
             "date": "2026-08-12T00:30:00+00:00",
             "status": {
@@ -81,6 +53,34 @@
         "goals": {
             "home": 1,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 564457,
+            "date": "2026-08-12T00:30:00+00:00",
+            "status": {
+                "short": "PST"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Tolima",
+                "logo": "https://crests.football-data.org/4437.png"
+            },
+            "away": {
+                "name": "CAR Independiente del Valle",
+                "logo": "https://crests.football-data.org/6989.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     }
 ]
