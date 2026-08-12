@@ -29,34 +29,6 @@
     },
     {
         "fixture": {
-            "id": 564456,
-            "date": "2026-08-12T00:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Estudiantes de La Plata",
-                "logo": "https://crests.football-data.org/2051.png"
-            },
-            "away": {
-                "name": "CD Universidad Católica",
-                "logo": "https://crests.football-data.org/6993.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 564457,
             "date": "2026-08-12T00:30:00+00:00",
             "status": {
@@ -81,6 +53,34 @@
         "goals": {
             "home": null,
             "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564456,
+            "date": "2026-08-12T00:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Estudiantes de La Plata",
+                "logo": "https://crests.football-data.org/2051.png"
+            },
+            "away": {
+                "name": "CD Universidad Católica",
+                "logo": "https://crests.football-data.org/6993.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     }
 ]
