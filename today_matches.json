@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 564459,
-            "date": "2026-08-12T22:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            },
-            "away": {
-                "name": "Club Cerro Porteño",
-                "logo": "https://crests.football-data.org/9373.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 564458,
             "date": "2026-08-12T22:00:00+00:00",
             "status": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "CD Coquimbo Unido",
                 "logo": "https://crests.football-data.org/7912.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 564459,
+            "date": "2026-08-12T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            },
+            "away": {
+                "name": "Club Cerro Porteño",
+                "logo": "https://crests.football-data.org/9373.png"
             }
         },
         "goals": {
