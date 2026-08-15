@@ -29,90 +29,6 @@
     },
     {
         "fixture": {
-            "id": 561764,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Bristol City FC",
-                "logo": "https://crests.football-data.org/387.png"
-            },
-            "away": {
-                "name": "Millwall FC",
-                "logo": "https://crests.football-data.org/384.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 561766,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Stoke City FC",
-                "logo": "https://crests.football-data.org/70.png"
-            },
-            "away": {
-                "name": "Swansea City AFC",
-                "logo": "https://crests.football-data.org/72.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 561768,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Portsmouth FC",
-                "logo": "https://crests.football-data.org/325.png"
-            },
-            "away": {
-                "name": "Queens Park Rangers FC",
-                "logo": "https://crests.football-data.org/69.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 3
-        }
-    },
-    {
-        "fixture": {
             "id": 561765,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
@@ -197,30 +113,86 @@
     },
     {
         "fixture": {
-            "id": 567266,
-            "date": "2026-08-15T14:30:00+00:00",
+            "id": 561764,
+            "date": "2026-08-15T14:00:00+00:00",
             "status": {
                 "short": "FT"
             }
         },
         "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
         },
         "teams": {
             "home": {
-                "name": "FC Alverca",
-                "logo": "https://crests.football-data.org/7822.png"
+                "name": "Bristol City FC",
+                "logo": "https://crests.football-data.org/387.png"
             },
             "away": {
-                "name": "CF Estrela da Amadora",
-                "logo": "https://crests.football-data.org/9136.png"
+                "name": "Millwall FC",
+                "logo": "https://crests.football-data.org/384.png"
             }
         },
         "goals": {
-            "home": 2,
+            "home": 0,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 561766,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Stoke City FC",
+                "logo": "https://crests.football-data.org/70.png"
+            },
+            "away": {
+                "name": "Swansea City AFC",
+                "logo": "https://crests.football-data.org/72.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 561768,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Portsmouth FC",
+                "logo": "https://crests.football-data.org/325.png"
+            },
+            "away": {
+                "name": "Queens Park Rangers FC",
+                "logo": "https://crests.football-data.org/69.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 3
         }
     },
     {
@@ -249,6 +221,34 @@
         "goals": {
             "home": 1,
             "away": 4
+        }
+    },
+    {
+        "fixture": {
+            "id": 567266,
+            "date": "2026-08-15T14:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Alverca",
+                "logo": "https://crests.football-data.org/7822.png"
+            },
+            "away": {
+                "name": "CF Estrela da Amadora",
+                "logo": "https://crests.football-data.org/9136.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -368,7 +368,7 @@
             "id": 558226,
             "date": "2026-08-15T18:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -396,7 +396,7 @@
             "id": 558227,
             "date": "2026-08-15T19:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -421,62 +421,6 @@
     },
     {
         "fixture": {
-            "id": 554964,
-            "date": "2026-08-15T19:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
-            },
-            "away": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 567274,
-            "date": "2026-08-15T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Rio Ave FC",
-                "logo": "https://crests.football-data.org/496.png"
-            },
-            "away": {
-                "name": "FC Porto",
-                "logo": "https://crests.football-data.org/503.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 564633,
             "date": "2026-08-15T19:30:00+00:00",
             "status": {
@@ -496,6 +440,62 @@
             "away": {
                 "name": "Rayo Vallecano de Madrid",
                 "logo": "https://crests.football-data.org/87.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 554964,
+            "date": "2026-08-15T19:30:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
+            },
+            "away": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 567274,
+            "date": "2026-08-15T19:30:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Rio Ave FC",
+                "logo": "https://crests.football-data.org/496.png"
+            },
+            "away": {
+                "name": "FC Porto",
+                "logo": "https://crests.football-data.org/503.png"
             }
         },
         "goals": {
