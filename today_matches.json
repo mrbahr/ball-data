@@ -4,7 +4,7 @@
             "id": 554960,
             "date": "2026-08-15T21:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -365,34 +365,6 @@
     },
     {
         "fixture": {
-            "id": 554961,
-            "date": "2026-08-16T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CA Mineiro",
-                "logo": "https://crests.football-data.org/1766.png"
-            },
-            "away": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554968,
             "date": "2026-08-16T19:00:00+00:00",
             "status": {
@@ -421,25 +393,25 @@
     },
     {
         "fixture": {
-            "id": 567269,
-            "date": "2026-08-16T19:30:00+00:00",
+            "id": 554961,
+            "date": "2026-08-16T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
         },
         "teams": {
             "home": {
-                "name": "FC Famalicão",
-                "logo": "https://crests.football-data.org/5531.png"
+                "name": "CA Mineiro",
+                "logo": "https://crests.football-data.org/1766.png"
             },
             "away": {
-                "name": "CS Marítimo",
-                "logo": "https://crests.football-data.org/5575.png"
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
             }
         },
         "goals": {
@@ -468,6 +440,34 @@
             "away": {
                 "name": "Gil Vicente FC",
                 "logo": "https://crests.football-data.org/5533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567269,
+            "date": "2026-08-16T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Famalicão",
+                "logo": "https://crests.football-data.org/5531.png"
+            },
+            "away": {
+                "name": "CS Marítimo",
+                "logo": "https://crests.football-data.org/5575.png"
             }
         },
         "goals": {
