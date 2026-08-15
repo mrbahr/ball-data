@@ -29,90 +29,6 @@
     },
     {
         "fixture": {
-            "id": 561767,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Charlton Athletic FC",
-                "logo": "https://crests.football-data.org/348.png"
-            },
-            "away": {
-                "name": "Derby County FC",
-                "logo": "https://crests.football-data.org/342.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 561763,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Norwich City FC",
-                "logo": "https://crests.football-data.org/68.png"
-            },
-            "away": {
-                "name": "West Bromwich Albion FC",
-                "logo": "https://crests.football-data.org/74.png"
-            }
-        },
-        "goals": {
-            "home": 1,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 561765,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Middlesbrough FC",
-                "logo": "https://crests.football-data.org/343.png"
-            },
-            "away": {
-                "name": "Lincoln City FC",
-                "logo": "https://crests.football-data.org/1126.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 561766,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
@@ -192,6 +108,90 @@
         },
         "goals": {
             "home": 0,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 561765,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Middlesbrough FC",
+                "logo": "https://crests.football-data.org/343.png"
+            },
+            "away": {
+                "name": "Lincoln City FC",
+                "logo": "https://crests.football-data.org/1126.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 561767,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Charlton Athletic FC",
+                "logo": "https://crests.football-data.org/348.png"
+            },
+            "away": {
+                "name": "Derby County FC",
+                "logo": "https://crests.football-data.org/342.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 561763,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Norwich City FC",
+                "logo": "https://crests.football-data.org/68.png"
+            },
+            "away": {
+                "name": "West Bromwich Albion FC",
+                "logo": "https://crests.football-data.org/74.png"
+            }
+        },
+        "goals": {
+            "home": 1,
             "away": 2
         }
     },
@@ -284,7 +284,7 @@
             "id": 558225,
             "date": "2026-08-15T16:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -303,8 +303,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 3
         }
     },
     {
@@ -368,7 +368,7 @@
             "id": 558226,
             "date": "2026-08-15T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -387,8 +387,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -412,34 +412,6 @@
             "away": {
                 "name": "SC Cambuur-Leeuwarden",
                 "logo": "https://crests.football-data.org/1909.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 567274,
-            "date": "2026-08-15T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Rio Ave FC",
-                "logo": "https://crests.football-data.org/496.png"
-            },
-            "away": {
-                "name": "FC Porto",
-                "logo": "https://crests.football-data.org/503.png"
             }
         },
         "goals": {
@@ -496,6 +468,34 @@
             "away": {
                 "name": "Rayo Vallecano de Madrid",
                 "logo": "https://crests.football-data.org/87.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567274,
+            "date": "2026-08-15T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Rio Ave FC",
+                "logo": "https://crests.football-data.org/496.png"
+            },
+            "away": {
+                "name": "FC Porto",
+                "logo": "https://crests.football-data.org/503.png"
             }
         },
         "goals": {
