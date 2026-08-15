@@ -29,6 +29,34 @@
     },
     {
         "fixture": {
+            "id": 561765,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Middlesbrough FC",
+                "logo": "https://crests.football-data.org/343.png"
+            },
+            "away": {
+                "name": "Lincoln City FC",
+                "logo": "https://crests.football-data.org/1126.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 561767,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
@@ -85,62 +113,6 @@
     },
     {
         "fixture": {
-            "id": 561765,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Middlesbrough FC",
-                "logo": "https://crests.football-data.org/343.png"
-            },
-            "away": {
-                "name": "Lincoln City FC",
-                "logo": "https://crests.football-data.org/1126.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 561768,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Portsmouth FC",
-                "logo": "https://crests.football-data.org/325.png"
-            },
-            "away": {
-                "name": "Queens Park Rangers FC",
-                "logo": "https://crests.football-data.org/69.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 561764,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
@@ -188,6 +160,34 @@
             "away": {
                 "name": "Swansea City AFC",
                 "logo": "https://crests.football-data.org/72.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 561768,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Portsmouth FC",
+                "logo": "https://crests.football-data.org/325.png"
+            },
+            "away": {
+                "name": "Queens Park Rangers FC",
+                "logo": "https://crests.football-data.org/69.png"
             }
         },
         "goals": {
@@ -449,34 +449,6 @@
     },
     {
         "fixture": {
-            "id": 564633,
-            "date": "2026-08-15T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sevilla FC",
-                "logo": "https://crests.football-data.org/559.png"
-            },
-            "away": {
-                "name": "Rayo Vallecano de Madrid",
-                "logo": "https://crests.football-data.org/87.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554964,
             "date": "2026-08-15T19:30:00+00:00",
             "status": {
@@ -496,6 +468,34 @@
             "away": {
                 "name": "SE Palmeiras",
                 "logo": "https://crests.football-data.org/1769.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564633,
+            "date": "2026-08-15T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sevilla FC",
+                "logo": "https://crests.football-data.org/559.png"
+            },
+            "away": {
+                "name": "Rayo Vallecano de Madrid",
+                "logo": "https://crests.football-data.org/87.png"
             }
         },
         "goals": {
