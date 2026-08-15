@@ -52,7 +52,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 3
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 561764,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -80,7 +80,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -113,38 +113,10 @@
     },
     {
         "fixture": {
-            "id": 561767,
-            "date": "2026-08-15T14:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Charlton Athletic FC",
-                "logo": "https://crests.football-data.org/348.png"
-            },
-            "away": {
-                "name": "Derby County FC",
-                "logo": "https://crests.football-data.org/342.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 561763,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -172,7 +144,7 @@
             "id": 561765,
             "date": "2026-08-15T14:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -197,10 +169,38 @@
     },
     {
         "fixture": {
+            "id": 561767,
+            "date": "2026-08-15T14:00:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Charlton Athletic FC",
+                "logo": "https://crests.football-data.org/348.png"
+            },
+            "away": {
+                "name": "Derby County FC",
+                "logo": "https://crests.football-data.org/342.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 567266,
             "date": "2026-08-15T14:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -219,8 +219,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -228,7 +228,7 @@
             "id": 558224,
             "date": "2026-08-15T14:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -247,8 +247,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -421,34 +421,6 @@
     },
     {
         "fixture": {
-            "id": 554964,
-            "date": "2026-08-15T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
-            },
-            "away": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567274,
             "date": "2026-08-15T19:30:00+00:00",
             "status": {
@@ -496,6 +468,34 @@
             "away": {
                 "name": "Rayo Vallecano de Madrid",
                 "logo": "https://crests.football-data.org/87.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554964,
+            "date": "2026-08-15T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
+            },
+            "away": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             }
         },
         "goals": {
