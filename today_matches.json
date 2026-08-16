@@ -113,6 +113,34 @@
     },
     {
         "fixture": {
+            "id": 558229,
+            "date": "2026-08-16T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
+            },
+            "away": {
+                "name": "Go Ahead Eagles",
+                "logo": "https://crests.football-data.org/718.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
             "id": 558230,
             "date": "2026-08-16T12:30:00+00:00",
             "status": {
@@ -165,34 +193,6 @@
         "goals": {
             "home": 2,
             "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 558229,
-            "date": "2026-08-16T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            },
-            "away": {
-                "name": "Go Ahead Eagles",
-                "logo": "https://crests.football-data.org/718.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 2
         }
     },
     {
@@ -281,34 +281,6 @@
     },
     {
         "fixture": {
-            "id": 564629,
-            "date": "2026-08-16T15:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Racing Club de Santander",
-                "logo": "https://crests.football-data.org/5335.png"
-            },
-            "away": {
-                "name": "Villarreal CF",
-                "logo": "https://crests.football-data.org/94.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 561771,
             "date": "2026-08-16T15:00:00+00:00",
             "status": {
@@ -337,10 +309,38 @@
     },
     {
         "fixture": {
+            "id": 564629,
+            "date": "2026-08-16T15:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Racing Club de Santander",
+                "logo": "https://crests.football-data.org/5335.png"
+            },
+            "away": {
+                "name": "Villarreal CF",
+                "logo": "https://crests.football-data.org/94.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
             "id": 564632,
             "date": "2026-08-16T17:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -359,7 +359,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         }
     },
@@ -368,7 +368,7 @@
             "id": 567272,
             "date": "2026-08-16T17:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -387,7 +387,7 @@
             }
         },
         "goals": {
-            "home": 3,
+            "home": 4,
             "away": 0
         }
     },
@@ -443,8 +443,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
