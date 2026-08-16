@@ -113,34 +113,6 @@
     },
     {
         "fixture": {
-            "id": 558229,
-            "date": "2026-08-16T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            },
-            "away": {
-                "name": "Go Ahead Eagles",
-                "logo": "https://crests.football-data.org/718.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 558230,
             "date": "2026-08-16T12:30:00+00:00",
             "status": {
@@ -193,6 +165,34 @@
         "goals": {
             "home": 2,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 558229,
+            "date": "2026-08-16T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
+            },
+            "away": {
+                "name": "Go Ahead Eagles",
+                "logo": "https://crests.football-data.org/718.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -281,34 +281,6 @@
     },
     {
         "fixture": {
-            "id": 561771,
-            "date": "2026-08-16T15:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Burnley FC",
-                "logo": "https://crests.football-data.org/328.png"
-            },
-            "away": {
-                "name": "West Ham United FC",
-                "logo": "https://crests.football-data.org/563.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 564629,
             "date": "2026-08-16T15:00:00+00:00",
             "status": {
@@ -337,30 +309,30 @@
     },
     {
         "fixture": {
-            "id": 564632,
-            "date": "2026-08-16T17:00:00+00:00",
+            "id": 561771,
+            "date": "2026-08-16T15:00:00+00:00",
             "status": {
                 "short": "FT"
             }
         },
         "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
         },
         "teams": {
             "home": {
-                "name": "RCD Espanyol de Barcelona",
-                "logo": "https://crests.football-data.org/80.png"
+                "name": "Burnley FC",
+                "logo": "https://crests.football-data.org/328.png"
             },
             "away": {
-                "name": "Levante UD",
-                "logo": "https://crests.football-data.org/88.png"
+                "name": "West Ham United FC",
+                "logo": "https://crests.football-data.org/563.png"
             }
         },
         "goals": {
-            "home": 3,
-            "away": 0
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -388,6 +360,34 @@
         },
         "goals": {
             "home": 4,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 564632,
+            "date": "2026-08-16T17:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RCD Espanyol de Barcelona",
+                "logo": "https://crests.football-data.org/80.png"
+            },
+            "away": {
+                "name": "Levante UD",
+                "logo": "https://crests.football-data.org/88.png"
+            }
+        },
+        "goals": {
+            "home": 3,
             "away": 0
         }
     },
@@ -472,7 +472,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     }
 ]
