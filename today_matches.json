@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 554969,
-            "date": "2026-08-16T21:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            },
-            "away": {
-                "name": "Botafogo FR",
-                "logo": "https://crests.football-data.org/1770.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 554966,
             "date": "2026-08-16T21:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -57,6 +29,34 @@
     },
     {
         "fixture": {
+            "id": 554969,
+            "date": "2026-08-16T21:30:00+00:00",
+            "status": {
+                "short": "HT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
+            },
+            "away": {
+                "name": "Botafogo FR",
+                "logo": "https://crests.football-data.org/1770.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 554963,
             "date": "2026-08-16T22:30:00+00:00",
             "status": {
@@ -76,6 +76,34 @@
             "away": {
                 "name": "Cruzeiro EC",
                 "logo": "https://crests.football-data.org/1771.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 564635,
+            "date": "2026-08-17T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RC Deportivo La Coruña",
+                "logo": "https://crests.football-data.org/560.png"
+            },
+            "away": {
+                "name": "Elche CF",
+                "logo": "https://crests.football-data.org/285.png"
             }
         },
         "goals": {
@@ -104,34 +132,6 @@
             "away": {
                 "name": "Wrexham AFC",
                 "logo": "https://crests.football-data.org/404.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 564635,
-            "date": "2026-08-17T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RC Deportivo La Coruña",
-                "logo": "https://crests.football-data.org/560.png"
-            },
-            "away": {
-                "name": "Elche CF",
-                "logo": "https://crests.football-data.org/285.png"
             }
         },
         "goals": {
