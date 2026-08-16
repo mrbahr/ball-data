@@ -85,34 +85,6 @@
     },
     {
         "fixture": {
-            "id": 558230,
-            "date": "2026-08-16T12:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Twente '65",
-                "logo": "https://crests.football-data.org/666.png"
-            },
-            "away": {
-                "name": "PEC Zwolle",
-                "logo": "https://crests.football-data.org/684.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 558229,
             "date": "2026-08-16T12:30:00+00:00",
             "status": {
@@ -137,6 +109,34 @@
         "goals": {
             "home": 2,
             "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 558230,
+            "date": "2026-08-16T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Twente '65",
+                "logo": "https://crests.football-data.org/666.png"
+            },
+            "away": {
+                "name": "PEC Zwolle",
+                "logo": "https://crests.football-data.org/684.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -191,7 +191,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 2
         }
     },
@@ -247,7 +247,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -256,7 +256,7 @@
             "id": 561771,
             "date": "2026-08-16T15:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -275,8 +275,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -300,6 +300,34 @@
             "away": {
                 "name": "Villarreal CF",
                 "logo": "https://crests.football-data.org/94.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 564632,
+            "date": "2026-08-16T17:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RCD Espanyol de Barcelona",
+                "logo": "https://crests.football-data.org/80.png"
+            },
+            "away": {
+                "name": "Levante UD",
+                "logo": "https://crests.football-data.org/88.png"
             }
         },
         "goals": {
@@ -328,34 +356,6 @@
             "away": {
                 "name": "Moreirense FC",
                 "logo": "https://crests.football-data.org/583.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 564632,
-            "date": "2026-08-16T17:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RCD Espanyol de Barcelona",
-                "logo": "https://crests.football-data.org/80.png"
-            },
-            "away": {
-                "name": "Levante UD",
-                "logo": "https://crests.football-data.org/88.png"
             }
         },
         "goals": {
