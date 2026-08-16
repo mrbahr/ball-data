@@ -57,6 +57,34 @@
     },
     {
         "fixture": {
+            "id": 567271,
+            "date": "2026-08-16T00:00:00+00:00",
+            "status": {
+                "short": "PST"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sporting Clube de Braga",
+                "logo": "https://crests.football-data.org/5613.png"
+            },
+            "away": {
+                "name": "Gil Vicente FC",
+                "logo": "https://crests.football-data.org/5533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 558228,
             "date": "2026-08-16T10:15:00+00:00",
             "status": {
@@ -359,36 +387,8 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 554968,
-            "date": "2026-08-16T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
-            },
-            "away": {
-                "name": "Santos FC",
-                "logo": "https://crests.football-data.org/6685.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
         }
     },
     {
@@ -421,6 +421,34 @@
     },
     {
         "fixture": {
+            "id": 554968,
+            "date": "2026-08-16T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
+            },
+            "away": {
+                "name": "Santos FC",
+                "logo": "https://crests.football-data.org/6685.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 567269,
             "date": "2026-08-16T19:30:00+00:00",
             "status": {
@@ -440,34 +468,6 @@
             "away": {
                 "name": "CS Marítimo",
                 "logo": "https://crests.football-data.org/5575.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 567271,
-            "date": "2026-08-16T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sporting Clube de Braga",
-                "logo": "https://crests.football-data.org/5613.png"
-            },
-            "away": {
-                "name": "Gil Vicente FC",
-                "logo": "https://crests.football-data.org/5533.png"
             }
         },
         "goals": {
