@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 2
+            "home": 3,
+            "away": 3
         }
     },
     {
@@ -228,7 +228,7 @@
             "id": 558231,
             "date": "2026-08-16T14:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "HT"
             }
         },
         "league": {
@@ -247,8 +247,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -303,7 +303,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         }
     },
@@ -421,34 +421,6 @@
     },
     {
         "fixture": {
-            "id": 567269,
-            "date": "2026-08-16T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Famalicão",
-                "logo": "https://crests.football-data.org/5531.png"
-            },
-            "away": {
-                "name": "CS Marítimo",
-                "logo": "https://crests.football-data.org/5575.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567271,
             "date": "2026-08-16T19:30:00+00:00",
             "status": {
@@ -468,6 +440,34 @@
             "away": {
                 "name": "Gil Vicente FC",
                 "logo": "https://crests.football-data.org/5533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567269,
+            "date": "2026-08-16T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Famalicão",
+                "logo": "https://crests.football-data.org/5531.png"
+            },
+            "away": {
+                "name": "CS Marítimo",
+                "logo": "https://crests.football-data.org/5575.png"
             }
         },
         "goals": {
