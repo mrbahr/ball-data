@@ -337,38 +337,10 @@
     },
     {
         "fixture": {
-            "id": 567272,
-            "date": "2026-08-16T17:00:00+00:00",
-            "status": {
-                "short": "HT"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Arouca",
-                "logo": "https://crests.football-data.org/712.png"
-            },
-            "away": {
-                "name": "Moreirense FC",
-                "logo": "https://crests.football-data.org/583.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 564632,
             "date": "2026-08-16T17:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "NS"
             }
         },
         "league": {
@@ -388,6 +360,34 @@
         },
         "goals": {
             "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 567272,
+            "date": "2026-08-16T17:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Arouca",
+                "logo": "https://crests.football-data.org/712.png"
+            },
+            "away": {
+                "name": "Moreirense FC",
+                "logo": "https://crests.football-data.org/583.png"
+            }
+        },
+        "goals": {
+            "home": 3,
             "away": 0
         }
     },
