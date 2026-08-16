@@ -85,10 +85,38 @@
     },
     {
         "fixture": {
+            "id": 558229,
+            "date": "2026-08-16T12:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
+            },
+            "away": {
+                "name": "Go Ahead Eagles",
+                "logo": "https://crests.football-data.org/718.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
             "id": 558230,
             "date": "2026-08-16T12:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -107,7 +135,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 1
         }
     },
@@ -141,38 +169,10 @@
     },
     {
         "fixture": {
-            "id": 558229,
-            "date": "2026-08-16T12:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
-            },
-            "away": {
-                "name": "Go Ahead Eagles",
-                "logo": "https://crests.football-data.org/718.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 554962,
             "date": "2026-08-16T14:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -253,34 +253,6 @@
     },
     {
         "fixture": {
-            "id": 564629,
-            "date": "2026-08-16T15:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Racing Club de Santander",
-                "logo": "https://crests.football-data.org/5335.png"
-            },
-            "away": {
-                "name": "Villarreal CF",
-                "logo": "https://crests.football-data.org/94.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 561771,
             "date": "2026-08-16T15:00:00+00:00",
             "status": {
@@ -309,25 +281,25 @@
     },
     {
         "fixture": {
-            "id": 567272,
-            "date": "2026-08-16T17:00:00+00:00",
+            "id": 564629,
+            "date": "2026-08-16T15:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
         },
         "teams": {
             "home": {
-                "name": "FC Arouca",
-                "logo": "https://crests.football-data.org/712.png"
+                "name": "Real Racing Club de Santander",
+                "logo": "https://crests.football-data.org/5335.png"
             },
             "away": {
-                "name": "Moreirense FC",
-                "logo": "https://crests.football-data.org/583.png"
+                "name": "Villarreal CF",
+                "logo": "https://crests.football-data.org/94.png"
             }
         },
         "goals": {
@@ -365,25 +337,25 @@
     },
     {
         "fixture": {
-            "id": 554968,
-            "date": "2026-08-16T19:00:00+00:00",
+            "id": 567272,
+            "date": "2026-08-16T17:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
         },
         "teams": {
             "home": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
+                "name": "FC Arouca",
+                "logo": "https://crests.football-data.org/712.png"
             },
             "away": {
-                "name": "Santos FC",
-                "logo": "https://crests.football-data.org/6685.png"
+                "name": "Moreirense FC",
+                "logo": "https://crests.football-data.org/583.png"
             }
         },
         "goals": {
@@ -421,25 +393,25 @@
     },
     {
         "fixture": {
-            "id": 567269,
-            "date": "2026-08-16T19:30:00+00:00",
+            "id": 554968,
+            "date": "2026-08-16T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
         },
         "teams": {
             "home": {
-                "name": "FC Famalicão",
-                "logo": "https://crests.football-data.org/5531.png"
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
             },
             "away": {
-                "name": "CS Marítimo",
-                "logo": "https://crests.football-data.org/5575.png"
+                "name": "Santos FC",
+                "logo": "https://crests.football-data.org/6685.png"
             }
         },
         "goals": {
@@ -468,6 +440,34 @@
             "away": {
                 "name": "Gil Vicente FC",
                 "logo": "https://crests.football-data.org/5533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567269,
+            "date": "2026-08-16T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Famalicão",
+                "logo": "https://crests.football-data.org/5531.png"
+            },
+            "away": {
+                "name": "CS Marítimo",
+                "logo": "https://crests.football-data.org/5575.png"
             }
         },
         "goals": {
