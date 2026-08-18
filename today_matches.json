@@ -1,30 +1,114 @@
 [
     {
         "fixture": {
-            "id": 554965,
-            "date": "2026-08-17T23:00:00+00:00",
+            "id": 564463,
+            "date": "2026-08-18T22:00:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "NS"
             }
         },
         "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
         },
         "teams": {
             "home": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
+                "name": "CS Independiente Rivadavia",
+                "logo": "https://crests.football-data.org/2052.png"
             },
             "away": {
-                "name": "Clube do Remo",
-                "logo": "https://crests.football-data.org/4287.png"
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564465,
+            "date": "2026-08-19T00:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Universidad Católica",
+                "logo": "https://crests.football-data.org/6993.png"
+            },
+            "away": {
+                "name": "Estudiantes de La Plata",
+                "logo": "https://crests.football-data.org/2051.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564464,
+            "date": "2026-08-19T00:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "CAR Independiente del Valle",
+                "logo": "https://crests.football-data.org/6989.png"
+            },
+            "away": {
+                "name": "CD Tolima",
+                "logo": "https://crests.football-data.org/4437.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564628,
+            "date": "2026-08-19T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
+            },
+            "away": {
+                "name": "Málaga CF",
+                "logo": "https://crests.football-data.org/84.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
         }
     }
 ]
