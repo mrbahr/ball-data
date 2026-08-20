@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 564466,
-            "date": "2026-08-19T22:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Copa Libertadores",
-            "country": "South America",
-            "logo": "https://crests.football-data.org/CLI.svg"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Cerro Porteño",
-                "logo": "https://crests.football-data.org/9373.png"
-            },
-            "away": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 564467,
             "date": "2026-08-19T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,8 +23,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 6,
+            "away": 7
+        }
+    },
+    {
+        "fixture": {
+            "id": 564466,
+            "date": "2026-08-19T22:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Cerro Porteño",
+                "logo": "https://crests.football-data.org/9373.png"
+            },
+            "away": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 564468,
             "date": "2026-08-20T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
