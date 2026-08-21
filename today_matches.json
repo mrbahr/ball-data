@@ -57,34 +57,6 @@
     },
     {
         "fixture": {
-            "id": 560543,
-            "date": "2026-08-22T11:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Hull City AFC",
-                "logo": "https://crests.football-data.org/322.png"
-            },
-            "away": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 561773,
             "date": "2026-08-22T11:30:00+00:00",
             "status": {
@@ -141,8 +113,8 @@
     },
     {
         "fixture": {
-            "id": 560544,
-            "date": "2026-08-22T14:00:00+00:00",
+            "id": 560543,
+            "date": "2026-08-22T11:30:00+00:00",
             "status": {
                 "short": "NS"
             }
@@ -154,12 +126,12 @@
         },
         "teams": {
             "home": {
-                "name": "Ipswich Town FC",
-                "logo": "https://crests.football-data.org/349.png"
+                "name": "Hull City AFC",
+                "logo": "https://crests.football-data.org/322.png"
             },
             "away": {
-                "name": "Sunderland AFC",
-                "logo": "https://crests.football-data.org/71.png"
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
             }
         },
         "goals": {
@@ -309,25 +281,25 @@
     },
     {
         "fixture": {
-            "id": 561775,
+            "id": 560544,
             "date": "2026-08-22T14:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Championship",
+            "name": "Premier League",
             "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "West Ham United FC",
-                "logo": "https://crests.football-data.org/563.png"
+                "name": "Ipswich Town FC",
+                "logo": "https://crests.football-data.org/349.png"
             },
             "away": {
-                "name": "Charlton Athletic FC",
-                "logo": "https://crests.football-data.org/348.png"
+                "name": "Sunderland AFC",
+                "logo": "https://crests.football-data.org/71.png"
             }
         },
         "goals": {
@@ -440,6 +412,34 @@
             "away": {
                 "name": "Middlesbrough FC",
                 "logo": "https://crests.football-data.org/343.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 561775,
+            "date": "2026-08-22T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "West Ham United FC",
+                "logo": "https://crests.football-data.org/563.png"
+            },
+            "away": {
+                "name": "Charlton Athletic FC",
+                "logo": "https://crests.football-data.org/348.png"
             }
         },
         "goals": {
@@ -729,34 +729,6 @@
     },
     {
         "fixture": {
-            "id": 558636,
-            "date": "2026-08-22T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Parma Calcio 1913",
-                "logo": "https://crests.football-data.org/112.png"
-            },
-            "away": {
-                "name": "Cagliari Calcio",
-                "logo": "https://crests.football-data.org/104.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 559718,
             "date": "2026-08-22T18:45:00+00:00",
             "status": {
@@ -804,6 +776,34 @@
             "away": {
                 "name": "SSC Napoli",
                 "logo": "https://crests.football-data.org/113.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558636,
+            "date": "2026-08-22T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Parma Calcio 1913",
+                "logo": "https://crests.football-data.org/112.png"
+            },
+            "away": {
+                "name": "Cagliari Calcio",
+                "logo": "https://crests.football-data.org/104.png"
             }
         },
         "goals": {
