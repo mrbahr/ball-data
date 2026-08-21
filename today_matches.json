@@ -60,7 +60,7 @@
             "id": 559715,
             "date": "2026-08-21T18:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,7 +79,35 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 560542,
+            "date": "2026-08-21T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Arsenal FC",
+                "logo": "https://crests.football-data.org/57.png"
+            },
+            "away": {
+                "name": "Coventry City FC",
+                "logo": "https://crests.football-data.org/1076.png"
+            }
+        },
+        "goals": {
+            "home": 3,
             "away": 0
         }
     },
@@ -108,34 +136,6 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 560542,
-            "date": "2026-08-21T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Arsenal FC",
-                "logo": "https://crests.football-data.org/57.png"
-            },
-            "away": {
-                "name": "Coventry City FC",
-                "logo": "https://crests.football-data.org/1076.png"
-            }
-        },
-        "goals": {
-            "home": 2,
             "away": 0
         }
     }
