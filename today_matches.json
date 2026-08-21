@@ -79,7 +79,35 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 4,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 564647,
+            "date": "2026-08-21T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Betis Balompié",
+                "logo": "https://crests.football-data.org/90.png"
+            },
+            "away": {
+                "name": "Real Sociedad de Fútbol",
+                "logo": "https://crests.football-data.org/92.png"
+            }
+        },
+        "goals": {
+            "home": 1,
             "away": 0
         }
     },
@@ -108,34 +136,6 @@
         },
         "goals": {
             "home": 3,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 564647,
-            "date": "2026-08-21T19:00:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Betis Balompié",
-                "logo": "https://crests.football-data.org/90.png"
-            },
-            "away": {
-                "name": "Real Sociedad de Fútbol",
-                "logo": "https://crests.football-data.org/92.png"
-            }
-        },
-        "goals": {
-            "home": 0,
             "away": 0
         }
     }
