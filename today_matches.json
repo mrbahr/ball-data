@@ -163,7 +163,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     },
@@ -192,7 +192,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
+            "away": 3
         }
     },
     {
@@ -228,7 +228,7 @@
             "id": 567278,
             "date": "2026-08-23T14:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -247,8 +247,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -256,7 +256,7 @@
             "id": 558238,
             "date": "2026-08-23T14:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -275,8 +275,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -477,6 +477,34 @@
     },
     {
         "fixture": {
+            "id": 559713,
+            "date": "2026-08-23T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Paris Saint-Germain FC",
+                "logo": "https://crests.football-data.org/524.png"
+            },
+            "away": {
+                "name": "Stade Rennais FC 1901",
+                "logo": "https://crests.football-data.org/529.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 558634,
             "date": "2026-08-23T18:45:00+00:00",
             "status": {
@@ -533,34 +561,6 @@
     },
     {
         "fixture": {
-            "id": 559713,
-            "date": "2026-08-23T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Paris Saint-Germain FC",
-                "logo": "https://crests.football-data.org/524.png"
-            },
-            "away": {
-                "name": "Stade Rennais FC 1901",
-                "logo": "https://crests.football-data.org/529.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554971,
             "date": "2026-08-23T19:00:00+00:00",
             "status": {
@@ -580,34 +580,6 @@
             "away": {
                 "name": "Grêmio FBPA",
                 "logo": "https://crests.football-data.org/1767.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 554977,
-            "date": "2026-08-23T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            },
-            "away": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
             }
         },
         "goals": {
@@ -645,25 +617,25 @@
     },
     {
         "fixture": {
-            "id": 567280,
-            "date": "2026-08-23T19:30:00+00:00",
+            "id": 554977,
+            "date": "2026-08-23T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
         },
         "teams": {
             "home": {
-                "name": "FC Porto",
-                "logo": "https://crests.football-data.org/503.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             },
             "away": {
-                "name": "FC Arouca",
-                "logo": "https://crests.football-data.org/712.png"
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
             }
         },
         "goals": {
@@ -692,6 +664,34 @@
             "away": {
                 "name": "FC Barcelona",
                 "logo": "https://crests.football-data.org/81.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567280,
+            "date": "2026-08-23T19:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Porto",
+                "logo": "https://crests.football-data.org/503.png"
+            },
+            "away": {
+                "name": "FC Arouca",
+                "logo": "https://crests.football-data.org/712.png"
             }
         },
         "goals": {
