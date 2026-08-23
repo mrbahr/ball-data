@@ -141,6 +141,34 @@
     },
     {
         "fixture": {
+            "id": 560548,
+            "date": "2026-08-23T13:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Manchester City FC",
+                "logo": "https://crests.football-data.org/65.png"
+            },
+            "away": {
+                "name": "AFC Bournemouth",
+                "logo": "https://crests.football-data.org/bournemouth.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 559717,
             "date": "2026-08-23T13:00:00+00:00",
             "status": {
@@ -164,7 +192,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 3
+            "away": 2
         }
     },
     {
@@ -193,34 +221,6 @@
         "goals": {
             "home": 4,
             "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 560548,
-            "date": "2026-08-23T13:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Manchester City FC",
-                "logo": "https://crests.football-data.org/65.png"
-            },
-            "away": {
-                "name": "AFC Bournemouth",
-                "logo": "https://crests.football-data.org/bournemouth.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
         }
     },
     {
@@ -275,8 +275,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 4
+            "home": 2,
+            "away": 5
         }
     },
     {
@@ -303,7 +303,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 2
         }
     },
@@ -359,8 +359,36 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 558637,
+            "date": "2026-08-23T16:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Venezia FC",
+                "logo": "https://crests.football-data.org/454.png"
+            },
+            "away": {
+                "name": "US Lecce",
+                "logo": "https://crests.football-data.org/5890.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -388,35 +416,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 558637,
-            "date": "2026-08-23T16:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Venezia FC",
-                "logo": "https://crests.football-data.org/454.png"
-            },
-            "away": {
-                "name": "US Lecce",
-                "logo": "https://crests.football-data.org/5890.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -424,7 +424,7 @@
             "id": 567281,
             "date": "2026-08-23T17:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -443,8 +443,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -468,34 +468,6 @@
             "away": {
                 "name": "Real Racing Club de Santander",
                 "logo": "https://crests.football-data.org/5335.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 558633,
-            "date": "2026-08-23T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Atalanta BC",
-                "logo": "https://crests.football-data.org/102.png"
-            },
-            "away": {
-                "name": "US Sassuolo Calcio",
-                "logo": "https://crests.football-data.org/471.png"
             }
         },
         "goals": {
@@ -561,6 +533,62 @@
     },
     {
         "fixture": {
+            "id": 558633,
+            "date": "2026-08-23T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Atalanta BC",
+                "logo": "https://crests.football-data.org/102.png"
+            },
+            "away": {
+                "name": "US Sassuolo Calcio",
+                "logo": "https://crests.football-data.org/471.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554971,
+            "date": "2026-08-23T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            },
+            "away": {
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 554977,
             "date": "2026-08-23T19:00:00+00:00",
             "status": {
@@ -617,25 +645,25 @@
     },
     {
         "fixture": {
-            "id": 554971,
-            "date": "2026-08-23T19:00:00+00:00",
+            "id": 567280,
+            "date": "2026-08-23T19:30:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
         },
         "teams": {
             "home": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
+                "name": "FC Porto",
+                "logo": "https://crests.football-data.org/503.png"
             },
             "away": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
+                "name": "FC Arouca",
+                "logo": "https://crests.football-data.org/712.png"
             }
         },
         "goals": {
@@ -664,34 +692,6 @@
             "away": {
                 "name": "FC Barcelona",
                 "logo": "https://crests.football-data.org/81.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 567280,
-            "date": "2026-08-23T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Porto",
-                "logo": "https://crests.football-data.org/503.png"
-            },
-            "away": {
-                "name": "FC Arouca",
-                "logo": "https://crests.football-data.org/712.png"
             }
         },
         "goals": {
