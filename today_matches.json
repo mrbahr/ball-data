@@ -192,7 +192,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 3
+            "away": 2
         }
     },
     {
@@ -256,7 +256,7 @@
             "id": 558238,
             "date": "2026-08-23T14:45:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -276,7 +276,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
+            "away": 4
         }
     },
     {
@@ -312,7 +312,7 @@
             "id": 559719,
             "date": "2026-08-23T15:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -331,7 +331,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 0,
             "away": 1
         }
     },
@@ -365,34 +365,6 @@
     },
     {
         "fixture": {
-            "id": 558637,
-            "date": "2026-08-23T16:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Venezia FC",
-                "logo": "https://crests.football-data.org/454.png"
-            },
-            "away": {
-                "name": "US Lecce",
-                "logo": "https://crests.football-data.org/5890.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558635,
             "date": "2026-08-23T16:30:00+00:00",
             "status": {
@@ -412,6 +384,34 @@
             "away": {
                 "name": "Juventus FC",
                 "logo": "https://crests.football-data.org/109.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558637,
+            "date": "2026-08-23T16:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Venezia FC",
+                "logo": "https://crests.football-data.org/454.png"
+            },
+            "away": {
+                "name": "US Lecce",
+                "logo": "https://crests.football-data.org/5890.png"
             }
         },
         "goals": {
@@ -505,6 +505,34 @@
     },
     {
         "fixture": {
+            "id": 559713,
+            "date": "2026-08-23T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Paris Saint-Germain FC",
+                "logo": "https://crests.football-data.org/524.png"
+            },
+            "away": {
+                "name": "Stade Rennais FC 1901",
+                "logo": "https://crests.football-data.org/529.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 558634,
             "date": "2026-08-23T18:45:00+00:00",
             "status": {
@@ -533,25 +561,25 @@
     },
     {
         "fixture": {
-            "id": 559713,
-            "date": "2026-08-23T18:45:00+00:00",
+            "id": 554979,
+            "date": "2026-08-23T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
         },
         "teams": {
             "home": {
-                "name": "Paris Saint-Germain FC",
-                "logo": "https://crests.football-data.org/524.png"
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
             },
             "away": {
-                "name": "Stade Rennais FC 1901",
-                "logo": "https://crests.football-data.org/529.png"
+                "name": "EC Bahia",
+                "logo": "https://crests.football-data.org/1777.png"
             }
         },
         "goals": {
@@ -608,34 +636,6 @@
             "away": {
                 "name": "CR Vasco da Gama",
                 "logo": "https://crests.football-data.org/1780.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 554979,
-            "date": "2026-08-23T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            },
-            "away": {
-                "name": "EC Bahia",
-                "logo": "https://crests.football-data.org/1777.png"
             }
         },
         "goals": {
