@@ -169,34 +169,6 @@
     },
     {
         "fixture": {
-            "id": 559717,
-            "date": "2026-08-23T13:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Angers SCO",
-                "logo": "https://crests.football-data.org/532.png"
-            },
-            "away": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
             "id": 560549,
             "date": "2026-08-23T13:00:00+00:00",
             "status": {
@@ -221,6 +193,34 @@
         "goals": {
             "home": 4,
             "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 559717,
+            "date": "2026-08-23T13:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Angers SCO",
+                "logo": "https://crests.football-data.org/532.png"
+            },
+            "away": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 3
         }
     },
     {
@@ -256,7 +256,7 @@
             "id": 558238,
             "date": "2026-08-23T14:45:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -284,7 +284,7 @@
             "id": 564646,
             "date": "2026-08-23T15:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -312,7 +312,7 @@
             "id": 559719,
             "date": "2026-08-23T15:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -340,7 +340,7 @@
             "id": 560550,
             "date": "2026-08-23T15:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -360,7 +360,7 @@
         },
         "goals": {
             "home": 2,
-            "away": 1
+            "away": 2
         }
     },
     {
@@ -368,7 +368,7 @@
             "id": 558637,
             "date": "2026-08-23T16:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -387,7 +387,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 0,
             "away": 0
         }
     },
@@ -396,7 +396,7 @@
             "id": 558635,
             "date": "2026-08-23T16:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "HT"
             }
         },
         "league": {
@@ -443,7 +443,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -452,7 +452,7 @@
             "id": 564644,
             "date": "2026-08-23T17:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -471,8 +471,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
