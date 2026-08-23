@@ -141,6 +141,34 @@
     },
     {
         "fixture": {
+            "id": 559717,
+            "date": "2026-08-23T13:00:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Angers SCO",
+                "logo": "https://crests.football-data.org/532.png"
+            },
+            "away": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
             "id": 560549,
             "date": "2026-08-23T13:00:00+00:00",
             "status": {
@@ -165,34 +193,6 @@
         "goals": {
             "home": 4,
             "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 559717,
-            "date": "2026-08-23T13:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Angers SCO",
-                "logo": "https://crests.football-data.org/532.png"
-            },
-            "away": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 2
         }
     },
     {
@@ -228,7 +228,7 @@
             "id": 567278,
             "date": "2026-08-23T14:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -256,7 +256,7 @@
             "id": 558238,
             "date": "2026-08-23T14:45:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -303,8 +303,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 2
         }
     },
     {
@@ -312,7 +312,7 @@
             "id": 559719,
             "date": "2026-08-23T15:15:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -360,7 +360,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -368,7 +368,7 @@
             "id": 558635,
             "date": "2026-08-23T16:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -387,8 +387,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -396,7 +396,7 @@
             "id": 558637,
             "date": "2026-08-23T16:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -415,8 +415,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -505,6 +505,34 @@
     },
     {
         "fixture": {
+            "id": 558634,
+            "date": "2026-08-23T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Torino FC",
+                "logo": "https://crests.football-data.org/586.png"
+            },
+            "away": {
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 559713,
             "date": "2026-08-23T18:45:00+00:00",
             "status": {
@@ -533,25 +561,25 @@
     },
     {
         "fixture": {
-            "id": 558634,
-            "date": "2026-08-23T18:45:00+00:00",
+            "id": 554977,
+            "date": "2026-08-23T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
         },
         "teams": {
             "home": {
-                "name": "Torino FC",
-                "logo": "https://crests.football-data.org/586.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             },
             "away": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
+                "name": "CR Vasco da Gama",
+                "logo": "https://crests.football-data.org/1780.png"
             }
         },
         "goals": {
@@ -617,25 +645,25 @@
     },
     {
         "fixture": {
-            "id": 554977,
-            "date": "2026-08-23T19:00:00+00:00",
+            "id": 564642,
+            "date": "2026-08-23T19:30:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
         },
         "teams": {
             "home": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
+                "name": "Elche CF",
+                "logo": "https://crests.football-data.org/285.png"
             },
             "away": {
-                "name": "CR Vasco da Gama",
-                "logo": "https://crests.football-data.org/1780.png"
+                "name": "FC Barcelona",
+                "logo": "https://crests.football-data.org/81.png"
             }
         },
         "goals": {
@@ -664,34 +692,6 @@
             "away": {
                 "name": "FC Arouca",
                 "logo": "https://crests.football-data.org/712.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 564642,
-            "date": "2026-08-23T19:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Elche CF",
-                "logo": "https://crests.football-data.org/285.png"
-            },
-            "away": {
-                "name": "FC Barcelona",
-                "logo": "https://crests.football-data.org/81.png"
             }
         },
         "goals": {
