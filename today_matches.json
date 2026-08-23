@@ -60,7 +60,7 @@
             "id": 558236,
             "date": "2026-08-23T10:15:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 3,
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 561776,
             "date": "2026-08-23T11:00:00+00:00",
             "status": {
-                "short": "HT"
+                "short": "FT"
             }
         },
         "league": {
@@ -107,7 +107,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 3,
             "away": 1
         }
     },
@@ -116,7 +116,7 @@
             "id": 558237,
             "date": "2026-08-23T12:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -477,34 +477,6 @@
     },
     {
         "fixture": {
-            "id": 558634,
-            "date": "2026-08-23T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Torino FC",
-                "logo": "https://crests.football-data.org/586.png"
-            },
-            "away": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 559713,
             "date": "2026-08-23T18:45:00+00:00",
             "status": {
@@ -524,6 +496,34 @@
             "away": {
                 "name": "Stade Rennais FC 1901",
                 "logo": "https://crests.football-data.org/529.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558634,
+            "date": "2026-08-23T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Torino FC",
+                "logo": "https://crests.football-data.org/586.png"
+            },
+            "away": {
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
             }
         },
         "goals": {
