@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 554986,
-            "date": "2026-08-30T21:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            },
-            "away": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 554985,
             "date": "2026-08-30T21:30:00+00:00",
             "status": {
@@ -57,10 +29,38 @@
     },
     {
         "fixture": {
+            "id": 554986,
+            "date": "2026-08-30T21:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
+            },
+            "away": {
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 554982,
             "date": "2026-08-30T22:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 2
         }
     },
     {
