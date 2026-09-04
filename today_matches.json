@@ -113,34 +113,6 @@
     },
     {
         "fixture": {
-            "id": 560566,
-            "date": "2026-09-04T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Ipswich Town FC",
-                "logo": "https://crests.football-data.org/349.png"
-            },
-            "away": {
-                "name": "Liverpool FC",
-                "logo": "https://crests.football-data.org/64.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 564667,
             "date": "2026-09-04T19:00:00+00:00",
             "status": {
@@ -160,6 +132,34 @@
             "away": {
                 "name": "Real Madrid CF",
                 "logo": "https://crests.football-data.org/86.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560566,
+            "date": "2026-09-04T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Ipswich Town FC",
+                "logo": "https://crests.football-data.org/349.png"
+            },
+            "away": {
+                "name": "Liverpool FC",
+                "logo": "https://crests.football-data.org/64.png"
             }
         },
         "goals": {
