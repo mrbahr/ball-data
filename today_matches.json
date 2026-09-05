@@ -4,7 +4,7 @@
             "id": 554998,
             "date": "2026-09-05T21:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,7 +23,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         }
     },
@@ -617,34 +617,6 @@
     },
     {
         "fixture": {
-            "id": 558618,
-            "date": "2026-09-06T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Juventus FC",
-                "logo": "https://crests.football-data.org/109.png"
-            },
-            "away": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 559694,
             "date": "2026-09-06T18:45:00+00:00",
             "status": {
@@ -673,25 +645,25 @@
     },
     {
         "fixture": {
-            "id": 564661,
-            "date": "2026-09-06T19:00:00+00:00",
+            "id": 558618,
+            "date": "2026-09-06T18:45:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
         },
         "teams": {
             "home": {
-                "name": "RCD Espanyol de Barcelona",
-                "logo": "https://crests.football-data.org/80.png"
+                "name": "Juventus FC",
+                "logo": "https://crests.football-data.org/109.png"
             },
             "away": {
-                "name": "Sevilla FC",
-                "logo": "https://crests.football-data.org/559.png"
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
             }
         },
         "goals": {
@@ -720,6 +692,34 @@
             "away": {
                 "name": "CR Flamengo",
                 "logo": "https://crests.football-data.org/1783.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564661,
+            "date": "2026-09-06T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RCD Espanyol de Barcelona",
+                "logo": "https://crests.football-data.org/80.png"
+            },
+            "away": {
+                "name": "Sevilla FC",
+                "logo": "https://crests.football-data.org/559.png"
             }
         },
         "goals": {
