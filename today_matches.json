@@ -60,7 +60,7 @@
             "id": 558255,
             "date": "2026-09-06T10:15:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 561819,
             "date": "2026-09-06T11:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -225,34 +225,6 @@
     },
     {
         "fixture": {
-            "id": 559700,
-            "date": "2026-09-06T13:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "ES Troyes AC",
-                "logo": "https://crests.football-data.org/531.png"
-            },
-            "away": {
-                "name": "RC Strasbourg Alsace",
-                "logo": "https://crests.football-data.org/576.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558615,
             "date": "2026-09-06T13:00:00+00:00",
             "status": {
@@ -272,6 +244,34 @@
             "away": {
                 "name": "Venezia FC",
                 "logo": "https://crests.football-data.org/454.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 559700,
+            "date": "2026-09-06T13:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "ES Troyes AC",
+                "logo": "https://crests.football-data.org/531.png"
+            },
+            "away": {
+                "name": "RC Strasbourg Alsace",
+                "logo": "https://crests.football-data.org/576.png"
             }
         },
         "goals": {
