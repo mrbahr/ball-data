@@ -32,7 +32,7 @@
             "id": 554995,
             "date": "2026-09-06T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -197,6 +197,34 @@
     },
     {
         "fixture": {
+            "id": 559700,
+            "date": "2026-09-06T13:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "ES Troyes AC",
+                "logo": "https://crests.football-data.org/531.png"
+            },
+            "away": {
+                "name": "RC Strasbourg Alsace",
+                "logo": "https://crests.football-data.org/576.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 558612,
             "date": "2026-09-06T13:00:00+00:00",
             "status": {
@@ -244,34 +272,6 @@
             "away": {
                 "name": "Manchester United FC",
                 "logo": "https://crests.football-data.org/66.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 559700,
-            "date": "2026-09-06T13:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "ES Troyes AC",
-                "logo": "https://crests.football-data.org/531.png"
-            },
-            "away": {
-                "name": "RC Strasbourg Alsace",
-                "logo": "https://crests.football-data.org/576.png"
             }
         },
         "goals": {
@@ -673,34 +673,6 @@
     },
     {
         "fixture": {
-            "id": 554997,
-            "date": "2026-09-06T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Clube do Remo",
-                "logo": "https://crests.football-data.org/4287.png"
-            },
-            "away": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 564661,
             "date": "2026-09-06T19:00:00+00:00",
             "status": {
@@ -729,7 +701,7 @@
     },
     {
         "fixture": {
-            "id": 554994,
+            "id": 554997,
             "date": "2026-09-06T19:00:00+00:00",
             "status": {
                 "short": "NS"
@@ -742,12 +714,12 @@
         },
         "teams": {
             "home": {
-                "name": "Cruzeiro EC",
-                "logo": "https://crests.football-data.org/1771.png"
+                "name": "Clube do Remo",
+                "logo": "https://crests.football-data.org/4287.png"
             },
             "away": {
-                "name": "CA Paranaense",
-                "logo": "https://crests.football-data.org/1768.png"
+                "name": "CR Flamengo",
+                "logo": "https://crests.football-data.org/1783.png"
             }
         },
         "goals": {
@@ -776,6 +748,34 @@
             "away": {
                 "name": "Santos FC",
                 "logo": "https://crests.football-data.org/6685.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 554994,
+            "date": "2026-09-06T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Cruzeiro EC",
+                "logo": "https://crests.football-data.org/1771.png"
+            },
+            "away": {
+                "name": "CA Paranaense",
+                "logo": "https://crests.football-data.org/1768.png"
             }
         },
         "goals": {
