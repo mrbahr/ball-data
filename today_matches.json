@@ -141,6 +141,34 @@
     },
     {
         "fixture": {
+            "id": 575333,
+            "date": "2026-09-09T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SSC Napoli",
+                "logo": "https://crests.football-data.org/113.png"
+            },
+            "away": {
+                "name": "Arsenal FC",
+                "logo": "https://crests.football-data.org/57.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 561831,
             "date": "2026-09-09T19:00:00+00:00",
             "status": {
@@ -188,34 +216,6 @@
             "away": {
                 "name": "Club Atlético de Madrid",
                 "logo": "https://crests.football-data.org/78.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575333,
-            "date": "2026-09-09T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SSC Napoli",
-                "logo": "https://crests.football-data.org/113.png"
-            },
-            "away": {
-                "name": "Arsenal FC",
-                "logo": "https://crests.football-data.org/57.png"
             }
         },
         "goals": {
