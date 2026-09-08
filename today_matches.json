@@ -88,7 +88,7 @@
             "id": 575324,
             "date": "2026-09-08T16:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 575323,
             "date": "2026-09-08T16:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 3
         }
     },
     {
@@ -144,7 +144,7 @@
             "id": 558233,
             "date": "2026-09-08T16:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,36 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 561821,
-            "date": "2026-09-08T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Blackburn Rovers FC",
-                "logo": "https://crests.football-data.org/59.png"
-            },
-            "away": {
-                "name": "Sheffield United FC",
-                "logo": "https://crests.football-data.org/356.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         }
     },
     {
@@ -225,7 +197,7 @@
     },
     {
         "fixture": {
-            "id": 561830,
+            "id": 561821,
             "date": "2026-09-08T18:45:00+00:00",
             "status": {
                 "short": "NS"
@@ -238,12 +210,12 @@
         },
         "teams": {
             "home": {
-                "name": "Wrexham AFC",
-                "logo": "https://crests.football-data.org/404.png"
+                "name": "Blackburn Rovers FC",
+                "logo": "https://crests.football-data.org/59.png"
             },
             "away": {
-                "name": "Burnley FC",
-                "logo": "https://crests.football-data.org/328.png"
+                "name": "Sheffield United FC",
+                "logo": "https://crests.football-data.org/356.png"
             }
         },
         "goals": {
@@ -309,6 +281,62 @@
     },
     {
         "fixture": {
+            "id": 561830,
+            "date": "2026-09-08T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Wrexham AFC",
+                "logo": "https://crests.football-data.org/404.png"
+            },
+            "away": {
+                "name": "Burnley FC",
+                "logo": "https://crests.football-data.org/328.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 575328,
+            "date": "2026-09-08T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
+            },
+            "away": {
+                "name": "Real Betis Balompié",
+                "logo": "https://crests.football-data.org/90.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 561827,
             "date": "2026-09-08T19:00:00+00:00",
             "status": {
@@ -356,34 +384,6 @@
             "away": {
                 "name": "Manchester City FC",
                 "logo": "https://crests.football-data.org/65.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575328,
-            "date": "2026-09-08T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            },
-            "away": {
-                "name": "Real Betis Balompié",
-                "logo": "https://crests.football-data.org/90.png"
             }
         },
         "goals": {
