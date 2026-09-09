@@ -1,30 +1,30 @@
 [
     {
         "fixture": {
-            "id": 575329,
-            "date": "2026-09-09T16:45:00+00:00",
+            "id": 557183,
+            "date": "2026-09-08T22:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
+            "name": "Copa Libertadores",
+            "country": "South America",
+            "logo": "https://crests.football-data.org/CLI.svg"
         },
         "teams": {
             "home": {
-                "name": "FC Barcelona",
-                "logo": "https://crests.football-data.org/81.png"
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
             },
             "away": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
+                "name": "CA Platense",
+                "logo": "https://crests.football-data.org/7580.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         }
     },
     {
@@ -85,25 +85,25 @@
     },
     {
         "fixture": {
-            "id": 561829,
-            "date": "2026-09-09T18:45:00+00:00",
+            "id": 575329,
+            "date": "2026-09-09T16:45:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
         },
         "teams": {
             "home": {
-                "name": "Derby County FC",
-                "logo": "https://crests.football-data.org/342.png"
+                "name": "FC Barcelona",
+                "logo": "https://crests.football-data.org/81.png"
             },
             "away": {
-                "name": "West Bromwich Albion FC",
-                "logo": "https://crests.football-data.org/74.png"
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
             }
         },
         "goals": {
@@ -141,7 +141,35 @@
     },
     {
         "fixture": {
-            "id": 575333,
+            "id": 561829,
+            "date": "2026-09-09T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Derby County FC",
+                "logo": "https://crests.football-data.org/342.png"
+            },
+            "away": {
+                "name": "West Bromwich Albion FC",
+                "logo": "https://crests.football-data.org/74.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 575332,
             "date": "2026-09-09T19:00:00+00:00",
             "status": {
                 "short": "NS"
@@ -154,12 +182,40 @@
         },
         "teams": {
             "home": {
-                "name": "SSC Napoli",
-                "logo": "https://crests.football-data.org/113.png"
+                "name": "Paris Saint-Germain FC",
+                "logo": "https://crests.football-data.org/524.png"
             },
             "away": {
-                "name": "Arsenal FC",
-                "logo": "https://crests.football-data.org/57.png"
+                "name": "ŠK Slovan Bratislava",
+                "logo": "https://crests.football-data.org/7509.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 575334,
+            "date": "2026-09-09T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sporting Clube de Portugal",
+                "logo": "https://crests.football-data.org/498.png"
+            },
+            "away": {
+                "name": "Galatasaray SK",
+                "logo": "https://crests.football-data.org/610.png"
             }
         },
         "goals": {
@@ -225,7 +281,7 @@
     },
     {
         "fixture": {
-            "id": 575334,
+            "id": 575333,
             "date": "2026-09-09T19:00:00+00:00",
             "status": {
                 "short": "NS"
@@ -238,40 +294,12 @@
         },
         "teams": {
             "home": {
-                "name": "Sporting Clube de Portugal",
-                "logo": "https://crests.football-data.org/498.png"
+                "name": "SSC Napoli",
+                "logo": "https://crests.football-data.org/113.png"
             },
             "away": {
-                "name": "Galatasaray SK",
-                "logo": "https://crests.football-data.org/610.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575332,
-            "date": "2026-09-09T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Paris Saint-Germain FC",
-                "logo": "https://crests.football-data.org/524.png"
-            },
-            "away": {
-                "name": "ŠK Slovan Bratislava",
-                "logo": "https://crests.football-data.org/7509.png"
+                "name": "Arsenal FC",
+                "logo": "https://crests.football-data.org/57.png"
             }
         },
         "goals": {
