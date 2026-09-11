@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 564669,
-            "date": "2026-09-11T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sevilla FC",
-                "logo": "https://crests.football-data.org/559.png"
-            },
-            "away": {
-                "name": "Valencia CF",
-                "logo": "https://crests.football-data.org/95.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 561842,
             "date": "2026-09-11T19:00:00+00:00",
             "status": {
@@ -188,6 +160,34 @@
             "away": {
                 "name": "Wrexham AFC",
                 "logo": "https://crests.football-data.org/404.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564669,
+            "date": "2026-09-11T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sevilla FC",
+                "logo": "https://crests.football-data.org/559.png"
+            },
+            "away": {
+                "name": "Valencia CF",
+                "logo": "https://crests.football-data.org/95.png"
             }
         },
         "goals": {
