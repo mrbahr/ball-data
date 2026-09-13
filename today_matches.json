@@ -32,7 +32,7 @@
             "id": 555002,
             "date": "2026-09-12T23:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -51,7 +51,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         }
     },
@@ -60,7 +60,7 @@
             "id": 555009,
             "date": "2026-09-13T00:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -80,7 +80,7 @@
         },
         "goals": {
             "home": 2,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -197,34 +197,6 @@
     },
     {
         "fixture": {
-            "id": 558605,
-            "date": "2026-09-13T13:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "US Lecce",
-                "logo": "https://crests.football-data.org/5890.png"
-            },
-            "away": {
-                "name": "AC Monza",
-                "logo": "https://crests.football-data.org/5911.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 559685,
             "date": "2026-09-13T13:00:00+00:00",
             "status": {
@@ -272,6 +244,34 @@
             "away": {
                 "name": "Brighton & Hove Albion FC",
                 "logo": "https://crests.football-data.org/397.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558605,
+            "date": "2026-09-13T13:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "US Lecce",
+                "logo": "https://crests.football-data.org/5890.png"
+            },
+            "away": {
+                "name": "AC Monza",
+                "logo": "https://crests.football-data.org/5911.png"
             }
         },
         "goals": {
@@ -393,34 +393,6 @@
     },
     {
         "fixture": {
-            "id": 560580,
-            "date": "2026-09-13T15:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
-            },
-            "away": {
-                "name": "Manchester City FC",
-                "logo": "https://crests.football-data.org/65.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 565800,
             "date": "2026-09-13T15:30:00+00:00",
             "status": {
@@ -440,6 +412,34 @@
             "away": {
                 "name": "FC Bayern München",
                 "logo": "https://crests.football-data.org/5.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560580,
+            "date": "2026-09-13T15:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
+            },
+            "away": {
+                "name": "Manchester City FC",
+                "logo": "https://crests.football-data.org/65.png"
             }
         },
         "goals": {
@@ -505,34 +505,6 @@
     },
     {
         "fixture": {
-            "id": 567310,
-            "date": "2026-09-13T17:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Arouca",
-                "logo": "https://crests.football-data.org/712.png"
-            },
-            "away": {
-                "name": "CD Santa Clara",
-                "logo": "https://crests.football-data.org/5530.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567304,
             "date": "2026-09-13T17:00:00+00:00",
             "status": {
@@ -552,6 +524,34 @@
             "away": {
                 "name": "Gil Vicente FC",
                 "logo": "https://crests.football-data.org/5533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567310,
+            "date": "2026-09-13T17:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FC Arouca",
+                "logo": "https://crests.football-data.org/712.png"
+            },
+            "away": {
+                "name": "CD Santa Clara",
+                "logo": "https://crests.football-data.org/5530.png"
             }
         },
         "goals": {
@@ -645,34 +645,6 @@
     },
     {
         "fixture": {
-            "id": 564674,
-            "date": "2026-09-13T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Real Sociedad de Fútbol",
-                "logo": "https://crests.football-data.org/92.png"
-            },
-            "away": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 555007,
             "date": "2026-09-13T19:00:00+00:00",
             "status": {
@@ -692,6 +664,34 @@
             "away": {
                 "name": "EC Vitória",
                 "logo": "https://crests.football-data.org/1782.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564674,
+            "date": "2026-09-13T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Real Sociedad de Fútbol",
+                "logo": "https://crests.football-data.org/92.png"
+            },
+            "away": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
             }
         },
         "goals": {
