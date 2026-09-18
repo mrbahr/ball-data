@@ -32,7 +32,7 @@
             "id": 558888,
             "date": "2026-09-18T18:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 565804,
             "date": "2026-09-18T18:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 559682,
             "date": "2026-09-18T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 558596,
             "date": "2026-09-18T18:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -144,7 +144,7 @@
             "id": 561845,
             "date": "2026-09-18T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,36 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 560591,
-            "date": "2026-09-18T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Brentford FC",
-                "logo": "https://crests.football-data.org/402.png"
-            },
-            "away": {
-                "name": "Chelsea FC",
-                "logo": "https://crests.football-data.org/61.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -200,7 +172,7 @@
             "id": 564692,
             "date": "2026-09-18T19:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -219,8 +191,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 560591,
+            "date": "2026-09-18T19:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Brentford FC",
+                "logo": "https://crests.football-data.org/402.png"
+            },
+            "away": {
+                "name": "Chelsea FC",
+                "logo": "https://crests.football-data.org/61.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     }
 ]
