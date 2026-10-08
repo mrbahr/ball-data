@@ -1,66 +1,10 @@
 [
     {
         "fixture": {
-            "id": 555025,
-            "date": "2026-10-07T22:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
-            },
-            "away": {
-                "name": "SC Corinthians Paulista",
-                "logo": "https://crests.football-data.org/1779.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 555022,
-            "date": "2026-10-07T22:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            },
-            "away": {
-                "name": "Mirassol FC",
-                "logo": "https://crests.football-data.org/4364.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 555027,
             "date": "2026-10-07T22:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,8 +23,64 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 555025,
+            "date": "2026-10-07T22:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
+            },
+            "away": {
+                "name": "SC Corinthians Paulista",
+                "logo": "https://crests.football-data.org/1779.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 555022,
+            "date": "2026-10-07T22:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            },
+            "away": {
+                "name": "Mirassol FC",
+                "logo": "https://crests.football-data.org/4364.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 555029,
             "date": "2026-10-07T23:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 4,
+            "away": 0
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 555021,
             "date": "2026-10-07T23:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         }
     },
     {
@@ -144,7 +144,7 @@
             "id": 555023,
             "date": "2026-10-08T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,8 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     }
 ]
