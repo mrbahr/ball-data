@@ -4,7 +4,7 @@
             "id": 555031,
             "date": "2026-10-11T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,7 +23,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         }
     },
@@ -85,34 +85,6 @@
     },
     {
         "fixture": {
-            "id": 555034,
-            "date": "2026-10-12T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
-            },
-            "away": {
-                "name": "Botafogo FR",
-                "logo": "https://crests.football-data.org/1770.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 560597,
             "date": "2026-10-12T19:00:00+00:00",
             "status": {
@@ -132,6 +104,34 @@
             "away": {
                 "name": "Newcastle United FC",
                 "logo": "https://crests.football-data.org/67.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 555034,
+            "date": "2026-10-12T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Coritiba FBC",
+                "logo": "https://crests.football-data.org/4241.png"
+            },
+            "away": {
+                "name": "Botafogo FR",
+                "logo": "https://crests.football-data.org/1770.png"
             }
         },
         "goals": {
