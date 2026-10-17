@@ -32,7 +32,7 @@
             "id": 561884,
             "date": "2026-10-17T11:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         }
     },
     {
@@ -60,7 +60,7 @@
             "id": 561889,
             "date": "2026-10-17T11:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +79,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
@@ -88,7 +88,7 @@
             "id": 560603,
             "date": "2026-10-17T11:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -107,8 +107,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -116,7 +116,7 @@
             "id": 561887,
             "date": "2026-10-17T11:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +135,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 2
         }
     },
     {
@@ -144,7 +144,7 @@
             "id": 564710,
             "date": "2026-10-17T12:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -163,8 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -188,34 +188,6 @@
             "away": {
                 "name": "SSC Napoli",
                 "logo": "https://crests.football-data.org/113.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 565829,
-            "date": "2026-10-17T13:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Bundesliga",
-            "country": "Germany",
-            "logo": "https://crests.football-data.org/BL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FC Schalke 04",
-                "logo": "https://crests.football-data.org/6.png"
-            },
-            "away": {
-                "name": "1. FSV Mainz 05",
-                "logo": "https://crests.football-data.org/15.png"
             }
         },
         "goals": {
@@ -281,7 +253,7 @@
     },
     {
         "fixture": {
-            "id": 565822,
+            "id": 565829,
             "date": "2026-10-17T13:30:00+00:00",
             "status": {
                 "short": "NS"
@@ -294,12 +266,12 @@
         },
         "teams": {
             "home": {
-                "name": "Hamburger SV",
-                "logo": "https://crests.football-data.org/7.png"
+                "name": "FC Schalke 04",
+                "logo": "https://crests.football-data.org/6.png"
             },
             "away": {
-                "name": "VfB Stuttgart",
-                "logo": "https://crests.football-data.org/10.png"
+                "name": "1. FSV Mainz 05",
+                "logo": "https://crests.football-data.org/15.png"
             }
         },
         "goals": {
@@ -328,6 +300,34 @@
             "away": {
                 "name": "FC Augsburg",
                 "logo": "https://crests.football-data.org/16.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 565822,
+            "date": "2026-10-17T13:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Bundesliga",
+            "country": "Germany",
+            "logo": "https://crests.football-data.org/BL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Hamburger SV",
+                "logo": "https://crests.football-data.org/7.png"
+            },
+            "away": {
+                "name": "VfB Stuttgart",
+                "logo": "https://crests.football-data.org/10.png"
             }
         },
         "goals": {
@@ -869,34 +869,6 @@
     },
     {
         "fixture": {
-            "id": 559660,
-            "date": "2026-10-17T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Lille OSC",
-                "logo": "https://crests.football-data.org/521.png"
-            },
-            "away": {
-                "name": "Stade Brestois 29",
-                "logo": "https://crests.football-data.org/512.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558572,
             "date": "2026-10-17T18:45:00+00:00",
             "status": {
@@ -916,6 +888,34 @@
             "away": {
                 "name": "Genoa CFC",
                 "logo": "https://crests.football-data.org/107.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 559660,
+            "date": "2026-10-17T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Lille OSC",
+                "logo": "https://crests.football-data.org/521.png"
+            },
+            "away": {
+                "name": "Stade Brestois 29",
+                "logo": "https://crests.football-data.org/512.png"
             }
         },
         "goals": {
