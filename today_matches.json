@@ -32,7 +32,7 @@
             "id": 555048,
             "date": "2026-10-18T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -113,34 +113,6 @@
     },
     {
         "fixture": {
-            "id": 560606,
-            "date": "2026-10-19T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Tottenham Hotspur FC",
-                "logo": "https://crests.football-data.org/73.png"
-            },
-            "away": {
-                "name": "Coventry City FC",
-                "logo": "https://crests.football-data.org/1076.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 564717,
             "date": "2026-10-19T19:00:00+00:00",
             "status": {
@@ -160,6 +132,34 @@
             "away": {
                 "name": "Rayo Vallecano de Madrid",
                 "logo": "https://crests.football-data.org/87.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560606,
+            "date": "2026-10-19T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Tottenham Hotspur FC",
+                "logo": "https://crests.football-data.org/73.png"
+            },
+            "away": {
+                "name": "Coventry City FC",
+                "logo": "https://crests.football-data.org/1076.png"
             }
         },
         "goals": {
