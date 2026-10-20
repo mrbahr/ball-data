@@ -4,7 +4,7 @@
             "id": 555044,
             "date": "2026-10-19T23:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,36 +23,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 575360,
-            "date": "2026-10-20T16:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Fenerbahçe SK",
-                "logo": "https://crests.football-data.org/613.png"
-            },
-            "away": {
-                "name": "SK Slavia Praha",
-                "logo": "https://crests.football-data.org/930.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -85,6 +57,34 @@
     },
     {
         "fixture": {
+            "id": 575360,
+            "date": "2026-10-20T16:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Fenerbahçe SK",
+                "logo": "https://crests.football-data.org/613.png"
+            },
+            "away": {
+                "name": "SK Slavia Praha",
+                "logo": "https://crests.football-data.org/930.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 561826,
             "date": "2026-10-20T18:45:00+00:00",
             "status": {
@@ -104,90 +104,6 @@
             "away": {
                 "name": "Portsmouth FC",
                 "logo": "https://crests.football-data.org/325.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575362,
-            "date": "2026-10-20T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "VfB Stuttgart",
-                "logo": "https://crests.football-data.org/10.png"
-            },
-            "away": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575364,
-            "date": "2026-10-20T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "AS Roma",
-                "logo": "https://crests.football-data.org/100.png"
-            },
-            "away": {
-                "name": "ŠK Slovan Bratislava",
-                "logo": "https://crests.football-data.org/7509.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575366,
-            "date": "2026-10-20T19:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "SSC Napoli",
-                "logo": "https://crests.football-data.org/113.png"
-            },
-            "away": {
-                "name": "FK Bodø/Glimt",
-                "logo": "https://crests.football-data.org/5721.png"
             }
         },
         "goals": {
@@ -300,6 +216,90 @@
             "away": {
                 "name": "PAE AEK",
                 "logo": "https://crests.football-data.org/1899.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 575362,
+            "date": "2026-10-20T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "VfB Stuttgart",
+                "logo": "https://crests.football-data.org/10.png"
+            },
+            "away": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 575364,
+            "date": "2026-10-20T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AS Roma",
+                "logo": "https://crests.football-data.org/100.png"
+            },
+            "away": {
+                "name": "ŠK Slovan Bratislava",
+                "logo": "https://crests.football-data.org/7509.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 575366,
+            "date": "2026-10-20T19:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "SSC Napoli",
+                "logo": "https://crests.football-data.org/113.png"
+            },
+            "away": {
+                "name": "FK Bodø/Glimt",
+                "logo": "https://crests.football-data.org/5721.png"
             }
         },
         "goals": {
