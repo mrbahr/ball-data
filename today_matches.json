@@ -85,34 +85,6 @@
     },
     {
         "fixture": {
-            "id": 558567,
-            "date": "2026-10-23T18:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Torino FC",
-                "logo": "https://crests.football-data.org/586.png"
-            },
-            "away": {
-                "name": "AC Monza",
-                "logo": "https://crests.football-data.org/5911.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 559654,
             "date": "2026-10-23T18:45:00+00:00",
             "status": {
@@ -141,25 +113,53 @@
     },
     {
         "fixture": {
-            "id": 561894,
+            "id": 558567,
+            "date": "2026-10-23T18:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Torino FC",
+                "logo": "https://crests.football-data.org/586.png"
+            },
+            "away": {
+                "name": "AC Monza",
+                "logo": "https://crests.football-data.org/5911.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560620,
             "date": "2026-10-23T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Championship",
+            "name": "Premier League",
             "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "Bolton Wanderers FC",
-                "logo": "https://crests.football-data.org/60.png"
+                "name": "Ipswich Town FC",
+                "logo": "https://crests.football-data.org/349.png"
             },
             "away": {
-                "name": "Middlesbrough FC",
-                "logo": "https://crests.football-data.org/343.png"
+                "name": "Nottingham Forest FC",
+                "logo": "https://crests.football-data.org/351.png"
             }
         },
         "goals": {
@@ -197,25 +197,25 @@
     },
     {
         "fixture": {
-            "id": 560620,
+            "id": 561894,
             "date": "2026-10-23T19:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Premier League",
+            "name": "Championship",
             "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "logo": "https://crests.football-data.org/ELC.png"
         },
         "teams": {
             "home": {
-                "name": "Ipswich Town FC",
-                "logo": "https://crests.football-data.org/349.png"
+                "name": "Bolton Wanderers FC",
+                "logo": "https://crests.football-data.org/60.png"
             },
             "away": {
-                "name": "Nottingham Forest FC",
-                "logo": "https://crests.football-data.org/351.png"
+                "name": "Middlesbrough FC",
+                "logo": "https://crests.football-data.org/343.png"
             }
         },
         "goals": {
