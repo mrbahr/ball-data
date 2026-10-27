@@ -1,64 +1,8 @@
 [
     {
         "fixture": {
-            "id": 555051,
-            "date": "2026-10-26T22:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Coritiba FBC",
-                "logo": "https://crests.football-data.org/4241.png"
-            },
-            "away": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 555053,
-            "date": "2026-10-26T23:00:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CR Flamengo",
-                "logo": "https://crests.football-data.org/1783.png"
-            },
-            "away": {
-                "name": "CA Mineiro",
-                "logo": "https://crests.football-data.org/1766.png"
-            }
-        },
-        "goals": {
-            "home": 3,
-            "away": 2
-        }
-    },
-    {
-        "fixture": {
-            "id": 558556,
-            "date": "2026-10-27T17:30:00+00:00",
+            "id": 558550,
+            "date": "2026-10-28T17:30:00+00:00",
             "status": {
                 "short": "NS"
             }
@@ -70,12 +14,12 @@
         },
         "teams": {
             "home": {
-                "name": "US Sassuolo Calcio",
-                "logo": "https://crests.football-data.org/471.png"
+                "name": "Venezia FC",
+                "logo": "https://crests.football-data.org/454.png"
             },
             "away": {
-                "name": "SS Lazio",
-                "logo": "https://crests.football-data.org/110.png"
+                "name": "FC Internazionale Milano",
+                "logo": "https://crests.football-data.org/108.png"
             }
         },
         "goals": {
@@ -85,8 +29,8 @@
     },
     {
         "fixture": {
-            "id": 558555,
-            "date": "2026-10-27T19:45:00+00:00",
+            "id": 558553,
+            "date": "2026-10-28T17:30:00+00:00",
             "status": {
                 "short": "NS"
             }
@@ -98,12 +42,12 @@
         },
         "teams": {
             "home": {
-                "name": "AS Roma",
-                "logo": "https://crests.football-data.org/100.png"
+                "name": "Parma Calcio 1913",
+                "logo": "https://crests.football-data.org/112.png"
             },
             "away": {
-                "name": "Cagliari Calcio",
-                "logo": "https://crests.football-data.org/104.png"
+                "name": "Udinese Calcio",
+                "logo": "https://crests.football-data.org/115.png"
             }
         },
         "goals": {
@@ -113,8 +57,8 @@
     },
     {
         "fixture": {
-            "id": 558557,
-            "date": "2026-10-27T19:45:00+00:00",
+            "id": 558549,
+            "date": "2026-10-28T17:30:00+00:00",
             "status": {
                 "short": "NS"
             }
@@ -126,12 +70,68 @@
         },
         "teams": {
             "home": {
-                "name": "Torino FC",
-                "logo": "https://crests.football-data.org/586.png"
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
             },
             "away": {
-                "name": "Como 1907",
-                "logo": "https://crests.football-data.org/7397.png"
+                "name": "Bologna FC 1909",
+                "logo": "https://crests.football-data.org/103.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558552,
+            "date": "2026-10-28T19:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Genoa CFC",
+                "logo": "https://crests.football-data.org/107.png"
+            },
+            "away": {
+                "name": "Juventus FC",
+                "logo": "https://crests.football-data.org/109.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558554,
+            "date": "2026-10-28T19:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AC Monza",
+                "logo": "https://crests.football-data.org/5911.png"
+            },
+            "away": {
+                "name": "SSC Napoli",
+                "logo": "https://crests.football-data.org/113.png"
             }
         },
         "goals": {
