@@ -1,38 +1,10 @@
 [
     {
         "fixture": {
-            "id": 558549,
-            "date": "2026-10-28T17:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
-            },
-            "away": {
-                "name": "Bologna FC 1909",
-                "logo": "https://crests.football-data.org/103.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558553,
             "date": "2026-10-28T17:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -60,7 +32,7 @@
             "id": 558550,
             "date": "2026-10-28T17:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -79,8 +51,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 558549,
+            "date": "2026-10-28T17:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
+            },
+            "away": {
+                "name": "Bologna FC 1909",
+                "logo": "https://crests.football-data.org/103.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
         }
     },
     {
