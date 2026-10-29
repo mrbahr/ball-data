@@ -1,10 +1,38 @@
 [
     {
         "fixture": {
+            "id": 555062,
+            "date": "2026-10-28T22:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
+            },
+            "away": {
+                "name": "Chapecoense AF",
+                "logo": "https://crests.football-data.org/1772_large.png"
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
             "id": 555065,
             "date": "2026-10-28T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,8 +51,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -32,7 +60,7 @@
             "id": 555068,
             "date": "2026-10-28T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -57,66 +85,10 @@
     },
     {
         "fixture": {
-            "id": 555062,
-            "date": "2026-10-28T22:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            },
-            "away": {
-                "name": "Chapecoense AF",
-                "logo": "https://crests.football-data.org/1772_large.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
-            "id": 555061,
-            "date": "2026-10-29T00:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Bahia",
-                "logo": "https://crests.football-data.org/1777.png"
-            },
-            "away": {
-                "name": "São Paulo FC",
-                "logo": "https://crests.football-data.org/1776.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 555067,
             "date": "2026-10-29T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -135,8 +107,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 555061,
+            "date": "2026-10-29T00:30:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "EC Bahia",
+                "logo": "https://crests.football-data.org/1777.png"
+            },
+            "away": {
+                "name": "São Paulo FC",
+                "logo": "https://crests.football-data.org/1776.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
         }
     },
     {
