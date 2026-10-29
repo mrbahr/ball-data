@@ -1,7 +1,7 @@
 [
     {
         "fixture": {
-            "id": 555062,
+            "id": 555065,
             "date": "2026-10-28T22:30:00+00:00",
             "status": {
                 "short": "FT"
@@ -14,17 +14,17 @@
         },
         "teams": {
             "home": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
+                "name": "Fluminense FC",
+                "logo": "https://crests.football-data.org/1765.png"
             },
             "away": {
-                "name": "Chapecoense AF",
-                "logo": "https://crests.football-data.org/1772_large.png"
+                "name": "SC Internacional",
+                "logo": "https://crests.football-data.org/6684.png"
             }
         },
         "goals": {
-            "home": 3,
-            "away": 0
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -57,7 +57,7 @@
     },
     {
         "fixture": {
-            "id": 555065,
+            "id": 555062,
             "date": "2026-10-28T22:30:00+00:00",
             "status": {
                 "short": "FT"
@@ -70,45 +70,17 @@
         },
         "teams": {
             "home": {
-                "name": "Fluminense FC",
-                "logo": "https://crests.football-data.org/1765.png"
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
             },
             "away": {
-                "name": "SC Internacional",
-                "logo": "https://crests.football-data.org/6684.png"
+                "name": "Chapecoense AF",
+                "logo": "https://crests.football-data.org/1772_large.png"
             }
         },
         "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
-            "id": 555067,
-            "date": "2026-10-29T00:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Clube do Remo",
-                "logo": "https://crests.football-data.org/4287.png"
-            },
-            "away": {
-                "name": "Botafogo FR",
-                "logo": "https://crests.football-data.org/1770.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -141,10 +113,38 @@
     },
     {
         "fixture": {
+            "id": 555067,
+            "date": "2026-10-29T00:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Clube do Remo",
+                "logo": "https://crests.football-data.org/4287.png"
+            },
+            "away": {
+                "name": "Botafogo FR",
+                "logo": "https://crests.football-data.org/1770.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
             "id": 558558,
             "date": "2026-10-29T17:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -163,8 +163,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 5,
+            "away": 1
         }
     },
     {
@@ -172,7 +172,7 @@
             "id": 558551,
             "date": "2026-10-29T19:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -191,8 +191,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     }
 ]
