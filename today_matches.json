@@ -337,6 +337,34 @@
     },
     {
         "fixture": {
+            "id": 561909,
+            "date": "2026-10-31T15:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Bolton Wanderers FC",
+                "logo": "https://crests.football-data.org/60.png"
+            },
+            "away": {
+                "name": "Bristol City FC",
+                "logo": "https://crests.football-data.org/387.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 561905,
             "date": "2026-10-31T15:00:00+00:00",
             "status": {
@@ -524,34 +552,6 @@
             "away": {
                 "name": "Sunderland AFC",
                 "logo": "https://crests.football-data.org/71.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 561909,
-            "date": "2026-10-31T15:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Bolton Wanderers FC",
-                "logo": "https://crests.football-data.org/60.png"
-            },
-            "away": {
-                "name": "Bristol City FC",
-                "logo": "https://crests.football-data.org/387.png"
             }
         },
         "goals": {
