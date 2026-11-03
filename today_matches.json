@@ -29,38 +29,10 @@
     },
     {
         "fixture": {
-            "id": 575377,
-            "date": "2026-11-03T17:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "FK Shakhtar Donetsk",
-                "logo": "https://crests.football-data.org/1887.png"
-            },
-            "away": {
-                "name": "Sporting Clube de Portugal",
-                "logo": "https://crests.football-data.org/498.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 575378,
             "date": "2026-11-03T17:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -79,16 +51,44 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         }
     },
     {
         "fixture": {
-            "id": 561920,
+            "id": 575377,
+            "date": "2026-11-03T17:45:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "FK Shakhtar Donetsk",
+                "logo": "https://crests.football-data.org/1887.png"
+            },
+            "away": {
+                "name": "Sporting Clube de Portugal",
+                "logo": "https://crests.football-data.org/498.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 561921,
             "date": "2026-11-03T19:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -98,25 +98,25 @@
         },
         "teams": {
             "home": {
-                "name": "Queens Park Rangers FC",
-                "logo": "https://crests.football-data.org/69.png"
+                "name": "Derby County FC",
+                "logo": "https://crests.football-data.org/342.png"
             },
             "away": {
-                "name": "Burnley FC",
-                "logo": "https://crests.football-data.org/328.png"
+                "name": "Norwich City FC",
+                "logo": "https://crests.football-data.org/68.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 4
         }
     },
     {
         "fixture": {
-            "id": 561922,
+            "id": 561919,
             "date": "2026-11-03T19:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -126,73 +126,17 @@
         },
         "teams": {
             "home": {
-                "name": "Blackburn Rovers FC",
-                "logo": "https://crests.football-data.org/59.png"
+                "name": "Preston North End FC",
+                "logo": "https://crests.football-data.org/1081.png"
             },
             "away": {
-                "name": "Stoke City FC",
-                "logo": "https://crests.football-data.org/70.png"
+                "name": "Sheffield United FC",
+                "logo": "https://crests.football-data.org/356.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 561918,
-            "date": "2026-11-03T19:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Portsmouth FC",
-                "logo": "https://crests.football-data.org/325.png"
-            },
-            "away": {
-                "name": "Swansea City AFC",
-                "logo": "https://crests.football-data.org/72.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 561924,
-            "date": "2026-11-03T19:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Championship",
-            "country": "England",
-            "logo": "https://crests.football-data.org/ELC.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Watford FC",
-                "logo": "https://crests.football-data.org/346.png"
-            },
-            "away": {
-                "name": "Lincoln City FC",
-                "logo": "https://crests.football-data.org/1126.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 3
         }
     },
     {
@@ -219,13 +163,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         }
     },
     {
         "fixture": {
-            "id": 561921,
+            "id": 561922,
             "date": "2026-11-03T19:45:00+00:00",
             "status": {
                 "short": "NS"
@@ -238,22 +182,22 @@
         },
         "teams": {
             "home": {
-                "name": "Derby County FC",
-                "logo": "https://crests.football-data.org/342.png"
+                "name": "Blackburn Rovers FC",
+                "logo": "https://crests.football-data.org/59.png"
             },
             "away": {
-                "name": "Norwich City FC",
-                "logo": "https://crests.football-data.org/68.png"
+                "name": "Stoke City FC",
+                "logo": "https://crests.football-data.org/70.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         }
     },
     {
         "fixture": {
-            "id": 561919,
+            "id": 561918,
             "date": "2026-11-03T19:45:00+00:00",
             "status": {
                 "short": "NS"
@@ -266,157 +210,73 @@
         },
         "teams": {
             "home": {
-                "name": "Preston North End FC",
-                "logo": "https://crests.football-data.org/1081.png"
+                "name": "Portsmouth FC",
+                "logo": "https://crests.football-data.org/325.png"
             },
             "away": {
-                "name": "Sheffield United FC",
-                "logo": "https://crests.football-data.org/356.png"
+                "name": "Swansea City AFC",
+                "logo": "https://crests.football-data.org/72.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
         "fixture": {
-            "id": 575383,
-            "date": "2026-11-03T20:00:00+00:00",
+            "id": 561924,
+            "date": "2026-11-03T19:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
         },
         "teams": {
             "home": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
+                "name": "Watford FC",
+                "logo": "https://crests.football-data.org/346.png"
             },
             "away": {
-                "name": "AS Roma",
-                "logo": "https://crests.football-data.org/100.png"
+                "name": "Lincoln City FC",
+                "logo": "https://crests.football-data.org/1126.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         }
     },
     {
         "fixture": {
-            "id": 575379,
-            "date": "2026-11-03T20:00:00+00:00",
+            "id": 561920,
+            "date": "2026-11-03T19:45:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
+            "name": "Championship",
+            "country": "England",
+            "logo": "https://crests.football-data.org/ELC.png"
         },
         "teams": {
             "home": {
-                "name": "Feyenoord Rotterdam",
-                "logo": "https://crests.football-data.org/675.png"
+                "name": "Queens Park Rangers FC",
+                "logo": "https://crests.football-data.org/69.png"
             },
             "away": {
-                "name": "FC Internazionale Milano",
-                "logo": "https://crests.football-data.org/108.png"
+                "name": "Burnley FC",
+                "logo": "https://crests.football-data.org/328.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575385,
-            "date": "2026-11-03T20:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "LASK Linz",
-                "logo": "https://crests.football-data.org/2016.png"
-            },
-            "away": {
-                "name": "ŠK Slovan Bratislava",
-                "logo": "https://crests.football-data.org/7509.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575381,
-            "date": "2026-11-03T20:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Club Atlético de Madrid",
-                "logo": "https://crests.football-data.org/78.png"
-            },
-            "away": {
-                "name": "FC Bayern München",
-                "logo": "https://crests.football-data.org/5.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 575382,
-            "date": "2026-11-03T20:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "UEFA Champions League",
-            "country": "Europe",
-            "logo": "https://crests.football-data.org/CL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Villarreal CF",
-                "logo": "https://crests.football-data.org/94.png"
-            },
-            "away": {
-                "name": "Paris Saint-Germain FC",
-                "logo": "https://crests.football-data.org/524.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         }
     },
     {
@@ -424,7 +284,7 @@
             "id": 575384,
             "date": "2026-11-03T20:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -443,8 +303,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         }
     },
     {
@@ -471,8 +331,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -480,7 +340,7 @@
             "id": 575380,
             "date": "2026-11-03T20:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -499,8 +359,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 3,
+            "away": 0
         }
     },
     {
@@ -527,8 +387,148 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 575382,
+            "date": "2026-11-03T20:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Villarreal CF",
+                "logo": "https://crests.football-data.org/94.png"
+            },
+            "away": {
+                "name": "Paris Saint-Germain FC",
+                "logo": "https://crests.football-data.org/524.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 6
+        }
+    },
+    {
+        "fixture": {
+            "id": 575383,
+            "date": "2026-11-03T20:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
+            },
+            "away": {
+                "name": "AS Roma",
+                "logo": "https://crests.football-data.org/100.png"
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 2
+        }
+    },
+    {
+        "fixture": {
+            "id": 575379,
+            "date": "2026-11-03T20:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Feyenoord Rotterdam",
+                "logo": "https://crests.football-data.org/675.png"
+            },
+            "away": {
+                "name": "FC Internazionale Milano",
+                "logo": "https://crests.football-data.org/108.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 3
+        }
+    },
+    {
+        "fixture": {
+            "id": 575385,
+            "date": "2026-11-03T20:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "LASK Linz",
+                "logo": "https://crests.football-data.org/2016.png"
+            },
+            "away": {
+                "name": "ŠK Slovan Bratislava",
+                "logo": "https://crests.football-data.org/7509.png"
+            }
+        },
+        "goals": {
+            "home": 4,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 575381,
+            "date": "2026-11-03T20:00:00+00:00",
+            "status": {
+                "short": "LIVE"
+            }
+        },
+        "league": {
+            "name": "UEFA Champions League",
+            "country": "Europe",
+            "logo": "https://crests.football-data.org/CL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Club Atlético de Madrid",
+                "logo": "https://crests.football-data.org/78.png"
+            },
+            "away": {
+                "name": "FC Bayern München",
+                "logo": "https://crests.football-data.org/5.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
         }
     }
 ]
