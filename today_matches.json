@@ -32,7 +32,7 @@
             "id": 555074,
             "date": "2026-11-06T00:30:00+00:00",
             "status": {
-                "short": "FT"
+                "short": "LIVE"
             }
         },
         "league": {
@@ -51,8 +51,8 @@
             }
         },
         "goals": {
-            "home": 3,
-            "away": 2
+            "home": 0,
+            "away": 1
         }
     },
     {
@@ -113,34 +113,6 @@
     },
     {
         "fixture": {
-            "id": 559638,
-            "date": "2026-11-06T19:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Toulouse FC",
-                "logo": "https://crests.football-data.org/511.png"
-            },
-            "away": {
-                "name": "RC Strasbourg Alsace",
-                "logo": "https://crests.football-data.org/576.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558537,
             "date": "2026-11-06T19:45:00+00:00",
             "status": {
@@ -169,25 +141,53 @@
     },
     {
         "fixture": {
-            "id": 560634,
+            "id": 559638,
+            "date": "2026-11-06T19:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Toulouse FC",
+                "logo": "https://crests.football-data.org/511.png"
+            },
+            "away": {
+                "name": "RC Strasbourg Alsace",
+                "logo": "https://crests.football-data.org/576.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564740,
             "date": "2026-11-06T20:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
         },
         "teams": {
             "home": {
-                "name": "Everton FC",
-                "logo": "https://crests.football-data.org/62.png"
+                "name": "Sevilla FC",
+                "logo": "https://crests.football-data.org/559.png"
             },
             "away": {
-                "name": "Coventry City FC",
-                "logo": "https://crests.football-data.org/1076.png"
+                "name": "Deportivo Alavés",
+                "logo": "https://crests.football-data.org/263.png"
             }
         },
         "goals": {
@@ -225,25 +225,25 @@
     },
     {
         "fixture": {
-            "id": 564740,
+            "id": 560634,
             "date": "2026-11-06T20:00:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
         },
         "teams": {
             "home": {
-                "name": "Sevilla FC",
-                "logo": "https://crests.football-data.org/559.png"
+                "name": "Everton FC",
+                "logo": "https://crests.football-data.org/62.png"
             },
             "away": {
-                "name": "Deportivo Alavés",
-                "logo": "https://crests.football-data.org/263.png"
+                "name": "Coventry City FC",
+                "logo": "https://crests.football-data.org/1076.png"
             }
         },
         "goals": {
