@@ -1,6 +1,34 @@
 [
     {
         "fixture": {
+            "id": 567348,
+            "date": "2026-11-08T00:00:00+00:00",
+            "status": {
+                "short": "PST"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "GD Estoril Praia",
+                "logo": "https://crests.football-data.org/582.png"
+            },
+            "away": {
+                "name": "CS Marítimo",
+                "logo": "https://crests.football-data.org/5575.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
             "id": 558840,
             "date": "2026-11-08T11:15:00+00:00",
             "status": {
@@ -113,35 +141,7 @@
     },
     {
         "fixture": {
-            "id": 560635,
-            "date": "2026-11-08T14:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Crystal Palace FC",
-                "logo": "https://crests.football-data.org/354.png"
-            },
-            "away": {
-                "name": "Liverpool FC",
-                "logo": "https://crests.football-data.org/64.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 558536,
+            "id": 558538,
             "date": "2026-11-08T14:00:00+00:00",
             "status": {
                 "short": "NS"
@@ -154,12 +154,68 @@
         },
         "teams": {
             "home": {
-                "name": "Genoa CFC",
-                "logo": "https://crests.football-data.org/107.png"
+                "name": "AC Monza",
+                "logo": "https://crests.football-data.org/5911.png"
             },
             "away": {
-                "name": "AC Milan",
-                "logo": "https://crests.football-data.org/98.png"
+                "name": "Atalanta BC",
+                "logo": "https://crests.football-data.org/102.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560638,
+            "date": "2026-11-08T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Brighton & Hove Albion FC",
+                "logo": "https://crests.football-data.org/397.png"
+            },
+            "away": {
+                "name": "Brentford FC",
+                "logo": "https://crests.football-data.org/402.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560636,
+            "date": "2026-11-08T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Sunderland AFC",
+                "logo": "https://crests.football-data.org/71.png"
+            },
+            "away": {
+                "name": "Chelsea FC",
+                "logo": "https://crests.football-data.org/61.png"
             }
         },
         "goals": {
@@ -225,7 +281,7 @@
     },
     {
         "fixture": {
-            "id": 560636,
+            "id": 560635,
             "date": "2026-11-08T14:00:00+00:00",
             "status": {
                 "short": "NS"
@@ -238,12 +294,12 @@
         },
         "teams": {
             "home": {
-                "name": "Sunderland AFC",
-                "logo": "https://crests.football-data.org/71.png"
+                "name": "Crystal Palace FC",
+                "logo": "https://crests.football-data.org/354.png"
             },
             "away": {
-                "name": "Chelsea FC",
-                "logo": "https://crests.football-data.org/61.png"
+                "name": "Liverpool FC",
+                "logo": "https://crests.football-data.org/64.png"
             }
         },
         "goals": {
@@ -253,7 +309,7 @@
     },
     {
         "fixture": {
-            "id": 558538,
+            "id": 558536,
             "date": "2026-11-08T14:00:00+00:00",
             "status": {
                 "short": "NS"
@@ -266,40 +322,12 @@
         },
         "teams": {
             "home": {
-                "name": "AC Monza",
-                "logo": "https://crests.football-data.org/5911.png"
+                "name": "Genoa CFC",
+                "logo": "https://crests.football-data.org/107.png"
             },
             "away": {
-                "name": "Atalanta BC",
-                "logo": "https://crests.football-data.org/102.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 560638,
-            "date": "2026-11-08T14:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Brighton & Hove Albion FC",
-                "logo": "https://crests.football-data.org/397.png"
-            },
-            "away": {
-                "name": "Brentford FC",
-                "logo": "https://crests.football-data.org/402.png"
+                "name": "AC Milan",
+                "logo": "https://crests.football-data.org/98.png"
             }
         },
         "goals": {
@@ -365,34 +393,6 @@
     },
     {
         "fixture": {
-            "id": 567348,
-            "date": "2026-11-08T15:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "GD Estoril Praia",
-                "logo": "https://crests.football-data.org/582.png"
-            },
-            "away": {
-                "name": "CS Marítimo",
-                "logo": "https://crests.football-data.org/5575.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567351,
             "date": "2026-11-08T15:30:00+00:00",
             "status": {
@@ -412,6 +412,62 @@
             "away": {
                 "name": "Gil Vicente FC",
                 "logo": "https://crests.football-data.org/5533.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567352,
+            "date": "2026-11-08T15:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CD Nacional",
+                "logo": "https://crests.football-data.org/5529.png"
+            },
+            "away": {
+                "name": "Académico de Viseu FC",
+                "logo": "https://crests.football-data.org/5527.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 558837,
+            "date": "2026-11-08T15:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
+        },
+        "teams": {
+            "home": {
+                "name": "AZ",
+                "logo": "https://crests.football-data.org/682.png"
+            },
+            "away": {
+                "name": "FC Groningen",
+                "logo": "https://crests.football-data.org/677.png"
             }
         },
         "goals": {
@@ -449,35 +505,7 @@
     },
     {
         "fixture": {
-            "id": 558837,
-            "date": "2026-11-08T15:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "AZ",
-                "logo": "https://crests.football-data.org/682.png"
-            },
-            "away": {
-                "name": "FC Groningen",
-                "logo": "https://crests.football-data.org/677.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 559634,
+            "id": 559631,
             "date": "2026-11-08T16:15:00+00:00",
             "status": {
                 "short": "NS"
@@ -490,40 +518,12 @@
         },
         "teams": {
             "home": {
-                "name": "Angers SCO",
-                "logo": "https://crests.football-data.org/532.png"
+                "name": "Le Mans FC",
+                "logo": "https://crests.football-data.org/535.png"
             },
             "away": {
-                "name": "OGC Nice",
-                "logo": "https://crests.football-data.org/522.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 559632,
-            "date": "2026-11-08T16:15:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Stade Brestois 29",
-                "logo": "https://crests.football-data.org/512.png"
-            },
-            "away": {
-                "name": "Olympique Lyonnais",
-                "logo": "https://crests.football-data.org/523.png"
+                "name": "AS Monaco FC",
+                "logo": "https://crests.football-data.org/548.png"
             }
         },
         "goals": {
@@ -561,7 +561,7 @@
     },
     {
         "fixture": {
-            "id": 559631,
+            "id": 559632,
             "date": "2026-11-08T16:15:00+00:00",
             "status": {
                 "short": "NS"
@@ -574,12 +574,40 @@
         },
         "teams": {
             "home": {
-                "name": "Le Mans FC",
-                "logo": "https://crests.football-data.org/535.png"
+                "name": "Stade Brestois 29",
+                "logo": "https://crests.football-data.org/512.png"
             },
             "away": {
-                "name": "AS Monaco FC",
-                "logo": "https://crests.football-data.org/548.png"
+                "name": "Olympique Lyonnais",
+                "logo": "https://crests.football-data.org/523.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 559634,
+            "date": "2026-11-08T16:15:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Angers SCO",
+                "logo": "https://crests.football-data.org/532.png"
+            },
+            "away": {
+                "name": "OGC Nice",
+                "logo": "https://crests.football-data.org/522.png"
             }
         },
         "goals": {
@@ -673,34 +701,6 @@
     },
     {
         "fixture": {
-            "id": 564742,
-            "date": "2026-11-08T17:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "La Liga",
-            "country": "Spain",
-            "logo": "https://crests.football-data.org/laliga.png"
-        },
-        "teams": {
-            "home": {
-                "name": "RC Celta de Vigo",
-                "logo": "https://crests.football-data.org/558.png"
-            },
-            "away": {
-                "name": "Levante UD",
-                "logo": "https://crests.football-data.org/88.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 564747,
             "date": "2026-11-08T17:30:00+00:00",
             "status": {
@@ -720,6 +720,34 @@
             "away": {
                 "name": "Getafe CF",
                 "logo": "https://crests.football-data.org/82.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 564742,
+            "date": "2026-11-08T17:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "La Liga",
+            "country": "Spain",
+            "logo": "https://crests.football-data.org/laliga.png"
+        },
+        "teams": {
+            "home": {
+                "name": "RC Celta de Vigo",
+                "logo": "https://crests.football-data.org/558.png"
+            },
+            "away": {
+                "name": "Levante UD",
+                "logo": "https://crests.football-data.org/88.png"
             }
         },
         "goals": {
@@ -813,34 +841,6 @@
     },
     {
         "fixture": {
-            "id": 559630,
-            "date": "2026-11-08T19:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Racing Club de Lens",
-                "logo": "https://crests.football-data.org/546.png"
-            },
-            "away": {
-                "name": "Olympique de Marseille",
-                "logo": "https://crests.football-data.org/516.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558529,
             "date": "2026-11-08T19:45:00+00:00",
             "status": {
@@ -860,6 +860,34 @@
             "away": {
                 "name": "Juventus FC",
                 "logo": "https://crests.football-data.org/109.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 559630,
+            "date": "2026-11-08T19:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Racing Club de Lens",
+                "logo": "https://crests.football-data.org/546.png"
+            },
+            "away": {
+                "name": "Olympique de Marseille",
+                "logo": "https://crests.football-data.org/516.png"
             }
         },
         "goals": {
@@ -897,34 +925,6 @@
     },
     {
         "fixture": {
-            "id": 567355,
-            "date": "2026-11-08T20:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Primeira Liga",
-            "country": "Portugal",
-            "logo": "https://crests.football-data.org/PPL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "CF Estrela da Amadora",
-                "logo": "https://crests.football-data.org/9136.png"
-            },
-            "away": {
-                "name": "Sport Lisboa e Benfica",
-                "logo": "https://crests.football-data.org/1903.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 567354,
             "date": "2026-11-08T20:30:00+00:00",
             "status": {
@@ -944,6 +944,34 @@
             "away": {
                 "name": "Sporting Clube de Braga",
                 "logo": "https://crests.football-data.org/5613.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 567355,
+            "date": "2026-11-08T20:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Primeira Liga",
+            "country": "Portugal",
+            "logo": "https://crests.football-data.org/PPL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "CF Estrela da Amadora",
+                "logo": "https://crests.football-data.org/9136.png"
+            },
+            "away": {
+                "name": "Sport Lisboa e Benfica",
+                "logo": "https://crests.football-data.org/1903.png"
             }
         },
         "goals": {
