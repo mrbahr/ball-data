@@ -4,7 +4,7 @@
             "id": 555081,
             "date": "2026-11-18T22:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -24,7 +24,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         }
     },
     {
@@ -32,7 +32,7 @@
             "id": 555086,
             "date": "2026-11-18T23:00:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -57,38 +57,10 @@
     },
     {
         "fixture": {
-            "id": 555082,
-            "date": "2026-11-18T23:30:00+00:00",
-            "status": {
-                "short": "LIVE"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Cruzeiro EC",
-                "logo": "https://crests.football-data.org/1771.png"
-            },
-            "away": {
-                "name": "SE Palmeiras",
-                "logo": "https://crests.football-data.org/1769.png"
-            }
-        },
-        "goals": {
-            "home": 0,
-            "away": 0
-        }
-    },
-    {
-        "fixture": {
             "id": 555083,
             "date": "2026-11-18T23:30:00+00:00",
             "status": {
-                "short": "LIVE"
+                "short": "FT"
             }
         },
         "league": {
@@ -113,10 +85,10 @@
     },
     {
         "fixture": {
-            "id": 555084,
-            "date": "2026-11-19T00:30:00+00:00",
+            "id": 555082,
+            "date": "2026-11-18T23:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -126,17 +98,17 @@
         },
         "teams": {
             "home": {
-                "name": "Grêmio FBPA",
-                "logo": "https://crests.football-data.org/1767.png"
+                "name": "Cruzeiro EC",
+                "logo": "https://crests.football-data.org/1771.png"
             },
             "away": {
-                "name": "EC Bahia",
-                "logo": "https://crests.football-data.org/1777.png"
+                "name": "SE Palmeiras",
+                "logo": "https://crests.football-data.org/1769.png"
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 1
         }
     },
     {
@@ -144,7 +116,7 @@
             "id": 555080,
             "date": "2026-11-19T00:30:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -163,8 +135,36 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 4,
+            "away": 0
+        }
+    },
+    {
+        "fixture": {
+            "id": 555084,
+            "date": "2026-11-19T00:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Grêmio FBPA",
+                "logo": "https://crests.football-data.org/1767.png"
+            },
+            "away": {
+                "name": "EC Bahia",
+                "logo": "https://crests.football-data.org/1777.png"
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
         }
     }
 ]
