@@ -1,34 +1,6 @@
 [
     {
         "fixture": {
-            "id": 555089,
-            "date": "2026-11-19T22:30:00+00:00",
-            "status": {
-                "short": "FT"
-            }
-        },
-        "league": {
-            "name": "Campeonato Brasileiro Série A",
-            "country": "Brazil",
-            "logo": "https://crests.football-data.org/bsa.png"
-        },
-        "teams": {
-            "home": {
-                "name": "EC Vitória",
-                "logo": "https://crests.football-data.org/1782.png"
-            },
-            "away": {
-                "name": "RB Bragantino",
-                "logo": "https://crests.football-data.org/4286.png"
-            }
-        },
-        "goals": {
-            "home": 2,
-            "away": 1
-        }
-    },
-    {
-        "fixture": {
             "id": 555088,
             "date": "2026-11-19T22:30:00+00:00",
             "status": {
@@ -48,6 +20,34 @@
             "away": {
                 "name": "SC Internacional",
                 "logo": "https://crests.football-data.org/6684.png"
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 1
+        }
+    },
+    {
+        "fixture": {
+            "id": 555089,
+            "date": "2026-11-19T22:30:00+00:00",
+            "status": {
+                "short": "FT"
+            }
+        },
+        "league": {
+            "name": "Campeonato Brasileiro Série A",
+            "country": "Brazil",
+            "logo": "https://crests.football-data.org/bsa.png"
+        },
+        "teams": {
+            "home": {
+                "name": "EC Vitória",
+                "logo": "https://crests.football-data.org/1782.png"
+            },
+            "away": {
+                "name": "RB Bragantino",
+                "logo": "https://crests.football-data.org/4286.png"
             }
         },
         "goals": {
