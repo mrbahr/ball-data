@@ -4,7 +4,7 @@
             "id": 555095,
             "date": "2026-11-22T00:00:00+00:00",
             "status": {
-                "short": "NS"
+                "short": "FT"
             }
         },
         "league": {
@@ -23,8 +23,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         }
     },
     {
@@ -141,34 +141,6 @@
     },
     {
         "fixture": {
-            "id": 558830,
-            "date": "2026-11-22T13:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Eredivisie",
-            "country": "Netherlands",
-            "logo": "https://crests.football-data.org/ED.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Sparta Rotterdam",
-                "logo": "https://crests.football-data.org/6806.png"
-            },
-            "away": {
-                "name": "AZ",
-                "logo": "https://crests.football-data.org/682.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558836,
             "date": "2026-11-22T13:30:00+00:00",
             "status": {
@@ -197,53 +169,25 @@
     },
     {
         "fixture": {
-            "id": 559625,
-            "date": "2026-11-22T14:00:00+00:00",
+            "id": 558830,
+            "date": "2026-11-22T13:30:00+00:00",
             "status": {
                 "short": "NS"
             }
         },
         "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
+            "name": "Eredivisie",
+            "country": "Netherlands",
+            "logo": "https://crests.football-data.org/ED.png"
         },
         "teams": {
             "home": {
-                "name": "Paris FC",
-                "logo": "https://crests.football-data.org/1045.png"
+                "name": "Sparta Rotterdam",
+                "logo": "https://crests.football-data.org/6806.png"
             },
             "away": {
-                "name": "Angers SCO",
-                "logo": "https://crests.football-data.org/532.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
-            "id": 558524,
-            "date": "2026-11-22T14:00:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Serie A",
-            "country": "Italy",
-            "logo": "https://crests.football-data.org/c111.png"
-        },
-        "teams": {
-            "home": {
-                "name": "US Sassuolo Calcio",
-                "logo": "https://crests.football-data.org/471.png"
-            },
-            "away": {
-                "name": "Genoa CFC",
-                "logo": "https://crests.football-data.org/107.png"
+                "name": "AZ",
+                "logo": "https://crests.football-data.org/682.png"
             }
         },
         "goals": {
@@ -300,6 +244,62 @@
             "away": {
                 "name": "Udinese Calcio",
                 "logo": "https://crests.football-data.org/115.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 558524,
+            "date": "2026-11-22T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Serie A",
+            "country": "Italy",
+            "logo": "https://crests.football-data.org/c111.png"
+        },
+        "teams": {
+            "home": {
+                "name": "US Sassuolo Calcio",
+                "logo": "https://crests.football-data.org/471.png"
+            },
+            "away": {
+                "name": "Genoa CFC",
+                "logo": "https://crests.football-data.org/107.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 559625,
+            "date": "2026-11-22T14:00:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Paris FC",
+                "logo": "https://crests.football-data.org/1045.png"
+            },
+            "away": {
+                "name": "Angers SCO",
+                "logo": "https://crests.football-data.org/532.png"
             }
         },
         "goals": {
@@ -421,34 +421,6 @@
     },
     {
         "fixture": {
-            "id": 560645,
-            "date": "2026-11-22T16:30:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Premier League",
-            "country": "England",
-            "logo": "https://crests.football-data.org/PL.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Liverpool FC",
-                "logo": "https://crests.football-data.org/64.png"
-            },
-            "away": {
-                "name": "Manchester United FC",
-                "logo": "https://crests.football-data.org/66.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 565863,
             "date": "2026-11-22T16:30:00+00:00",
             "status": {
@@ -468,6 +440,34 @@
             "away": {
                 "name": "Hamburger SV",
                 "logo": "https://crests.football-data.org/7.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 560645,
+            "date": "2026-11-22T16:30:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://crests.football-data.org/PL.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Liverpool FC",
+                "logo": "https://crests.football-data.org/64.png"
+            },
+            "away": {
+                "name": "Manchester United FC",
+                "logo": "https://crests.football-data.org/66.png"
             }
         },
         "goals": {
@@ -561,34 +561,6 @@
     },
     {
         "fixture": {
-            "id": 559629,
-            "date": "2026-11-22T19:45:00+00:00",
-            "status": {
-                "short": "NS"
-            }
-        },
-        "league": {
-            "name": "Ligue 1",
-            "country": "France",
-            "logo": "https://crests.football-data.org/FL1.png"
-        },
-        "teams": {
-            "home": {
-                "name": "Olympique de Marseille",
-                "logo": "https://crests.football-data.org/516.png"
-            },
-            "away": {
-                "name": "Le Mans FC",
-                "logo": "https://crests.football-data.org/535.png"
-            }
-        },
-        "goals": {
-            "home": null,
-            "away": null
-        }
-    },
-    {
-        "fixture": {
             "id": 558520,
             "date": "2026-11-22T19:45:00+00:00",
             "status": {
@@ -608,6 +580,34 @@
             "away": {
                 "name": "FC Internazionale Milano",
                 "logo": "https://crests.football-data.org/108.png"
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        }
+    },
+    {
+        "fixture": {
+            "id": 559629,
+            "date": "2026-11-22T19:45:00+00:00",
+            "status": {
+                "short": "NS"
+            }
+        },
+        "league": {
+            "name": "Ligue 1",
+            "country": "France",
+            "logo": "https://crests.football-data.org/FL1.png"
+        },
+        "teams": {
+            "home": {
+                "name": "Olympique de Marseille",
+                "logo": "https://crests.football-data.org/516.png"
+            },
+            "away": {
+                "name": "Le Mans FC",
+                "logo": "https://crests.football-data.org/535.png"
             }
         },
         "goals": {
